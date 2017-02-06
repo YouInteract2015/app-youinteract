@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinectApp>
+	<Themes>
+		<Entry>
+			<Theme_id>1</Theme_id>
+			<Theme_name>Theme1</Theme_name>
+			<Active>True</Active>
+			<Theme_font>N/A</Theme_font>
+		</Entry>
+		<Entry>
+			<Theme_id>2</Theme_id>
+			<Theme_name>ThemeTest</Theme_name>
+			<Active>False</Active>
+			<Theme_font>Calibri</Theme_font>
+		</Entry>
+	</Themes>
+	<Important_dates>
+		<Entry>
+			<Id_usr>001</Id_usr>
+			<Idate>3/12/2014 12:00:00 AM</Idate>
+			<About>dfghusfgwgergqergi</About>
+		</Entry>
+		<Entry>
+			<Id_usr>001</Id_usr>
+			<Idate>3/12/2014 12:00:00 AM</Idate>
+			<About>dfgwgergqergi</About>
+		</Entry>
+	</Important_dates>
+	<Apps>
+		<Entry>
+			<Apps_name>You_Pong</Apps_name>
+			<App_id>1</App_id>
+			<App_desc>You_Pong é um jogo histórico que foi redesenhado para o You_Interact! Este jogo permite jogar em singleplayer ou, caso tenha um amigo, em multiplayer!</App_desc>
+			<Times_played>0</Times_played>
+			<Highscore>1</Highscore>
+			<Active>True</Active>
+			<Ordernumber>0</Ordernumber>
+			<Dll>You_Pong</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Videos</Apps_name>
+			<App_id>2</App_id>
+			<App_desc>You_Videos é uma app onde pode visualizar os seus vídeos favoritos.</App_desc>
+			<Times_played>0</Times_played>
+			<Highscore />
+			<Active>False</Active>
+			<Ordernumber>0</Ordernumber>
+			<Dll>You_Videos</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_TimeTables</Apps_name>
+			<App_id>3</App_id>
+			<App_desc>You_TimeTables é uma aplicação destinada aos alunos para poder visualizar os horários do DETI!</App_desc>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>False</Active>
+			<Ordernumber>0</Ordernumber>
+			<Dll>You_Timetables</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Contacts</Apps_name>
+			<App_id>4</App_id>
+			<App_desc>You_Contacts é uma app indispensável para qualquer aluno! Aqui poderá consultar a informação mais importante sobre todos os seus professores!</App_desc>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>False</Active>
+			<Ordernumber>0</Ordernumber>
+			<Dll>You_Contacts</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_AirPaint</Apps_name>
+			<App_id>7</App_id>
+			<App_desc>You_AirPaint é uma app onde poderá desenhar com as suas próprias mãos! No final, poderá enviar a sua obra de arte via email!</App_desc>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>True</Active>
+			<Ordernumber>0</Ordernumber>
+			<Dll>You_AirPaint</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Weather</Apps_name>
+			<App_id>8</App_id>
+			<App_desc>You_Weather é uma aplicação que permite ver o estado do tempo em qualquer lugar do mundo, usando gestos como interação! Disponibiliza diversa informação como detalhes, previsões do tempo dia-a-dia, hora-a-hora, possibilidade de seleção da localização, etc.</App_desc>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>True</Active>
+			<Ordernumber>0</Ordernumber>
+			<Dll>You_Weather</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Tutorial</Apps_name>
+			<App_id>5</App_id>
+			<App_desc>You_Tutorial é uma aplicação de ajuda para os utilizadores do You_Interact!</App_desc>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>True</Active>
+			<Ordernumber>1</Ordernumber>
+			<Dll>You_Help</Dll>
+		</Entry>
+	</Apps>
+</KinectApp>

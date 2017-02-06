@@ -1,0 +1,41 @@
+﻿<Page x:Class="You_Pong.PongPause"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}"  Cursor="Hand"
+	
+	Title="PongPause" x:Name="YouPongPause">
+
+    <Grid Background="Black">
+        <k:KinectRegion x:Name="YouPongPauseRegion">
+            <Canvas x:Name="PongPauseCanvas">
+                <u:YouButton x:Name="Resume" Click="ButtonOnClick"  BorderBrush="{x:Null}" Foreground="{x:Null}" Background="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_Pong;component\Images\Themes\Theme1\Pong\resume.png" Stretch="Fill"></Image>
+                </u:YouButton>
+
+
+                <u:YouButton x:Name="Quit" Click="ButtonOnClick" Label="Return to Main Menu" BorderBrush="{x:Null}" Foreground="{x:Null}" Background="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_Pong;component\Images\Themes\Theme1\Pong\quit.png" Stretch="Fill"></Image>
+                </u:YouButton>
+
+                <u:YouButton x:Name="Restart" Click="ButtonOnClick" Label="Restart Game" BorderBrush="{x:Null}" Foreground="{x:Null}" Background="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_Pong;component\Images\Themes\Theme1\Pong\restart.png" Stretch="Fill"></Image>
+                </u:YouButton>
+                
+                <Ellipse Name="PBall" Stroke="WhiteSmoke" Fill="Black" Opacity="0.3"/>
+
+                <Rectangle Name="P1" Fill="WhiteSmoke" Opacity="0.3" />
+                <Rectangle Name="P2" Fill="WhiteSmoke" Opacity="0.3"/>
+                
+                <Border Name="pauseblock" BorderBrush="Black" BorderThickness="2" VerticalAlignment="Top" CornerRadius="8" Background="Black" >
+                    <TextBlock Name="PauseMsg" Text="GAME PAUSED" FontSize="60" Background="Transparent" Foreground="White" FontFamily="/You_Pong;component/#Press Start 2P"/>
+                </Border>
+      
+            </Canvas>
+        </k:KinectRegion>
+    </Grid>
+</Page>

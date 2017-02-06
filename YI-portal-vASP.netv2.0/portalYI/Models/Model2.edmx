@@ -1,0 +1,1541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DatabaseModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="generic_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="config_id" Type="int" Nullable="false" />
+          <Property Name="item_id" Type="int" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="priority" Type="int" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="template_id" Type="int" Nullable="false" />
+          <Property Name="scheduler_id" Type="int" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="default" Type="tinyint" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_devices">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="config_id" Type="int" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="location" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="ip" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="file" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="type" Type="tinyint" Nullable="false" />
+          <Property Name="code" Type="ntext" Nullable="false" />
+          <Property Name="preview" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_scheduler_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="item_id" Type="int" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="priority" Type="int" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_scheduler_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="template_id" Type="int" Nullable="false" />
+          <Property Name="scheduler_id" Type="int" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="startat" Type="datetime" Nullable="false" />
+          <Property Name="endat" Type="datetime" Nullable="false" />
+          <Property Name="monday" Type="tinyint" Nullable="false" />
+          <Property Name="tuesday" Type="tinyint" Nullable="false" />
+          <Property Name="wednesday" Type="tinyint" Nullable="false" />
+          <Property Name="thursday" Type="tinyint" Nullable="false" />
+          <Property Name="friday" Type="tinyint" Nullable="false" />
+          <Property Name="saturday" Type="tinyint" Nullable="false" />
+          <Property Name="sunday" Type="tinyint" Nullable="false" />
+          <Property Name="starthour" Type="int" Nullable="false" />
+          <Property Name="endhour" Type="int" Nullable="false" />
+          <Property Name="startminute" Type="int" Nullable="false" />
+          <Property Name="endminute" Type="int" Nullable="false" />
+          <Property Name="startsecond" Type="int" Nullable="false" />
+          <Property Name="endsecond" Type="int" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_scheduler_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="scheduler_id" Type="int" Nullable="false" />
+          <Property Name="config_id" Type="int" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_schedulers">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="generic_templates">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="view" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="preview" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="config_id" Type="int" Nullable="false" />
+          <Property Name="item_id" Type="int" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="priority" Type="int" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="template_id" Type="int" Nullable="false" />
+          <Property Name="scheduler_id" Type="int" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="default" Type="tinyint" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_devices">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="config_id" Type="int" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="location" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="ip" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="dll" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="version" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_items_download">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="device_id" Type="int" Nullable="false" />
+          <Property Name="item_id" Type="int" Nullable="false" />
+          <Property Name="version" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_scheduler_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="file" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="preview" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_scheduler_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="item_id" Type="int" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="startat" Type="datetime" Nullable="false" />
+          <Property Name="endat" Type="datetime" Nullable="false" />
+          <Property Name="monday" Type="tinyint" Nullable="false" />
+          <Property Name="tuesday" Type="tinyint" Nullable="false" />
+          <Property Name="wednesday" Type="tinyint" Nullable="false" />
+          <Property Name="thursday" Type="tinyint" Nullable="false" />
+          <Property Name="friday" Type="tinyint" Nullable="false" />
+          <Property Name="saturday" Type="tinyint" Nullable="false" />
+          <Property Name="sunday" Type="tinyint" Nullable="false" />
+          <Property Name="starthour" Type="int" Nullable="false" />
+          <Property Name="endhour" Type="int" Nullable="false" />
+          <Property Name="startminute" Type="int" Nullable="false" />
+          <Property Name="endminute" Type="int" Nullable="false" />
+          <Property Name="startsecond" Type="int" Nullable="false" />
+          <Property Name="endsecond" Type="int" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_scheduler_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="config_id" Type="int" Nullable="false" />
+          <Property Name="scheduler_id" Type="int" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="priority" Type="int" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_schedulers">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="status" Type="tinyint" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="kinect_templates">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="description" Type="ntext" Nullable="false" />
+          <Property Name="path" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="preview" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="created_at" Type="datetime" Nullable="false" />
+          <Property Name="updated_at" Type="datetime" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__generic_c__confi__1A74D648">
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="1" />
+          <End Role="generic_config_items" Type="Self.generic_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_config_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_c__item___1B68FA81">
+          <End Role="generic_items" Type="Self.generic_items" Multiplicity="1" />
+          <End Role="generic_config_items" Type="Self.generic_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_config_items">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_c__sched__0FF747D5">
+          <End Role="generic_schedulers" Type="Self.generic_schedulers" Multiplicity="1" />
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_configs">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_c__templ__0F03239C">
+          <End Role="generic_templates" Type="Self.generic_templates" Multiplicity="1" />
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_templates">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_configs">
+              <PropertyRef Name="template_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_d__confi__14BBFCF2">
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="1" />
+          <End Role="generic_devices" Type="Self.generic_devices" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_devices">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__confi__2121D3D7">
+          <End Role="generic_scheduler_configs" Type="Self.generic_scheduler_configs" Multiplicity="1" />
+          <End Role="generic_scheduler_items" Type="Self.generic_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_scheduler_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__item___094A4A46">
+          <End Role="generic_items" Type="Self.generic_items" Multiplicity="1" />
+          <End Role="generic_scheduler_config_items" Type="Self.generic_scheduler_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_config_items">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__sched__202DAF9E">
+          <End Role="generic_schedulers" Type="Self.generic_schedulers" Multiplicity="1" />
+          <End Role="generic_scheduler_items" Type="Self.generic_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_items">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__templ__039170F0">
+          <End Role="generic_templates" Type="Self.generic_templates" Multiplicity="1" />
+          <End Role="generic_scheduler_configs" Type="Self.generic_scheduler_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_templates">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_configs">
+              <PropertyRef Name="template_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__confi__44A01A3E">
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="1" />
+          <End Role="kinect_config_items" Type="Self.kinect_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_config_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__item___45943E77">
+          <End Role="kinect_items" Type="Self.kinect_items" Multiplicity="1" />
+          <End Role="kinect_config_items" Type="Self.kinect_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_config_items">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__sched__3EE740E8">
+          <End Role="kinect_schedulers" Type="Self.kinect_schedulers" Multiplicity="1" />
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_configs">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__templ__3DF31CAF">
+          <End Role="kinect_templates" Type="Self.kinect_templates" Multiplicity="1" />
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_templates">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_configs">
+              <PropertyRef Name="template_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_de__confi__4A58F394">
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="1" />
+          <End Role="kinect_devices" Type="Self.kinect_devices" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_devices">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_it__devic__67E9567B">
+          <End Role="kinect_devices" Type="Self.kinect_devices" Multiplicity="1" />
+          <End Role="kinect_items_download" Type="Self.kinect_items_download" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_devices">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_items_download">
+              <PropertyRef Name="device_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_it__item___68DD7AB4">
+          <End Role="kinect_items" Type="Self.kinect_items" Multiplicity="1" />
+          <End Role="kinect_items_download" Type="Self.kinect_items_download" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_items_download">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_sc__confi__62307D25">
+          <End Role="kinect_scheduler_configs" Type="Self.kinect_scheduler_configs" Multiplicity="1" />
+          <End Role="kinect_scheduler_items" Type="Self.kinect_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_scheduler_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_scheduler_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_sc__item___5C77A3CF">
+          <End Role="kinect_scheduler_config_items" Type="Self.kinect_scheduler_config_items" Multiplicity="1" />
+          <End Role="kinect_scheduler_configs" Type="Self.kinect_scheduler_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_scheduler_config_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_scheduler_configs">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_sc__sched__6324A15E">
+          <End Role="kinect_schedulers" Type="Self.kinect_schedulers" Multiplicity="1" />
+          <End Role="kinect_scheduler_items" Type="Self.kinect_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_scheduler_items">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DatabaseModel1StoreContainer">
+          <EntitySet Name="generic_config_items" EntityType="Self.generic_config_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_configs" EntityType="Self.generic_configs" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_devices" EntityType="Self.generic_devices" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_items" EntityType="Self.generic_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_scheduler_config_items" EntityType="Self.generic_scheduler_config_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_scheduler_configs" EntityType="Self.generic_scheduler_configs" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_scheduler_items" EntityType="Self.generic_scheduler_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_schedulers" EntityType="Self.generic_schedulers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="generic_templates" EntityType="Self.generic_templates" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_config_items" EntityType="Self.kinect_config_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_configs" EntityType="Self.kinect_configs" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_devices" EntityType="Self.kinect_devices" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_items" EntityType="Self.kinect_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_items_download" EntityType="Self.kinect_items_download" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_scheduler_config_items" EntityType="Self.kinect_scheduler_config_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_scheduler_configs" EntityType="Self.kinect_scheduler_configs" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_scheduler_items" EntityType="Self.kinect_scheduler_items" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_schedulers" EntityType="Self.kinect_schedulers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="kinect_templates" EntityType="Self.kinect_templates" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__generic_c__confi__1A74D648" Association="Self.FK__generic_c__confi__1A74D648">
+            <End Role="generic_configs" EntitySet="generic_configs" />
+            <End Role="generic_config_items" EntitySet="generic_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_c__item___1B68FA81" Association="Self.FK__generic_c__item___1B68FA81">
+            <End Role="generic_items" EntitySet="generic_items" />
+            <End Role="generic_config_items" EntitySet="generic_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_c__sched__0FF747D5" Association="Self.FK__generic_c__sched__0FF747D5">
+            <End Role="generic_schedulers" EntitySet="generic_schedulers" />
+            <End Role="generic_configs" EntitySet="generic_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_c__templ__0F03239C" Association="Self.FK__generic_c__templ__0F03239C">
+            <End Role="generic_templates" EntitySet="generic_templates" />
+            <End Role="generic_configs" EntitySet="generic_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_d__confi__14BBFCF2" Association="Self.FK__generic_d__confi__14BBFCF2">
+            <End Role="generic_configs" EntitySet="generic_configs" />
+            <End Role="generic_devices" EntitySet="generic_devices" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__confi__2121D3D7" Association="Self.FK__generic_s__confi__2121D3D7">
+            <End Role="generic_scheduler_configs" EntitySet="generic_scheduler_configs" />
+            <End Role="generic_scheduler_items" EntitySet="generic_scheduler_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__item___094A4A46" Association="Self.FK__generic_s__item___094A4A46">
+            <End Role="generic_items" EntitySet="generic_items" />
+            <End Role="generic_scheduler_config_items" EntitySet="generic_scheduler_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__sched__202DAF9E" Association="Self.FK__generic_s__sched__202DAF9E">
+            <End Role="generic_schedulers" EntitySet="generic_schedulers" />
+            <End Role="generic_scheduler_items" EntitySet="generic_scheduler_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__templ__039170F0" Association="Self.FK__generic_s__templ__039170F0">
+            <End Role="generic_templates" EntitySet="generic_templates" />
+            <End Role="generic_scheduler_configs" EntitySet="generic_scheduler_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__confi__44A01A3E" Association="Self.FK__kinect_co__confi__44A01A3E">
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+            <End Role="kinect_config_items" EntitySet="kinect_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__item___45943E77" Association="Self.FK__kinect_co__item___45943E77">
+            <End Role="kinect_items" EntitySet="kinect_items" />
+            <End Role="kinect_config_items" EntitySet="kinect_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__sched__3EE740E8" Association="Self.FK__kinect_co__sched__3EE740E8">
+            <End Role="kinect_schedulers" EntitySet="kinect_schedulers" />
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__templ__3DF31CAF" Association="Self.FK__kinect_co__templ__3DF31CAF">
+            <End Role="kinect_templates" EntitySet="kinect_templates" />
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_de__confi__4A58F394" Association="Self.FK__kinect_de__confi__4A58F394">
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+            <End Role="kinect_devices" EntitySet="kinect_devices" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_it__devic__67E9567B" Association="Self.FK__kinect_it__devic__67E9567B">
+            <End Role="kinect_devices" EntitySet="kinect_devices" />
+            <End Role="kinect_items_download" EntitySet="kinect_items_download" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_it__item___68DD7AB4" Association="Self.FK__kinect_it__item___68DD7AB4">
+            <End Role="kinect_items" EntitySet="kinect_items" />
+            <End Role="kinect_items_download" EntitySet="kinect_items_download" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_sc__confi__62307D25" Association="Self.FK__kinect_sc__confi__62307D25">
+            <End Role="kinect_scheduler_configs" EntitySet="kinect_scheduler_configs" />
+            <End Role="kinect_scheduler_items" EntitySet="kinect_scheduler_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_sc__item___5C77A3CF" Association="Self.FK__kinect_sc__item___5C77A3CF">
+            <End Role="kinect_scheduler_config_items" EntitySet="kinect_scheduler_config_items" />
+            <End Role="kinect_scheduler_configs" EntitySet="kinect_scheduler_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_sc__sched__6324A15E" Association="Self.FK__kinect_sc__sched__6324A15E">
+            <End Role="kinect_schedulers" EntitySet="kinect_schedulers" />
+            <End Role="kinect_scheduler_items" EntitySet="kinect_scheduler_items" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DatabaseModel1" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="generic_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="config_id" Type="Int32" Nullable="false" />
+          <Property Name="item_id" Type="Int32" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="priority" Type="Int32" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_configs" Relationship="Self.FK__generic_c__confi__1A74D648" FromRole="generic_config_items" ToRole="generic_configs" />
+          <NavigationProperty Name="generic_items" Relationship="Self.FK__generic_c__item___1B68FA81" FromRole="generic_config_items" ToRole="generic_items" />
+        </EntityType>
+        <EntityType Name="generic_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="template_id" Type="Int32" Nullable="false" />
+          <Property Name="scheduler_id" Type="Int32" Nullable="false" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="default" Type="Byte" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_config_items" Relationship="Self.FK__generic_c__confi__1A74D648" FromRole="generic_configs" ToRole="generic_config_items" />
+          <NavigationProperty Name="generic_schedulers" Relationship="Self.FK__generic_c__sched__0FF747D5" FromRole="generic_configs" ToRole="generic_schedulers" />
+          <NavigationProperty Name="generic_templates" Relationship="Self.FK__generic_c__templ__0F03239C" FromRole="generic_configs" ToRole="generic_templates" />
+          <NavigationProperty Name="generic_devices" Relationship="Self.FK__generic_d__confi__14BBFCF2" FromRole="generic_configs" ToRole="generic_devices" />
+        </EntityType>
+        <EntityType Name="generic_devices">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="config_id" Type="Int32" Nullable="false" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="location" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="ip" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_configs" Relationship="Self.FK__generic_d__confi__14BBFCF2" FromRole="generic_devices" ToRole="generic_configs" />
+        </EntityType>
+        <EntityType Name="generic_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="file" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="type" Type="Byte" Nullable="false" />
+          <Property Name="code" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="preview" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_config_items" Relationship="Self.FK__generic_c__item___1B68FA81" FromRole="generic_items" ToRole="generic_config_items" />
+          <NavigationProperty Name="generic_scheduler_config_items" Relationship="Self.FK__generic_s__item___094A4A46" FromRole="generic_items" ToRole="generic_scheduler_config_items" />
+        </EntityType>
+        <EntityType Name="generic_scheduler_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="item_id" Type="Int32" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="priority" Type="Int32" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_items" Relationship="Self.FK__generic_s__item___094A4A46" FromRole="generic_scheduler_config_items" ToRole="generic_items" />
+        </EntityType>
+        <EntityType Name="generic_scheduler_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="template_id" Type="Int32" Nullable="false" />
+          <Property Name="scheduler_id" Type="Int32" Nullable="false" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="startat" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="endat" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="monday" Type="Byte" Nullable="false" />
+          <Property Name="tuesday" Type="Byte" Nullable="false" />
+          <Property Name="wednesday" Type="Byte" Nullable="false" />
+          <Property Name="thursday" Type="Byte" Nullable="false" />
+          <Property Name="friday" Type="Byte" Nullable="false" />
+          <Property Name="saturday" Type="Byte" Nullable="false" />
+          <Property Name="sunday" Type="Byte" Nullable="false" />
+          <Property Name="starthour" Type="Int32" Nullable="false" />
+          <Property Name="endhour" Type="Int32" Nullable="false" />
+          <Property Name="startminute" Type="Int32" Nullable="false" />
+          <Property Name="endminute" Type="Int32" Nullable="false" />
+          <Property Name="startsecond" Type="Int32" Nullable="false" />
+          <Property Name="endsecond" Type="Int32" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_scheduler_items" Relationship="Self.FK__generic_s__confi__2121D3D7" FromRole="generic_scheduler_configs" ToRole="generic_scheduler_items" />
+          <NavigationProperty Name="generic_templates" Relationship="Self.FK__generic_s__templ__039170F0" FromRole="generic_scheduler_configs" ToRole="generic_templates" />
+        </EntityType>
+        <EntityType Name="generic_scheduler_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="scheduler_id" Type="Int32" Nullable="false" />
+          <Property Name="config_id" Type="Int32" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_scheduler_configs" Relationship="Self.FK__generic_s__confi__2121D3D7" FromRole="generic_scheduler_items" ToRole="generic_scheduler_configs" />
+          <NavigationProperty Name="generic_schedulers" Relationship="Self.FK__generic_s__sched__202DAF9E" FromRole="generic_scheduler_items" ToRole="generic_schedulers" />
+        </EntityType>
+        <EntityType Name="generic_schedulers">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_configs" Relationship="Self.FK__generic_c__sched__0FF747D5" FromRole="generic_schedulers" ToRole="generic_configs" />
+          <NavigationProperty Name="generic_scheduler_items" Relationship="Self.FK__generic_s__sched__202DAF9E" FromRole="generic_schedulers" ToRole="generic_scheduler_items" />
+        </EntityType>
+        <EntityType Name="generic_templates">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="view" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="preview" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="generic_configs" Relationship="Self.FK__generic_c__templ__0F03239C" FromRole="generic_templates" ToRole="generic_configs" />
+          <NavigationProperty Name="generic_scheduler_configs" Relationship="Self.FK__generic_s__templ__039170F0" FromRole="generic_templates" ToRole="generic_scheduler_configs" />
+        </EntityType>
+        <EntityType Name="kinect_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="config_id" Type="Int32" Nullable="false" />
+          <Property Name="item_id" Type="Int32" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="priority" Type="Int32" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_configs" Relationship="Self.FK__kinect_co__confi__44A01A3E" FromRole="kinect_config_items" ToRole="kinect_configs" />
+          <NavigationProperty Name="kinect_items" Relationship="Self.FK__kinect_co__item___45943E77" FromRole="kinect_config_items" ToRole="kinect_items" />
+        </EntityType>
+        <EntityType Name="kinect_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="template_id" Type="Int32" Nullable="false" />
+          <Property Name="scheduler_id" Type="Int32" Nullable="false" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="default" Type="Byte" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_config_items" Relationship="Self.FK__kinect_co__confi__44A01A3E" FromRole="kinect_configs" ToRole="kinect_config_items" />
+          <NavigationProperty Name="kinect_schedulers" Relationship="Self.FK__kinect_co__sched__3EE740E8" FromRole="kinect_configs" ToRole="kinect_schedulers" />
+          <NavigationProperty Name="kinect_templates" Relationship="Self.FK__kinect_co__templ__3DF31CAF" FromRole="kinect_configs" ToRole="kinect_templates" />
+          <NavigationProperty Name="kinect_devices" Relationship="Self.FK__kinect_de__confi__4A58F394" FromRole="kinect_configs" ToRole="kinect_devices" />
+        </EntityType>
+        <EntityType Name="kinect_devices">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="config_id" Type="Int32" Nullable="false" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="location" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="ip" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_configs" Relationship="Self.FK__kinect_de__confi__4A58F394" FromRole="kinect_devices" ToRole="kinect_configs" />
+          <NavigationProperty Name="kinect_items_download" Relationship="Self.FK__kinect_it__devic__67E9567B" FromRole="kinect_devices" ToRole="kinect_items_download" />
+        </EntityType>
+        <EntityType Name="kinect_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="dll" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="version" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_config_items" Relationship="Self.FK__kinect_co__item___45943E77" FromRole="kinect_items" ToRole="kinect_config_items" />
+          <NavigationProperty Name="kinect_items_download" Relationship="Self.FK__kinect_it__item___68DD7AB4" FromRole="kinect_items" ToRole="kinect_items_download" />
+        </EntityType>
+        <EntityType Name="kinect_items_download">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="device_id" Type="Int32" Nullable="false" />
+          <Property Name="item_id" Type="Int32" Nullable="false" />
+          <Property Name="version" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_devices" Relationship="Self.FK__kinect_it__devic__67E9567B" FromRole="kinect_items_download" ToRole="kinect_devices" />
+          <NavigationProperty Name="kinect_items" Relationship="Self.FK__kinect_it__item___68DD7AB4" FromRole="kinect_items_download" ToRole="kinect_items" />
+        </EntityType>
+        <EntityType Name="kinect_scheduler_config_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="file" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="preview" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_scheduler_configs" Relationship="Self.FK__kinect_sc__item___5C77A3CF" FromRole="kinect_scheduler_config_items" ToRole="kinect_scheduler_configs" />
+        </EntityType>
+        <EntityType Name="kinect_scheduler_configs">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="item_id" Type="Int32" Nullable="false" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="startat" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="endat" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="monday" Type="Byte" Nullable="false" />
+          <Property Name="tuesday" Type="Byte" Nullable="false" />
+          <Property Name="wednesday" Type="Byte" Nullable="false" />
+          <Property Name="thursday" Type="Byte" Nullable="false" />
+          <Property Name="friday" Type="Byte" Nullable="false" />
+          <Property Name="saturday" Type="Byte" Nullable="false" />
+          <Property Name="sunday" Type="Byte" Nullable="false" />
+          <Property Name="starthour" Type="Int32" Nullable="false" />
+          <Property Name="endhour" Type="Int32" Nullable="false" />
+          <Property Name="startminute" Type="Int32" Nullable="false" />
+          <Property Name="endminute" Type="Int32" Nullable="false" />
+          <Property Name="startsecond" Type="Int32" Nullable="false" />
+          <Property Name="endsecond" Type="Int32" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_scheduler_config_items" Relationship="Self.FK__kinect_sc__item___5C77A3CF" FromRole="kinect_scheduler_configs" ToRole="kinect_scheduler_config_items" />
+          <NavigationProperty Name="kinect_scheduler_items" Relationship="Self.FK__kinect_sc__confi__62307D25" FromRole="kinect_scheduler_configs" ToRole="kinect_scheduler_items" />
+        </EntityType>
+        <EntityType Name="kinect_scheduler_items">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="config_id" Type="Int32" Nullable="false" />
+          <Property Name="scheduler_id" Type="Int32" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="priority" Type="Int32" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_scheduler_configs" Relationship="Self.FK__kinect_sc__confi__62307D25" FromRole="kinect_scheduler_items" ToRole="kinect_scheduler_configs" />
+          <NavigationProperty Name="kinect_schedulers" Relationship="Self.FK__kinect_sc__sched__6324A15E" FromRole="kinect_scheduler_items" ToRole="kinect_schedulers" />
+        </EntityType>
+        <EntityType Name="kinect_schedulers">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="status" Type="Byte" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_configs" Relationship="Self.FK__kinect_co__sched__3EE740E8" FromRole="kinect_schedulers" ToRole="kinect_configs" />
+          <NavigationProperty Name="kinect_scheduler_items" Relationship="Self.FK__kinect_sc__sched__6324A15E" FromRole="kinect_schedulers" ToRole="kinect_scheduler_items" />
+        </EntityType>
+        <EntityType Name="kinect_templates">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="path" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="preview" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="created_at" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="updated_at" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="kinect_configs" Relationship="Self.FK__kinect_co__templ__3DF31CAF" FromRole="kinect_templates" ToRole="kinect_configs" />
+        </EntityType>
+        <Association Name="FK__generic_c__confi__1A74D648">
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="1" />
+          <End Role="generic_config_items" Type="Self.generic_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_config_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_c__item___1B68FA81">
+          <End Role="generic_items" Type="Self.generic_items" Multiplicity="1" />
+          <End Role="generic_config_items" Type="Self.generic_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_config_items">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_c__sched__0FF747D5">
+          <End Role="generic_schedulers" Type="Self.generic_schedulers" Multiplicity="1" />
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_configs">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_c__templ__0F03239C">
+          <End Role="generic_templates" Type="Self.generic_templates" Multiplicity="1" />
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_templates">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_configs">
+              <PropertyRef Name="template_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_d__confi__14BBFCF2">
+          <End Role="generic_configs" Type="Self.generic_configs" Multiplicity="1" />
+          <End Role="generic_devices" Type="Self.generic_devices" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_devices">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__item___094A4A46">
+          <End Role="generic_items" Type="Self.generic_items" Multiplicity="1" />
+          <End Role="generic_scheduler_config_items" Type="Self.generic_scheduler_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_config_items">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__confi__2121D3D7">
+          <End Role="generic_scheduler_configs" Type="Self.generic_scheduler_configs" Multiplicity="1" />
+          <End Role="generic_scheduler_items" Type="Self.generic_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_scheduler_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__templ__039170F0">
+          <End Role="generic_templates" Type="Self.generic_templates" Multiplicity="1" />
+          <End Role="generic_scheduler_configs" Type="Self.generic_scheduler_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_templates">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_configs">
+              <PropertyRef Name="template_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__generic_s__sched__202DAF9E">
+          <End Role="generic_schedulers" Type="Self.generic_schedulers" Multiplicity="1" />
+          <End Role="generic_scheduler_items" Type="Self.generic_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="generic_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="generic_scheduler_items">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__confi__44A01A3E">
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="1" />
+          <End Role="kinect_config_items" Type="Self.kinect_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_config_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__item___45943E77">
+          <End Role="kinect_items" Type="Self.kinect_items" Multiplicity="1" />
+          <End Role="kinect_config_items" Type="Self.kinect_config_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_config_items">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__sched__3EE740E8">
+          <End Role="kinect_schedulers" Type="Self.kinect_schedulers" Multiplicity="1" />
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_configs">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_co__templ__3DF31CAF">
+          <End Role="kinect_templates" Type="Self.kinect_templates" Multiplicity="1" />
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_templates">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_configs">
+              <PropertyRef Name="template_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_de__confi__4A58F394">
+          <End Role="kinect_configs" Type="Self.kinect_configs" Multiplicity="1" />
+          <End Role="kinect_devices" Type="Self.kinect_devices" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_devices">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_it__devic__67E9567B">
+          <End Role="kinect_devices" Type="Self.kinect_devices" Multiplicity="1" />
+          <End Role="kinect_items_download" Type="Self.kinect_items_download" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_devices">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_items_download">
+              <PropertyRef Name="device_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_it__item___68DD7AB4">
+          <End Role="kinect_items" Type="Self.kinect_items" Multiplicity="1" />
+          <End Role="kinect_items_download" Type="Self.kinect_items_download" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_items_download">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_sc__item___5C77A3CF">
+          <End Role="kinect_scheduler_config_items" Type="Self.kinect_scheduler_config_items" Multiplicity="1" />
+          <End Role="kinect_scheduler_configs" Type="Self.kinect_scheduler_configs" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_scheduler_config_items">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_scheduler_configs">
+              <PropertyRef Name="item_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_sc__confi__62307D25">
+          <End Role="kinect_scheduler_configs" Type="Self.kinect_scheduler_configs" Multiplicity="1" />
+          <End Role="kinect_scheduler_items" Type="Self.kinect_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_scheduler_configs">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_scheduler_items">
+              <PropertyRef Name="config_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__kinect_sc__sched__6324A15E">
+          <End Role="kinect_schedulers" Type="Self.kinect_schedulers" Multiplicity="1" />
+          <End Role="kinect_scheduler_items" Type="Self.kinect_scheduler_items" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="kinect_schedulers">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="kinect_scheduler_items">
+              <PropertyRef Name="scheduler_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DatabaseEntities2" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="generic_config_items" EntityType="Self.generic_config_items" />
+          <EntitySet Name="generic_configs" EntityType="Self.generic_configs" />
+          <EntitySet Name="generic_devices" EntityType="Self.generic_devices" />
+          <EntitySet Name="generic_items" EntityType="Self.generic_items" />
+          <EntitySet Name="generic_scheduler_config_items" EntityType="Self.generic_scheduler_config_items" />
+          <EntitySet Name="generic_scheduler_configs" EntityType="Self.generic_scheduler_configs" />
+          <EntitySet Name="generic_scheduler_items" EntityType="Self.generic_scheduler_items" />
+          <EntitySet Name="generic_schedulers" EntityType="Self.generic_schedulers" />
+          <EntitySet Name="generic_templates" EntityType="Self.generic_templates" />
+          <EntitySet Name="kinect_config_items" EntityType="Self.kinect_config_items" />
+          <EntitySet Name="kinect_configs" EntityType="Self.kinect_configs" />
+          <EntitySet Name="kinect_devices" EntityType="Self.kinect_devices" />
+          <EntitySet Name="kinect_items" EntityType="Self.kinect_items" />
+          <EntitySet Name="kinect_items_download" EntityType="Self.kinect_items_download" />
+          <EntitySet Name="kinect_scheduler_config_items" EntityType="Self.kinect_scheduler_config_items" />
+          <EntitySet Name="kinect_scheduler_configs" EntityType="Self.kinect_scheduler_configs" />
+          <EntitySet Name="kinect_scheduler_items" EntityType="Self.kinect_scheduler_items" />
+          <EntitySet Name="kinect_schedulers" EntityType="Self.kinect_schedulers" />
+          <EntitySet Name="kinect_templates" EntityType="Self.kinect_templates" />
+          <AssociationSet Name="FK__generic_c__confi__1A74D648" Association="Self.FK__generic_c__confi__1A74D648">
+            <End Role="generic_configs" EntitySet="generic_configs" />
+            <End Role="generic_config_items" EntitySet="generic_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_c__item___1B68FA81" Association="Self.FK__generic_c__item___1B68FA81">
+            <End Role="generic_items" EntitySet="generic_items" />
+            <End Role="generic_config_items" EntitySet="generic_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_c__sched__0FF747D5" Association="Self.FK__generic_c__sched__0FF747D5">
+            <End Role="generic_schedulers" EntitySet="generic_schedulers" />
+            <End Role="generic_configs" EntitySet="generic_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_c__templ__0F03239C" Association="Self.FK__generic_c__templ__0F03239C">
+            <End Role="generic_templates" EntitySet="generic_templates" />
+            <End Role="generic_configs" EntitySet="generic_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_d__confi__14BBFCF2" Association="Self.FK__generic_d__confi__14BBFCF2">
+            <End Role="generic_configs" EntitySet="generic_configs" />
+            <End Role="generic_devices" EntitySet="generic_devices" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__item___094A4A46" Association="Self.FK__generic_s__item___094A4A46">
+            <End Role="generic_items" EntitySet="generic_items" />
+            <End Role="generic_scheduler_config_items" EntitySet="generic_scheduler_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__confi__2121D3D7" Association="Self.FK__generic_s__confi__2121D3D7">
+            <End Role="generic_scheduler_configs" EntitySet="generic_scheduler_configs" />
+            <End Role="generic_scheduler_items" EntitySet="generic_scheduler_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__templ__039170F0" Association="Self.FK__generic_s__templ__039170F0">
+            <End Role="generic_templates" EntitySet="generic_templates" />
+            <End Role="generic_scheduler_configs" EntitySet="generic_scheduler_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__generic_s__sched__202DAF9E" Association="Self.FK__generic_s__sched__202DAF9E">
+            <End Role="generic_schedulers" EntitySet="generic_schedulers" />
+            <End Role="generic_scheduler_items" EntitySet="generic_scheduler_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__confi__44A01A3E" Association="Self.FK__kinect_co__confi__44A01A3E">
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+            <End Role="kinect_config_items" EntitySet="kinect_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__item___45943E77" Association="Self.FK__kinect_co__item___45943E77">
+            <End Role="kinect_items" EntitySet="kinect_items" />
+            <End Role="kinect_config_items" EntitySet="kinect_config_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__sched__3EE740E8" Association="Self.FK__kinect_co__sched__3EE740E8">
+            <End Role="kinect_schedulers" EntitySet="kinect_schedulers" />
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_co__templ__3DF31CAF" Association="Self.FK__kinect_co__templ__3DF31CAF">
+            <End Role="kinect_templates" EntitySet="kinect_templates" />
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_de__confi__4A58F394" Association="Self.FK__kinect_de__confi__4A58F394">
+            <End Role="kinect_configs" EntitySet="kinect_configs" />
+            <End Role="kinect_devices" EntitySet="kinect_devices" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_it__devic__67E9567B" Association="Self.FK__kinect_it__devic__67E9567B">
+            <End Role="kinect_devices" EntitySet="kinect_devices" />
+            <End Role="kinect_items_download" EntitySet="kinect_items_download" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_it__item___68DD7AB4" Association="Self.FK__kinect_it__item___68DD7AB4">
+            <End Role="kinect_items" EntitySet="kinect_items" />
+            <End Role="kinect_items_download" EntitySet="kinect_items_download" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_sc__item___5C77A3CF" Association="Self.FK__kinect_sc__item___5C77A3CF">
+            <End Role="kinect_scheduler_config_items" EntitySet="kinect_scheduler_config_items" />
+            <End Role="kinect_scheduler_configs" EntitySet="kinect_scheduler_configs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_sc__confi__62307D25" Association="Self.FK__kinect_sc__confi__62307D25">
+            <End Role="kinect_scheduler_configs" EntitySet="kinect_scheduler_configs" />
+            <End Role="kinect_scheduler_items" EntitySet="kinect_scheduler_items" />
+          </AssociationSet>
+          <AssociationSet Name="FK__kinect_sc__sched__6324A15E" Association="Self.FK__kinect_sc__sched__6324A15E">
+            <End Role="kinect_schedulers" EntitySet="kinect_schedulers" />
+            <End Role="kinect_scheduler_items" EntitySet="kinect_scheduler_items" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DatabaseModel1StoreContainer" CdmEntityContainer="DatabaseEntities2">
+          <EntitySetMapping Name="generic_config_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_config_items">
+              <MappingFragment StoreEntitySet="generic_config_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="config_id" ColumnName="config_id" />
+                <ScalarProperty Name="item_id" ColumnName="item_id" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="priority" ColumnName="priority" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_configs">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_configs">
+              <MappingFragment StoreEntitySet="generic_configs">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="template_id" ColumnName="template_id" />
+                <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="default" ColumnName="default" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_devices">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_devices">
+              <MappingFragment StoreEntitySet="generic_devices">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="config_id" ColumnName="config_id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="location" ColumnName="location" />
+                <ScalarProperty Name="ip" ColumnName="ip" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_items">
+              <MappingFragment StoreEntitySet="generic_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="file" ColumnName="file" />
+                <ScalarProperty Name="type" ColumnName="type" />
+                <ScalarProperty Name="code" ColumnName="code" />
+                <ScalarProperty Name="preview" ColumnName="preview" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_scheduler_config_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_scheduler_config_items">
+              <MappingFragment StoreEntitySet="generic_scheduler_config_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="item_id" ColumnName="item_id" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="priority" ColumnName="priority" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_scheduler_configs">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_scheduler_configs">
+              <MappingFragment StoreEntitySet="generic_scheduler_configs">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="template_id" ColumnName="template_id" />
+                <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="startat" ColumnName="startat" />
+                <ScalarProperty Name="endat" ColumnName="endat" />
+                <ScalarProperty Name="monday" ColumnName="monday" />
+                <ScalarProperty Name="tuesday" ColumnName="tuesday" />
+                <ScalarProperty Name="wednesday" ColumnName="wednesday" />
+                <ScalarProperty Name="thursday" ColumnName="thursday" />
+                <ScalarProperty Name="friday" ColumnName="friday" />
+                <ScalarProperty Name="saturday" ColumnName="saturday" />
+                <ScalarProperty Name="sunday" ColumnName="sunday" />
+                <ScalarProperty Name="starthour" ColumnName="starthour" />
+                <ScalarProperty Name="endhour" ColumnName="endhour" />
+                <ScalarProperty Name="startminute" ColumnName="startminute" />
+                <ScalarProperty Name="endminute" ColumnName="endminute" />
+                <ScalarProperty Name="startsecond" ColumnName="startsecond" />
+                <ScalarProperty Name="endsecond" ColumnName="endsecond" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_scheduler_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_scheduler_items">
+              <MappingFragment StoreEntitySet="generic_scheduler_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+                <ScalarProperty Name="config_id" ColumnName="config_id" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_schedulers">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_schedulers">
+              <MappingFragment StoreEntitySet="generic_schedulers">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="generic_templates">
+            <EntityTypeMapping TypeName="DatabaseModel1.generic_templates">
+              <MappingFragment StoreEntitySet="generic_templates">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="view" ColumnName="view" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="preview" ColumnName="preview" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_config_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_config_items">
+              <MappingFragment StoreEntitySet="kinect_config_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="config_id" ColumnName="config_id" />
+                <ScalarProperty Name="item_id" ColumnName="item_id" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="priority" ColumnName="priority" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_configs">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_configs">
+              <MappingFragment StoreEntitySet="kinect_configs">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="template_id" ColumnName="template_id" />
+                <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="default" ColumnName="default" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_devices">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_devices">
+              <MappingFragment StoreEntitySet="kinect_devices">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="config_id" ColumnName="config_id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="location" ColumnName="location" />
+                <ScalarProperty Name="ip" ColumnName="ip" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_items">
+              <MappingFragment StoreEntitySet="kinect_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="dll" ColumnName="dll" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_items_download">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_items_download">
+              <MappingFragment StoreEntitySet="kinect_items_download">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="device_id" ColumnName="device_id" />
+                <ScalarProperty Name="item_id" ColumnName="item_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_scheduler_config_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_scheduler_config_items">
+              <MappingFragment StoreEntitySet="kinect_scheduler_config_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="file" ColumnName="file" />
+                <ScalarProperty Name="preview" ColumnName="preview" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_scheduler_configs">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_scheduler_configs">
+              <MappingFragment StoreEntitySet="kinect_scheduler_configs">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="item_id" ColumnName="item_id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="startat" ColumnName="startat" />
+                <ScalarProperty Name="endat" ColumnName="endat" />
+                <ScalarProperty Name="monday" ColumnName="monday" />
+                <ScalarProperty Name="tuesday" ColumnName="tuesday" />
+                <ScalarProperty Name="wednesday" ColumnName="wednesday" />
+                <ScalarProperty Name="thursday" ColumnName="thursday" />
+                <ScalarProperty Name="friday" ColumnName="friday" />
+                <ScalarProperty Name="saturday" ColumnName="saturday" />
+                <ScalarProperty Name="sunday" ColumnName="sunday" />
+                <ScalarProperty Name="starthour" ColumnName="starthour" />
+                <ScalarProperty Name="endhour" ColumnName="endhour" />
+                <ScalarProperty Name="startminute" ColumnName="startminute" />
+                <ScalarProperty Name="endminute" ColumnName="endminute" />
+                <ScalarProperty Name="startsecond" ColumnName="startsecond" />
+                <ScalarProperty Name="endsecond" ColumnName="endsecond" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_scheduler_items">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_scheduler_items">
+              <MappingFragment StoreEntitySet="kinect_scheduler_items">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="config_id" ColumnName="config_id" />
+                <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="priority" ColumnName="priority" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_schedulers">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_schedulers">
+              <MappingFragment StoreEntitySet="kinect_schedulers">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="kinect_templates">
+            <EntityTypeMapping TypeName="DatabaseModel1.kinect_templates">
+              <MappingFragment StoreEntitySet="kinect_templates">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="title" ColumnName="title" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="path" ColumnName="path" />
+                <ScalarProperty Name="preview" ColumnName="preview" />
+                <ScalarProperty Name="created_at" ColumnName="created_at" />
+                <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

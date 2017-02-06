@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Google Map</title>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <meta charset="utf-8">
+        <style>
+            html, body, #map-canvas {
+                height: 100%;
+                margin: 0;
+                overflow: hidden;
+                padding: 0;
+            }
+        </style>
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+        <script type="text/javascript">
+            var map;
+            var currentZoom = 8;
+            var geocoder;
+            var marker;
+            var infowindow = new google.maps.InfoWindow();
+            var lat = 40.5401;
+            var lng = -7.26177;
+            var marker;
+            var infoWindow;
+
+            function initialize() {
+                geocoder = new window.google.maps.Geocoder();
+
+                var mapOptions = {
+                    zoom: 8,
+                    center: new window.google.maps.LatLng(lat, lng),
+                    disableDefaultUI: true
+                };
+
+                map = new window.google.maps.Map(window.document.getElementById('map-canvas'),
+                    mapOptions);
+
+                locCoords = map.getCenter();
+
+                // Add listeners to trigger checkBounds(). bounds_changed deals with zoom changes.
+                window.google.maps.event.addListener(map, "center_changed", function() { checkBounds(); });
+                window.google.maps.event.addListener(map, 'bounds_changed', function() { checkBounds(); });
+            }
+
+            function Pan(x, y) {
+                try {
+                    lat = map.getCenter().lat() + x;
+                    lng = map.getCenter().lng() + y;
+
+                    map.panTo(new window.google.maps.LatLng(lat, lng));
+                } catch (ex) {
+                }
+            }
+
+            function PanTo(x, y) {
+                try {
+                    map.panTo(new window.google.maps.LatLng(x, y));
+                } catch (ex) {
+                }
+            }
+
+            function Zoom(mode) {
+                try {
+                    var currentLatLng = map.getCenter();
+
+                    if (mode == "in") {
+                        if (currentZoom + 2 <= 18) {
+                            currentZoom += 2;
+                        }
+                    } else if (mode == "out") {
+                        if (currentZoom - 2 >= 4) {
+                            currentZoom -= 2;
+                        }
+                    }
+                    map.setZoom(currentZoom);
+                    map.panTo(currentLatLng);
+                } catch (ex) {
+                }
+            }
+
+            var city = "";
+            var country = "";
+            var locCoords;
+
+            function GetCoords0(fn) {
+                city = "N/A";
+                country = "N/A";
+                locCoords = map.getCenter();
+                geocoder.geocode({ 'latLng': locCoords }, function(results, status) {
+                    if (status == window.google.maps.GeocoderStatus.OK) {
+                        if (results[1]) {
+                            var tmp = results[1].address_components;
+                            for (var i = 0; i < tmp.length; i++) {
+                                if (contains(tmp[i].types, "country"))
+                                    country = tmp[i].short_name;
+
+                                if (contains(tmp[i].types, "locality"))
+                                    city = tmp[i].long_name;
+                            }
+                            fn(city + ", " + country);
+                        }
+                    }
+                });
+            }
+
+            function GetCityAndCountry() {
+                if (marker) {
+                    marker.setMap(null);
+                    marker = null;
+                }
+                GetCoords0(function(location) {
+                    marker = new window.google.maps.Marker({
+                        position: locCoords,
+                        map: map,
+                        title: 'Location'
+                    });
+                    infoWindow = new window.google.maps.InfoWindow({
+                        content: location,
+                        maxWidth: 200
+                    });
+                    infoWindow.open(map, marker);
+                });
+            }
+
+            function GetMarkerText() {
+                if (marker)
+                    return infoWindow.content;
+                return null;
+            }
+
+            function contains(a, obj) {
+                for (var i = 0; i < a.length; i++) {
+                    if (a[i] === obj) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+
+            function GetCoords() {
+                return map.getCenter().toString();
+            }
+
+            function GetZoom() {
+                return map.getZoom();
+            }
+
+            // The allowed region which the whole map must be within
+            var southWest = new google.maps.LatLng(-85.000, -122.591);
+            var northEast = new google.maps.LatLng(85.000, -122.333);
+            var allowedBounds = new google.maps.LatLngBounds(southWest, northEast);
+            var lastValidCenter;
+            var lastValidZoom;
+
+            // If the map bounds are out of range, move it back
+            function checkBounds() {
+                // Perform the check and return if OK
+                if ((allowedBounds.getNorthEast().lat() > (map.getBounds().getNorthEast().lat())) && (allowedBounds.getSouthWest().lat() < (map.getBounds().getSouthWest().lat()))) {
+                    lastValidCenter = map.getCenter();
+                    lastValidZoom = map.getZoom();
+                    return;
+                }
+                // not valid anymore => return to last valid position
+                map.panTo(lastValidCenter);
+                map.setZoom(lastValidZoom);
+            }
+
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
+    </head>
+    <body>
+        <div id="map-canvas"></div>
+    </body>
+</html>

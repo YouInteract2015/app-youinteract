@@ -1,0 +1,16 @@
+﻿<Page x:Class="YouInteractV1.Screensaver"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      mc:Ignorable="d" 
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	  Title="Screensaver" x:Name="YouScreensaver">
+
+    <Grid Background="Black">
+        <Canvas x:Name="ScreensaverCanvas">
+            <Image x:Name="ScreensaverImage" Source="/Images\Logo\logoUA.png" Visibility="Visible"/>
+        </Canvas>
+    </Grid>
+</Page>

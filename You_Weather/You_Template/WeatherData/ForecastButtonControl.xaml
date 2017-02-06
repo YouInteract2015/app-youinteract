@@ -1,0 +1,117 @@
+﻿<UserControl x:Class="You_Weather.WeatherData.ForecastButtonControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:k="http://schemas.microsoft.com/kinect/2013"
+             mc:Ignorable="d"
+             DataContext="{Binding RelativeSource={RelativeSource Self}}"
+             d:DesignHeight="{Binding WindowHeight}" d:DesignWidth="{Binding WindowWidth}">
+    <k:KinectTileButton x:Name="TheForecastButton" Tag="{Binding Date}" BorderBrush="{x:Null}" BorderThickness="3"
+                        VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="{Binding WindowHeight}"
+                        Width="{Binding WindowWidth}">
+        <k:KinectTileButton.Background>
+            <SolidColorBrush Color="MediumBlue" Opacity="0.4" />
+            <!--<ImageBrush Opacity="0.5"
+                                    ImageSource="/DETI_Interact_v3;component/Images/Theme1/Background/background.jpg"
+                                    Stretch="UniformToFill" />-->
+        </k:KinectTileButton.Background>
+        <Viewbox VerticalAlignment="Top" HorizontalAlignment="Center" Height="{Binding WindowHeight}"
+                 Width="{Binding WindowWidth}">
+            <Grid Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100*" />
+                    <RowDefinition Height="85*" />
+                    <RowDefinition Height="290*" />
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Verdana"
+                       x:Name="Day0Label" Foreground="LightGray" FontSize="{Binding DaySize}" Margin="-5, 0, 0, 0"
+                       Content="{Binding DayName}" />
+                <Image Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+                       Stretch="Uniform" Height="50" Width="50">
+                    <Image.Source>
+                        <Binding Path="WeatherIconPath" />
+                    </Image.Source>
+                </Image>
+                <TextBlock Width="328" HorizontalAlignment="Left" TextWrapping="WrapWithOverflow" Grid.Row="1"
+                           x:Name="WeatherState0Label" Foreground="White" FontSize="{Binding WeatherTextSize}"
+                           Margin="5, 0, 0, 0" Text="{Binding WeatherText}" />
+                <Grid Grid.Row="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="110*" />
+                        <RowDefinition Height="90*" />
+                        <RowDefinition Height="90*" />
+                    </Grid.RowDefinitions>
+                    <Label Foreground="LightGray" FontSize="{Binding TemperatureSize}" FontFamily="Calibri">Temperature:</Label>
+                    <Grid Grid.Row="0" Margin="{Binding TemperatureMargin}">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Foreground="DarkGray" FontSize="{Binding TemperatureMinSize}"
+                               FontFamily="Calibri">
+                            Min:
+                        </Label>
+                        <Label Grid.Column="0" HorizontalAlignment="Left" FontFamily="Verdana" x:Name="MinTemp0Label"
+                               Foreground="White" FontSize="{Binding TemperatureMinValueSize}"
+                               Margin="{Binding TemperatureMinValueMargin}">
+                            <Label.Content>
+                                <TextBlock Text="{Binding TemperatureMinValue}" />
+                            </Label.Content>
+                        </Label>
+                        <Label Grid.Column="0" HorizontalAlignment="Right" FontFamily="Verdana" Foreground="White"
+                               FontSize="{Binding TemperatureMinValueSize}"
+                               Margin="{Binding TemperatureMinValueMargin}">
+                            /
+                        </Label>
+                        <Label Grid.Column="1" Foreground="DarkGray" FontSize="{Binding TemperatureMinSize}"
+                               FontFamily="Calibri">
+                            Max:
+                        </Label>
+                        <Label Grid.Column="1" HorizontalAlignment="Left" FontFamily="Verdana" x:Name="MaxTemp0Label"
+                               Foreground="White" FontSize="{Binding TemperatureMinValueSize}"
+                               Margin="{Binding TemperatureMinValueMargin}">
+                            <Label.Content>
+                                <TextBlock Text="{Binding TemperatureMaxValue}" />
+                            </Label.Content>
+                        </Label>
+                    </Grid>
+                    <Label Grid.Row="1" Foreground="LightGray" FontSize="{Binding TemperatureSize}"
+                           FontFamily="Calibri">
+                        Wind:
+                    </Label>
+                    <TextBlock Width="328" HorizontalAlignment="Left" TextWrapping="WrapWithOverflow" Grid.Row="1"
+                               FontFamily="Calibri" x:Name="WindSpeed0Label" Foreground="White"
+                               FontSize="{Binding WindTextSize}" Margin="{Binding WindTextMargin}"
+                               Text="{Binding WindText}" />
+                    <TextBlock Width="328" HorizontalAlignment="Left" TextWrapping="WrapWithOverflow" Grid.Row="1"
+                               FontFamily="Calibri" x:Name="WindDirection0Label" Foreground="White"
+                               FontSize="{Binding WindTextSize}" Margin="{Binding WindText2Margin}"
+                               Text="{Binding WindText2, StringFormat='{}Blowing: {0}'}" />
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Foreground="LightGray" FontSize="{Binding TemperatureSize}"
+                               FontFamily="Calibri">
+                            Clouds:
+                        </Label>
+                        <TextBlock Width="164" HorizontalAlignment="Left" TextWrapping="WrapWithOverflow"
+                                   Grid.Column="0" FontFamily="Calibri" x:Name="Clouds0Label" Foreground="White"
+                                   FontSize="{Binding WindTextSize}" Margin="{Binding WindTextMargin}"
+                                   Text="{Binding CloudsText}" />
+                        <Label Grid.Column="1" Foreground="LightGray" FontSize="{Binding TemperatureSize}"
+                               FontFamily="Calibri">
+                            Precipitation:
+                        </Label>
+                        <TextBlock Width="164" HorizontalAlignment="Left" TextWrapping="WrapWithOverflow"
+                                   Grid.Column="1" FontFamily="Calibri" x:Name="Precipitation0Label" Foreground="White"
+                                   FontSize="{Binding WindTextSize}" Margin="{Binding WindTextMargin}"
+                                   Text="{Binding PrecipitationText}" />
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Viewbox>
+    </k:KinectTileButton>
+</UserControl>

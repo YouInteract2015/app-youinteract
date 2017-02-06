@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2c1634b9e3894aeeaa79fee969cfe2ba" Name="Diagram1">
+        <EntityTypeShape EntityType="DatabaseModel1.generic_config_items" Width="1.5" PointX="17.25" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_configs" Width="1.5" PointX="12" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_devices" Width="1.5" PointX="14.25" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_items" Width="1.5" PointX="15" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_scheduler_config_items" Width="1.5" PointX="17.25" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_scheduler_configs" Width="1.5" PointX="12.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_scheduler_items" Width="1.5" PointX="15" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_schedulers" Width="1.5" PointX="9.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.generic_templates" Width="1.5" PointX="9.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_config_items" Width="1.5" PointX="8.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_configs" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_devices" Width="1.5" PointX="5.25" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_items" Width="1.5" PointX="6" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_items_download" Width="1.5" PointX="7.5" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_scheduler_config_items" Width="1.5" PointX="1.5" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_scheduler_configs" Width="1.5" PointX="3.75" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_scheduler_items" Width="1.5" PointX="6" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_schedulers" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DatabaseModel1.kinect_templates" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_c__confi__1A74D648" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_c__item___1B68FA81" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_c__sched__0FF747D5" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_c__templ__0F03239C" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_d__confi__14BBFCF2" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_s__item___094A4A46" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_s__confi__2121D3D7" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_s__templ__039170F0" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__generic_s__sched__202DAF9E" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_co__confi__44A01A3E" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_co__item___45943E77" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_co__sched__3EE740E8" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_co__templ__3DF31CAF" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_de__confi__4A58F394" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_it__devic__67E9567B" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_it__item___68DD7AB4" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_sc__item___5C77A3CF" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_sc__confi__62307D25" ManuallyRouted="false" />
+        <AssociationConnector Association="DatabaseModel1.FK__kinect_sc__sched__6324A15E" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

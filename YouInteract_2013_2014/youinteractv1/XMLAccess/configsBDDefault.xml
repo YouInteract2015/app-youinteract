@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KinectApp>
+	<Themes>
+		<Entry>
+			<Theme_id>1</Theme_id>
+			<Theme_name>Theme1</Theme_name>
+			<Active>True</Active>
+			<Theme_font>N/A</Theme_font>
+		</Entry>
+		<Entry>
+			<Theme_id>2</Theme_id>
+			<Theme_name>ThemeTest</Theme_name>
+			<Active>False</Active>
+			<Theme_font>Calibri</Theme_font>
+		</Entry>
+	</Themes>
+	<Important_dates>
+		<Entry>
+			<Id_usr>001</Id_usr>
+			<Idate>12/03/2014 00:00:00</Idate>
+			<About>dfghusfgwgergqergi</About>
+		</Entry>
+		<Entry>
+			<Id_usr>001</Id_usr>
+			<Idate>12/03/2014 00:00:00</Idate>
+			<About>dfgwgergqergi</About>
+		</Entry>
+	</Important_dates>
+	<Apps>
+		<Entry>
+			<Apps_name>You_Help</Apps_name>
+			<App_id>5</App_id>
+			<App_path>teste/path</App_path>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>False</Active>
+			<Ordernumber>1</Ordernumber>
+			<Dll>You_Help</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Timetables</Apps_name>
+			<App_id>3</App_id>
+			<App_path>xxx</App_path>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>False</Active>
+			<Ordernumber>2</Ordernumber>
+			<Dll>You_Timetables</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Videos</Apps_name>
+			<App_id>2</App_id>
+			<App_path>gpopogrrgp</App_path>
+			<Times_played>0</Times_played>
+			<Highscore />
+			<Active>True</Active>
+			<Ordernumber>3</Ordernumber>
+			<Dll>You_Videos</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Pong</Apps_name>
+			<App_id>1</App_id>
+			<App_path />
+			<Times_played>0</Times_played>
+			<Highscore />
+			<Active>False</Active>
+			<Ordernumber>4</Ordernumber>
+			<Dll>You_Pong</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>You_Contacts</Apps_name>
+			<App_id>4</App_id>
+			<App_path>xxx</App_path>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>False</Active>
+			<Ordernumber>5</Ordernumber>
+			<Dll>You_Contacts</Dll>
+		</Entry>
+	</Apps>
+</KinectApp>

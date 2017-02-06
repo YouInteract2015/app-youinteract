@@ -1,0 +1,393 @@
+﻿<Page x:Class="You_Weather.Weather"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d"
+
+      DataContext="{Binding RelativeSource={RelativeSource Self}}"
+      Width="{DynamicResource {x:Static SystemParameters.PrimaryScreenWidth}}"
+      Height="{DynamicResource {x:Static SystemParameters.PrimaryScreenHeight}}"
+      Cursor="Hand"
+      Title="Weather" x:Name="YouWeather">
+
+    <Page.Resources>
+
+        <PathGeometry x:Key="ChevronGeometry" x:Shared="False">
+            F1M150.001,146.9932L126.565,169.3822L126.565,153.5962L150.001,130.6182L173.435,153.5962L173.435,169.3822z
+        </PathGeometry>
+
+        <Path x:Key="ChevronRight" Height="48" Width="48" Stretch="Uniform" Canvas.Top="0" x:Shared="False"
+              Data="{StaticResource ChevronGeometry}"
+              Fill="{Binding FallbackValue=White, Path=Foreground,RelativeSource={RelativeSource AncestorType={x:Type u:KinectHoverButton}}}">
+            <Path.RenderTransformOrigin>0.5,0.5</Path.RenderTransformOrigin>
+            <Path.RenderTransform>
+                <RotateTransform Angle="90" />
+            </Path.RenderTransform>
+        </Path>
+
+        <Path x:Key="ChevronLeft" Height="48" Width="48" Stretch="Uniform" Canvas.Top="0" x:Shared="False"
+              Data="{StaticResource ChevronGeometry}"
+              Fill="{Binding FallbackValue=White, Path=Foreground,RelativeSource={RelativeSource AncestorType={x:Type u:KinectHoverButton}}}">
+            <Path.RenderTransformOrigin>0.5,0.5</Path.RenderTransformOrigin>
+            <Path.RenderTransform>
+                <RotateTransform Angle="270" />
+            </Path.RenderTransform>
+        </Path>
+
+        <Style x:Key="KinectHoverButtonStyle" TargetType="{x:Type u:KinectHoverButton}">
+            <Setter Property="Background" Value="DodgerBlue" />
+            <Setter Property="Opacity" Value="0.8" />
+            <Setter Property="BorderBrush" Value="DarkGray" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type u:KinectHoverButton}">
+                        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                              Background="{TemplateBinding Background}" Width="{TemplateBinding Width}"
+                              Height="{TemplateBinding Height}">
+                            <Border BorderThickness="{TemplateBinding BorderThickness}"
+                                    BorderBrush="{TemplateBinding BorderBrush}">
+                                <ContentPresenter HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                                                  Content="{TemplateBinding Content}" />
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Foreground" Value="LightGray" />
+                    <Setter Property="BorderBrush" Value="LightGray" />
+                    <Setter Property="Background" Value="Transparent" />
+                </Trigger>
+                <Trigger Property="IsHandPointerOver" Value="True">
+                    <Setter Property="Background" Value="RoyalBlue" />
+                    <Setter Property="Foreground" Value="White" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="KinectHoverButtonScrollRightStyle" TargetType="{x:Type u:KinectHoverButton}"
+               BasedOn="{StaticResource KinectHoverButtonStyle}">
+            <Setter Property="Content" Value="{StaticResource ChevronRight}" />
+        </Style>
+
+        <Style x:Key="KinectHoverButtonScrollLeftStyle" TargetType="{x:Type u:KinectHoverButton}"
+               BasedOn="{StaticResource KinectHoverButtonStyle}">
+            <Setter Property="Content" Value="{StaticResource ChevronLeft}" />
+        </Style>
+
+        <Style x:Key="TopButtonsStyle" TargetType="{x:Type FrameworkElement}">
+            <Setter Property="Height" Value="{Binding ButtonHeight}" />
+            <Setter Property="Width" Value="{Binding ButtonWidth}" />
+        </Style>
+
+    </Page.Resources>
+    <Grid>
+        <Rectangle Height="{Binding Source={x:Static SystemParameters.PrimaryScreenHeight}}"
+                   Width="{Binding Source={x:Static SystemParameters.PrimaryScreenWidth}}"
+                   x:Name="Rectangle" Opacity="0" IsHitTestVisible="False" Fill="AntiqueWhite"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" Panel.ZIndex="9000" />
+        <Label x:Name="RectangleLabel" HorizontalAlignment="Center" VerticalAlignment="Center" IsHitTestVisible="False"
+               Foreground="DarkBlue" FontSize="75" Panel.ZIndex="9001" Opacity="0">
+            Loading...
+        </Label>
+        <k:KinectRegion x:Name="KinectRegion">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="{Binding ButtonHeight}" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Canvas x:Name="TopBar" Grid.Row="0">
+                    <Canvas.Background>
+                        <ImageBrush Opacity="0.5"
+                                    ImageSource="/You_Weather;component/Images/Themes/Theme1/Background/background.jpg"
+                                    Stretch="UniformToFill" />
+                    </Canvas.Background>
+                    <u:YouButton Style="{StaticResource TopButtonsStyle}" x:Name="Main" Label="Main"
+                                 Click="ButtonOnClick" Background="{x:Null}" ToolTip="Return to the Main Menu"
+                                 BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                        <Image Source="/You_Weather;component/Images/Themes/Theme1/Navigation/back.png" Stretch="Fill" />
+                    </u:YouButton>
+                    <u:YouButton Style="{StaticResource TopButtonsStyle}" Canvas.Right="0" x:Name="HelpButton"
+                                 Label="Help" Click="ButtonHelpOnClick" ToolTip="View Weather's Help"
+                                 Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}"
+                                 LabelBackground="{x:Null}">
+                        <Image Source="/You_Weather;component/Images/Themes/Theme1/Navigation/help.png" Stretch="Fill" />
+                    </u:YouButton>
+                    <u:YouButton Style="{StaticResource TopButtonsStyle}"
+                                 Canvas.Right="{Binding ButtonWidth}" x:Name="MapButton" Label="Help"
+                                 Click="ButtonMapOnClick" ToolTip="Change Weather Location" Background="{x:Null}"
+                                 BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                        <Image Source="/You_Weather;component/Images/Misc/map.png" Stretch="Fill" />
+                    </u:YouButton>
+                    <!--640-->
+                    <Viewbox Canvas.Left="{Binding HomeButtonOffset}" Style="{StaticResource TopButtonsStyle}">
+                        <u:YouButton x:Name="HomeButton" Label="Help" Click="ButtonHomeOnClick"
+                                     ToolTip="See the Weather Home Page" BorderBrush="{x:Null}"
+                                     Foreground="{x:Null}" LabelBackground="{x:Null}">
+                            <u:YouButton.Background>
+                                <ImageBrush ImageSource="/You_Weather;component/Images/Misc/icon_border.png"
+                                            Stretch="Fill" />
+                            </u:YouButton.Background>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition Height="50" />
+                                </Grid.RowDefinitions>
+                                <Label x:Name="HomeTopLabel" HorizontalContentAlignment="Center" FontWeight="Bold"
+                                       FontFamily="Verdana" Content="Home" HorizontalAlignment="Center" FontSize="40" />
+                                <Image x:Name="UnderlineImageBackHome" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_2.png"
+                                       Stretch="Uniform" Width="190" />
+                                <Image x:Name="UnderlineImageBackActHome" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_1.png"
+                                       Stretch="Uniform" Width="190" Opacity="1" />
+                            </Grid>
+                        </u:YouButton>
+                    </Viewbox>
+                    <!--860-->
+                    <Viewbox Canvas.Left="{Binding HourlyButtonOffset}" Style="{StaticResource TopButtonsStyle}">
+                        <u:YouButton x:Name="TodayButton" Label="Help" Click="ButtonHourlyOnClick"
+                                     ToolTip="See the Detailed Weather" BorderBrush="{x:Null}"
+                                     Foreground="{x:Null}" LabelBackground="{x:Null}">
+                            <u:YouButton.Background>
+                                <ImageBrush ImageSource="/You_Weather;component/Images/Misc/icon_border.png"
+                                            Stretch="Fill" />
+                            </u:YouButton.Background>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition Height="50" />
+                                </Grid.RowDefinitions>
+                                <Label x:Name="HourlyTopLabel" HorizontalContentAlignment="Center" FontWeight="Normal"
+                                       FontFamily="Verdana" Content="Details" HorizontalAlignment="Center"
+                                       FontSize="40" />
+                                <Image x:Name="UnderlineImageBackHourly" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_2.png"
+                                       Stretch="Uniform" Width="190" />
+                                <Image x:Name="UnderlineImageBackActHourly" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_1.png"
+                                       Stretch="Uniform" Width="190" Opacity="0" />
+                            </Grid>
+                        </u:YouButton>
+                    </Viewbox>
+                </Canvas>
+                <!--100,0,100,0-->
+                <Grid Grid.Row="1" Margin="{Binding GridMargin}">
+                    <Grid.ColumnDefinitions>
+                        <!--500-->
+                        <ColumnDefinition Width="{Binding GridWidth}" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="1" CanVerticallyScroll="False" CanHorizontallyScroll="False"
+                                Orientation="Vertical" HorizontalAlignment="Right"
+                                VerticalAlignment="Top">
+                        <!--50 / Castro Daire, Portugal-->
+                        <Label x:Name="LocalNameLabel"
+                               Foreground="White" FontFamily="Calibri" FontSize="{Binding LocationFontSize}"
+                               FontWeight="Bold">
+                            <TextBlock>
+                                <TextBlock.Text>
+                                    <MultiBinding StringFormat="{}{0}, {1}">
+                                        <Binding Path="LocationCity" />
+                                        <Binding Path="LocationCountry" />
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Label>
+                        <!--25 / OpenWeatherMap.Org-->
+                        <Label x:Name="ServiceLabel" Margin="0, -10, 0, 0"
+                               HorizontalAlignment="Right" Foreground="White" FontFamily="Verdana"
+                               FontSize="{Binding ServiceFontSize}" Content="{Binding Service}" />
+                    </StackPanel>
+                    <StackPanel Grid.Column="1" CanVerticallyScroll="False" CanHorizontallyScroll="False"
+                                Orientation="Vertical" HorizontalAlignment="Right"
+                                VerticalAlignment="Bottom">
+                        <Label x:Name="LErrorLabel" Margin="0, 0, 0, 5" Foreground="{Binding LErrorForeground}"
+                               FontFamily="Verdana" FontWeight="Bold"
+                               FontSize="{Binding ServiceFontSize}" Content="{Binding LErrorText}" />
+                        <!--Last Updated: 16/04/2014, 22:45-->
+                        <Label HorizontalAlignment="Right" x:Name="LUpdateLabel" Margin="0, 0, 0, 25"
+                               Foreground="{Binding LUpdateForeground}" FontFamily="Verdana"
+                               FontWeight="{Binding LUpdateWeight}"
+                               FontSize="{Binding ServiceFontSize}">
+                            <TextBlock>
+                                <TextBlock.Text>
+                                    <Binding StringFormat="{}Last Updated: {0:dd/MM/yyyy}, {0:HH:mm:ss}"
+                                             Path="LUpdateDate" />
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Label>
+                    </StackPanel>
+                    <!-- 0, 0, 0, 100 -->
+                    <u:YouButton x:Name="CurrentWeatherMyButton" Grid.Column="0" BorderBrush="{x:Null}"
+                                 BorderThickness="3" VerticalAlignment="Bottom"
+                                 HorizontalAlignment="Right"
+                                 Height="{Binding WindowBigHeight}" Width="{Binding WindowBigWidth}"
+                                 Margin="{Binding WindowBigMargin}" Click="ButtonBase_OnClick">
+                        <u:YouButton.Background>
+                            <SolidColorBrush Color="MediumBlue" Opacity="0.4" />
+                            <!--<ImageBrush Opacity="0.5"
+                                    ImageSource="/DETI_Interact_v3;component/Images/Theme1/Background/background.jpg"
+                                    Stretch="UniformToFill" />-->
+                        </u:YouButton.Background>
+                        <Viewbox VerticalAlignment="Top" HorizontalAlignment="Center"
+                                 Height="{Binding WindowBigHeight}" Width="{Binding WindowBigWidth}">
+                            <Grid Margin="10" Width="420">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="10*" />
+                                    <RowDefinition Height="200*" />
+                                    <RowDefinition Height="150*" />
+                                    <RowDefinition Height="320*" />
+                                </Grid.RowDefinitions>
+                                <Label Grid.Row="0" FontFamily="Calibri" Foreground="White"
+                                       FontSize="50" Margin="-5, 0, 0, 0" Content="NOW" />
+                                <Label Grid.Row="1" FontFamily="Verdana" x:Name="CurrentTempLabel" Foreground="White"
+                                       FontSize="150" Margin="-5, 0, 0, 0" Content="{Binding BigCurrentTemperature}" />
+                                <Label Grid.Row="1" x:Name="CurrentTempUnitLabel" Foreground="White" FontSize="80"
+                                       HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0, 5, 0, 0"
+                                       Content="{Binding BigCurrentTemperatureUnits}" />
+                                <TextBlock TextWrapping="WrapWithOverflow" Grid.Row="2"
+                                           x:Name="CurrentWeatherStateLabel"
+                                           Foreground="White" FontSize="50" Margin="5, 0, 0, 0"
+                                           Text="{Binding BigCurrentWeatherText}" />
+                                <Grid Grid.Row="3">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="80*" />
+                                        <RowDefinition Height="130*" />
+                                        <RowDefinition Height="110*" />
+                                    </Grid.RowDefinitions>
+                                    <Grid Grid.Row="0">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+                                        </Grid.ColumnDefinitions>
+                                        <Label Grid.Column="0" Foreground="LightGray" FontSize="30"
+                                               FontFamily="Calibri">
+                                            Humidity:
+                                        </Label>
+                                        <Label Grid.Column="0" FontFamily="Verdana" x:Name="CurrentHumidityLabel"
+                                               Foreground="White" FontSize="25" Margin="0, 35, 0, 0">
+                                            <Label.Content>
+                                                <TextBlock>
+                                                    <TextBlock.Text>
+                                                        <MultiBinding StringFormat="{}{0} {1}">
+                                                            <Binding Path="BigCurrentHumidity" />
+                                                            <Binding Path="BigCurrentHumidityUnits" />
+                                                        </MultiBinding>
+                                                    </TextBlock.Text>
+                                                </TextBlock>
+                                            </Label.Content>
+                                        </Label>
+                                        <Label Grid.Column="1" Foreground="LightGray" FontSize="30"
+                                               FontFamily="Calibri">
+                                            Pressure:
+                                        </Label>
+                                        <Label Grid.Column="1" FontFamily="Verdana" x:Name="CurrentPressureLabel"
+                                               Foreground="White" FontSize="25" Margin="0, 35, 0, 0">
+                                            <Label.Content>
+                                                <TextBlock>
+                                                    <TextBlock.Text>
+                                                        <MultiBinding StringFormat="{}{0} {1}">
+                                                            <Binding Path="BigCurrentPressure" />
+                                                            <Binding Path="BigCurrentPressureUnits" />
+                                                        </MultiBinding>
+                                                    </TextBlock.Text>
+                                                </TextBlock>
+                                            </Label.Content>
+                                        </Label>
+                                    </Grid>
+                                    <Label Grid.Row="1" Foreground="LightGray" FontSize="30" FontFamily="Calibri">Wind:</Label>
+                                    <Grid Grid.Row="1" Margin="0, 35, 0, 0">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+                                        </Grid.ColumnDefinitions>
+                                        <Label Grid.Column="0" Foreground="DarkGray" FontSize="20" FontFamily="Calibri">Speed:</Label>
+                                        <TextBlock TextWrapping="WrapWithOverflow" Grid.Column="0" FontFamily="Calibri"
+                                                   x:Name="CurrentWindSpeedLabel" Foreground="White" FontSize="25"
+                                                   Margin="5, 30, 0, 0" Text="{Binding BigCurrentWindSpeedText}" />
+                                        <Label Grid.Column="1" Foreground="DarkGray" FontSize="20" FontFamily="Calibri">Direction:</Label>
+                                        <TextBlock TextWrapping="WrapWithOverflow" Grid.Column="1" FontFamily="Calibri"
+                                                   x:Name="CurrentWindDirectionLabel" Foreground="White" FontSize="25"
+                                                   Margin="5, 30, 0, 0" Text="{Binding BigCurrentWindDirectionText}" />
+                                    </Grid>
+                                    <Grid Grid.Row="2">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition />
+                                            <ColumnDefinition />
+                                        </Grid.ColumnDefinitions>
+                                        <Label Grid.Column="0" Foreground="LightGray" FontSize="30"
+                                               FontFamily="Calibri">
+                                            Clouds:
+                                        </Label>
+                                        <TextBlock TextWrapping="WrapWithOverflow" Grid.Column="0" FontFamily="Calibri"
+                                                   x:Name="CurrentCloudsLabel" Foreground="White" FontSize="25"
+                                                   Margin="5, 35, 0, 0" Text="{Binding BigCurrentCloudsText}" />
+                                        <Label Grid.Column="1" Foreground="LightGray" FontSize="30"
+                                               FontFamily="Calibri">
+                                            Precipitation:
+                                        </Label>
+                                        <TextBlock TextWrapping="WrapWithOverflow" Grid.Column="1" FontFamily="Calibri"
+                                                   x:Name="CurrentPrecipitationLabel" Foreground="White" FontSize="25"
+                                                   Margin="5, 35, 0, 0" Text="{Binding BigCurrentPrecipitationText}" />
+                                    </Grid>
+                                </Grid>
+                            </Grid>
+                        </Viewbox>
+                    </u:YouButton>
+                    <StackPanel x:Name="MyStackPanel" Grid.Column="1" VerticalAlignment="Bottom"
+                                HorizontalAlignment="Center"
+                                Orientation="Vertical" CanHorizontallyScroll="False"
+                                CanVerticallyScroll="False">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                                <ColumnDefinition />
+                            </Grid.ColumnDefinitions>
+                            <!-- 75, 0, 5, 0 / 150 -->
+                            <u:KinectHoverButton Grid.Column="0" Margin="{Binding HoverButton1Margin}"
+                                                 HorizontalAlignment="Left"
+                                                 Style="{StaticResource KinectHoverButtonScrollLeftStyle}"
+                                                 x:Name="PanLeft"
+                                                 Click="PageLeftButtonClick" Width="{Binding HoverButtonSize}"
+                                                 Height="{Binding HoverButtonSize}" />
+                            <!-- 5, 0, 5, 0 / 150 -->
+                            <u:KinectHoverButton Grid.Column="1" Margin="{Binding HoverButton2Margin}"
+                                                 HorizontalAlignment="Right"
+                                                 Style="{StaticResource KinectHoverButtonScrollRightStyle}"
+                                                 x:Name="PanRight" Click="PageRightButtonClick"
+                                                 Width="{Binding HoverButtonSize}"
+                                                 Height="{Binding HoverButtonSize}" />
+                        </Grid>
+                        <!-- 70, 0, 0, 0 / -70, 0, 0, 83 / 0, 0, 15, 0 -->
+                        <k:KinectScrollViewer x:Name="ScrollViewer" HorizontalScrollBarVisibility="Visible"
+                                              VerticalScrollBarVisibility="Disabled" HoverBackground="Transparent"
+                                              Margin="{Binding DownElementsMargin1}">
+                            <StackPanel x:Name="ScrollPanel" CanVerticallyScroll="False" CanHorizontallyScroll="True"
+                                        Orientation="Horizontal" Margin="{Binding DownElementsMargin2}"
+                                        VerticalAlignment="Bottom">
+                                <StackPanel.Resources>
+                                    <Style TargetType="{x:Type u:YouButton}">
+                                        <Setter Property="Margin" Value="{Binding DownElementsMargin3}" />
+                                    </Style>
+                                </StackPanel.Resources>
+                            </StackPanel>
+                        </k:KinectScrollViewer>
+                    </StackPanel>
+                </Grid>
+                <Grid.Background>
+                    <ImageBrush x:Name="WeatherWallImage"
+                                ImageSource="{Binding MainBackground}"
+                                Stretch="UniformToFill" />
+                </Grid.Background>
+            </Grid>
+        </k:KinectRegion>
+    </Grid>
+</Page>

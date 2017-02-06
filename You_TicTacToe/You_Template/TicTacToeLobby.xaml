@@ -1,0 +1,40 @@
+﻿<Page x:Class="You_TicTacToe.TicTacToeLobby"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	Title="TicTacToeLobby" x:Name="YouTicTacToeLobby">
+
+    <Grid>
+        <k:KinectRegion x:Name="TicTacToeLobbyRegion">
+            <Canvas x:Name="YouTicTacToeCanvas">
+                <Viewbox Name="msgboard">
+                    <TextBlock Name="msgb" Text=""  FontFamily="Trebuchet MS" Foreground="#FF1F0ECD" TextAlignment="Center" TextWrapping="Wrap"/>
+                </Viewbox>
+                <u:YouButton Name="quitButton" BorderBrush="{x:Null}" Label="Quit" Background="{x:Null}" LabelBackground="{x:Null}" HorizontalLabelAlignment="Center" VerticalLabelAlignment="Center" Foreground="#FF3418B4" FontWeight="Bold" Click="quitButton_Click" FontSize="45"/>
+                <u:YouButton Name="createButton" BorderBrush="{x:Null}" Label="Create Game" Background="{x:Null}" LabelBackground="{x:Null}" Foreground="#FF3418B4" HorizontalLabelAlignment="Center" VerticalLabelAlignment="Center" FontWeight="Bold" Click="createButton_Click" FontSize="45"/>
+                <Grid Name="grelhaJogos"  HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Name="linha1" Height="100" />
+                        <RowDefinition Name="linha2" Height="100" />
+                        <RowDefinition Name="linha3" Height="100" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Name="coluna1" Width="100" />
+                        <ColumnDefinition Name="coluna2" Width="100" />
+                        <ColumnDefinition Name="coluna3" Width="100" />
+                        <ColumnDefinition Name="coluna4" Width="100" />
+                    </Grid.ColumnDefinitions>
+                </Grid>
+
+            </Canvas>
+        </k:KinectRegion>
+        <Grid.Background>
+            <ImageBrush Opacity="80" ImageSource="/You_TicTacToe;component/Images/background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+    </Grid>
+</Page>

@@ -1,0 +1,38 @@
+﻿<Page x:Class="You_Videos.YouPlayer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	Title="VideoPlayer" x:Name="YouVideoPlayer">
+
+    <Grid>
+        <k:KinectRegion x:Name="YouVideoPlayerRegion">
+            <Canvas x:Name="YouVideoPlayerCanvas">
+                <u:YouButton x:Name="MenuVideos" Label="Main" Click="Button_Click" GripEvent="MenuVideos_OnGripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}" >
+                    <Image Source="/You_Videos;component/Images/Themes/Theme1/Navigation/back.png" Stretch="Fill"/>
+                </u:YouButton>
+                <MediaElement Name="VideoControl" LoadedBehavior="Manual" Stretch="Fill">
+                </MediaElement>
+                <u:YouButton x:Name="Play" Click="Button_Click" GripEvent="MenuVideos_OnGripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_Videos;component/Images/Themes/Theme1/Videos/play.png" Stretch="Fill"></Image>
+                </u:YouButton>
+                <u:YouButton x:Name="Pause" Click="Button_Click" GripEvent="MenuVideos_OnGripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_Videos;component/Images/Themes/Theme1/Videos/pause.png" Stretch="Fill"></Image>
+                </u:YouButton>
+                <u:YouButton x:Name="Stop" Click="Button_Click" GripEvent="MenuVideos_OnGripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_Videos;component/Images/Themes/Theme1/Videos/stop.png" Stretch="Fill"></Image>
+                </u:YouButton>
+                <Label x:Name="Title" HorizontalAlignment="Center" HorizontalContentAlignment="Center" 
+                    VerticalContentAlignment="Top" ></Label>
+            </Canvas>
+        </k:KinectRegion>
+        <Grid.Background>
+            <ImageBrush ImageSource="/You_Videos;component/Images/Themes/Theme1/Background/background.jpg"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Page>

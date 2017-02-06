@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PongHighscores>
+	<Entry>
+		<id>1</id>
+		<value>999.99</value>
+	</Entry>
+	<Entry>
+		<id>2</id>
+		<value>9999.99</value>
+	</Entry>
+	<Entry>
+		<id>3</id>
+		<value>99999.99</value>
+	</Entry>
+	<Entry>
+		<id>4</id>
+		<value>999999.99</value>
+	</Entry>
+	<Entry>
+		<id>5</id>
+		<value>9999999.99</value>
+	</Entry>
+</PongHighscores>

@@ -1,0 +1,28 @@
+﻿<Page x:Class="You_TicTacToe.TicTacToeWaitScreen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	Title="TicTacToeWaitScreen" x:Name="YouTicTacToeWaitScreen">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/background.jpg"/>
+        </Grid.Background>
+        <k:KinectRegion x:Name="TicTacToeWaitScreenRegion">
+            <Canvas x:Name="TicTacToeWaitScreenCanvas">
+                <u:YouButton Name="quitButton" BorderBrush="{x:Null}" Label="Quit" Background="{x:Null}" LabelBackground="{x:Null}" HorizontalLabelAlignment="Center" VerticalLabelAlignment="Center" Foreground="#FF3418B4" FontWeight="Bold" Click="quitButton_Click" FontSize="64"/>
+
+                <Viewbox Name="msgboard">
+                    <TextBlock Name="msgb" Text="YOU TIC TAC TOE!"  FontFamily="Trebuchet MS" Foreground="#FF1F0ECD" TextAlignment="Center" TextWrapping="Wrap"/>
+                </Viewbox>
+
+            </Canvas>
+        </k:KinectRegion>
+
+    </Grid>
+</Page>

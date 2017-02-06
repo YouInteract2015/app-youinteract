@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewBag.Title = "Items";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header">
+                <i class="list layout icon"></i> List of available Items
+            </h3>
+
+
+            <table class="ui black table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Preview</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+
+                        <td>1</td>
+                        <td>UA image</td>
+                        <td>
+                            <img src="~/Content/imagens/ua_logo.png" class="ui small image">
+                        </td>
+                    </tr>
+
+                    <!-- nova linha  -->
+
+
+
+
+                </tbody>
+            </table>
+
+            <br />
+
+            <!-- add items  -->
+
+            <h3 class="ui inverted white block header"> Add Items </h3>
+
+
+            <div class="ui form">
+                <div class="field">
+                    <label>Tittle:</label>
+                    <input type="text">
+                </div>
+            </div>
+            <br />
+
+
+
+            <b>File (jpg, html, iframe HTML youtube... ):</b>
+
+            <div class="field">
+                <div class="ui action input">
+                    <input type="text" id="_attachmentName">
+                    <label for="attachmentName" class="ui icon button btn-file">
+                        <i class="file icon"></i>
+                        Upload File
+                        <input type="file" id="attachmentName" name="attachmentName" style="display: none">
+                    </label>
+                </div>
+            </div>
+
+
+            <br />
+
+            <div align="right"><a href="Device" class="positive ui button"> Add </a></div>
+
+
+
+
+        </div>
+    </div>
+</div>
+
+

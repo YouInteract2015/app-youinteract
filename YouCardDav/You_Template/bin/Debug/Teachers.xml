@@ -1,0 +1,1161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TeachersAPP>
+	<Teacher>
+		<Nome>Adão Paulo Soares da Silva</Nome>
+		<Gabinete>IT</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.it.pt/person_detail_p.asp?ID=760</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Alexandre Manuel Moutela Nunes da Mota</Nome>
+		<Gabinete>229</Gabinete>
+		<Extensao>23011</Extensao>
+		<Webpage>http://www.ieeta.pt/~alex</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Amaro Fernandes de Sousa</Nome>
+		<Gabinete>325</Gabinete>
+		<Extensao>23053</Extensao>
+		<Webpage>http://www.av.it.pt/asou</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Ana Maria Perfeito Tomé</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24112</Extensao>
+		<Webpage>http://www.ieeta.pt/~ana</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>André Ventura da Cruz Marnoto Zúquete</Nome>
+		<Gabinete>IEETA</Gabinete>
+		<Extensao>24104</Extensao>
+		<Webpage>http://www.ieeta.pt/~avz</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>A. Manuel de Oliveira Duarte</Nome>
+		<Gabinete>338</Gabinete>
+		<Extensao>23040</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Ferreira Pereira de Melo</Nome>
+		<Gabinete>224</Gabinete>
+		<Extensao>23052</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Guilherme Rocha Campos</Nome>
+		<Gabinete>219</Gabinete>
+		<Extensao>23059</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Joaquim da Silva Teixeira</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24126</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Jorge da Silva Morgado</Nome>
+		<Gabinete>337</Gabinete>
+		<Extensao>23047</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António José Nunes Navarro Rodrigues</Nome>
+		<Gabinete>219</Gabinete>
+		<Extensao>23059</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António José Ribeiro Neves</Nome>
+		<Gabinete>IEETA</Gabinete>
+		<Extensao />
+		<Webpage>http://sweet.ua.pt/an/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>António Luís Jesus Teixeira</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.it.pt/person_detail_p.asp?ID=703</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>António Manuel Adrego da Rocha</Nome>
+		<Gabinete>235</Gabinete>
+		<Extensao>23021</Extensao>
+		<Webpage>http://sweet.ua.pt/~f706</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>António Manuel de Brito Ferrari Almeida</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Manuel Duarte Nogueira</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.av.it.pt/~nogueira/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>António Manuel Melo de Sousa Pereira</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24113</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Manuel Nunes da Cruz</Nome>
+		<Gabinete>244</Gabinete>
+		<Extensao>23020</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Manuel Rodrigues Tavares</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Rui de Oliveira e Silva Borges</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24116</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Armando Carlos Domingues da Rocha</Nome>
+		<Gabinete>339</Gabinete>
+		<Extensao>23045</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Armando Humberto Moreira Nolasco Pinto</Nome>
+		<Gabinete>343</Gabinete>
+		<Extensao>23055</Extensao>
+		<Webpage>http://www.av.it.pt/anp</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Armando José Formoso de Pinho</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24120</Extensao>
+		<Webpage>http://www.ieeta.pt/~ap</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Arnaldo Silva Rodrigues de Oliveira</Nome>
+		<Gabinete>307</Gabinete>
+		<Extensao>23030</Extensao>
+		<Webpage>http://www.ieeta.pt/~arnaldo</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Artur José Carneiro Pereira</Nome>
+		<Gabinete>308</Gabinete>
+		<Extensao>23031</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Atílio Manuel da Silva Gameiro</Nome>
+		<Gabinete>334</Gabinete>
+		<Extensao>23037</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Augusto Marques Ferreira da Silva</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24112</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Carlos Alberto da Costa Bastos</Nome>
+		<Gabinete>203 IEETA</Gabinete>
+		<Extensao>24121</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Carlos Manuel Azevedo Costa</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24110</Extensao>
+		<Webpage>www.ieeta.pt/~costa</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Dinis Gomes de Magalhães dos Santos</Nome>
+		<Gabinete>230</Gabinete>
+		<Extensao>23012</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ernesto Fernando Ventura Martins</Nome>
+		<Gabinete>238</Gabinete>
+		<Extensao>23019</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Filipe Miguel Teixeira Pereira da Silva</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24131</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Francisco António Cardoso Vaz</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24106</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Francisco Manuel Marques Fontes</Nome>
+		<Gabinete>Inst.Telec</Gabinete>
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Helder Troca Zagalo</Nome>
+		<Gabinete>314</Gabinete>
+		<Extensao>23033</Extensao>
+		<Webpage>http://www.ieeta.pt/~htz</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Ilídio Castro Oliveira</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24100</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Iouliia Skliarova</Nome>
+		<Gabinete>240</Gabinete>
+		<Extensao>23075</Extensao>
+		<Webpage>http://www.ieeta.pt/~iouliia/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>João Manuel de Oliveira e Silva Rodrigues</Nome>
+		<Gabinete>IEETA 2.03</Gabinete>
+		<Extensao>24121</Extensao>
+		<Webpage>http://www.ieeta.pt/~jmr/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>João Nuno Pimentel da Silva Matos</Nome>
+		<Gabinete>326</Gabinete>
+		<Extensao>48278</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Joaquim Arnaldo Carvalho Martins</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24114</Extensao>
+		<Webpage>http://www.ieeta.pt/~jam</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Joaquim João Estrela Ribeiro Silvestre Madeira</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24104</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Joaquim Manuel Henriques de Sousa Pinto</Nome>
+		<Gabinete>1.05-IEETA</Gabinete>
+		<Extensao>24135</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Alberto dos Santos Rafael</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Artur Ferreira da Silva e Vale Serrano</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Alberto Gouveia Fonseca</Nome>
+		<Gabinete>323</Gabinete>
+		<Extensao>23038</Extensao>
+		<Webpage>http://www.ieeta.pt/~jaf</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>José Carlos da Silva Neves</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Carlos Esteves Duarte Pedro</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Fernando da Rocha Pereira</Nome>
+		<Gabinete>341</Gabinete>
+		<Extensao>23042</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Joaquim Gomes Fernandes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Luis Costa Pinto Azevedo</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24109</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Luis Guimarães Oliveira</Nome>
+		<Gabinete>IEETA2.07</Gabinete>
+		<Extensao>24123</Extensao>
+		<Webpage>http://www.ieeta.pt/~jlo</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>José Luis Vieira Cura</Nome>
+		<Gabinete>223</Gabinete>
+		<Extensao>23010</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Manuel Matos Moreira</Nome>
+		<Gabinete>314</Gabinete>
+		<Extensao>23033</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Manuel Neto Vieira</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24109</Extensao>
+		<Webpage>http://www.ieeta.pt/~vieira</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>José Maria Amaral Fernandes</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24142</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Nuno Panelas Nunes Lau</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24124</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Rodrigues Ferreira da Rocha</Nome>
+		<Gabinete>3.2.6</Gabinete>
+		<Extensao>22113</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luís Filipe de Seabra Lopes</Nome>
+		<Gabinete>313</Gabinete>
+		<Extensao>23018</Extensao>
+		<Webpage>http://www.ieeta.pt/~lsl</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Luis Filipe Mesquita Nero Moreira Alves</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.it.pt/person_detail_p.asp?id=743</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Luís Miguel Pinho de Almeida</Nome>
+		<Gabinete>321</Gabinete>
+		<Extensao>23023</Extensao>
+		<Webpage>http://www.ieeta.pt/~lda</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Manuel Alberto Reis de Oliveira Violas</Nome>
+		<Gabinete>337</Gabinete>
+		<Extensao>23047</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Manuel Bernardo Salvador Cunha</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24117</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Maria Beatriz Alves de Sousa Santos</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24117</Extensao>
+		<Webpage>http://www.ieeta.pt/~bss</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Mário José Neves de Lima</Nome>
+		<Gabinete>IT</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.it.pt/person_detail_p.asp?ID=433</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Miguel Augusto Mendes Oliveira e Silva</Nome>
+		<Gabinete>245</Gabinete>
+		<Extensao>23017</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nuno Fernando Pinto da Silva Ferreira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nuno Miguel Gonçalves Borges de Carvalho</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.av.it.pt/nbcarvalho</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Osvaldo Manuel da Rocha Pacheco</Nome>
+		<Gabinete>243</Gabinete>
+		<Extensao>23016</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Paulo Bacelar Reis Pedreiras</Nome>
+		<Gabinete>321</Gabinete>
+		<Extensao>23023</Extensao>
+		<Webpage>http://www.ieeta.pt/~pedreiras/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Paulo Jorge dos Santos Gonçalves Ferreira</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24125</Extensao>
+		<Webpage>http://www.ieeta.pt/~pjf</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Paulo Jorge Salvador Serra Ferreira</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.av.it.pt/salvador</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Paulo Miguel de Jesus Dias</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24100</Extensao>
+		<Webpage>http://www.ieeta.pt/~pdias</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Paulo Miguel Nepomuceno Pereira Monteiro</Nome>
+		<Gabinete>339</Gabinete>
+		<Extensao>23045</Extensao>
+		<Webpage>http://www.it.pt/person_detail_p.asp?ID=448</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Lopes da Silva Mariano</Nome>
+		<Gabinete>344</Gabinete>
+		<Extensao>23044</Extensao>
+		<Webpage>http://www.ieeta.pt/~plsm/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Miguel da Silva Cabral</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Miguel Ribeiro Lavrador</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Fonseca</Nome>
+		<Gabinete>324</Gabinete>
+		<Extensao>23046</Extensao>
+		<Webpage>http://sweet.ua.pt/~pf</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Pétia Georgieva Georgieva</Nome>
+		<Gabinete>ieeta 1.13</Gabinete>
+		<Extensao>24141</Extensao>
+		<Webpage>http://www.ieeta.pt/~petia/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Rui Alberto Ferreira de Castro</Nome>
+		<Gabinete>201</Gabinete>
+		<Extensao>23068</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Rui da Graça Rocha Ribeiro</Nome>
+		<Gabinete>ieeta</Gabinete>
+		<Extensao>24121</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Rui Fernando Gomes de Sousa Ribeiro</Nome>
+		<Gabinete>343</Gabinete>
+		<Extensao>23055</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Rui Jorge Morais Tomaz Valadas</Nome>
+		<Gabinete>337</Gabinete>
+		<Extensao>23047</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Rui Luís Andrade Aguiar</Nome>
+		<Gabinete>236</Gabinete>
+		<Extensao>23022</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Rui Manuel Escadas Ramos Martins</Nome>
+		<Gabinete>246</Gabinete>
+		<Extensao>23025</Extensao>
+		<Webpage>http://www.ieeta.pt/~escadas</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Rui Pedro de Oliveira Alves</Nome>
+		<Gabinete>201</Gabinete>
+		<Extensao>23068</Extensao>
+		<Webpage>http://www.av.it.pt/rpedro/</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Samuel de Sousa Silva</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Sérgio Barbosa</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Susana de Jesus Mota</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Susana Isabel Barreto de Miranda Sargento</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://www.av.it.pt/ssargento/ , Group Webpage: http://nap.av.it.pt</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Telmo Reis Cunha</Nome>
+		<Gabinete>314</Gabinete>
+		<Extensao>23033</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Tomás António Mendes Oliveira e Silva</Nome>
+		<Gabinete>237</Gabinete>
+		<Extensao>23013</Extensao>
+		<Webpage>http://www.ieeta.pt/~tos</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Valery Skliarov</Nome>
+		<Gabinete>125</Gabinete>
+		<Extensao>23050</Extensao>
+		<Webpage>http://www.ieeta.pt/~skl</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Docente ainda não Atribuido</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Oscar Pereira</Nome>
+		<Gabinete>IT</Gabinete>
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>R Jonathan Rodriguez</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>João Paulo Silva Barraca</Nome>
+		<Gabinete>it</Gabinete>
+		<Extensao>23831</Extensao>
+		<Webpage>http://hng.av.it.pt/~jpbarraca</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>R Nuno Silva</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Miguel Angel Guevara Lopez</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Diogo Nuno Pereira Gomes</Nome>
+		<Gabinete>IT - 1.05</Gabinete>
+		<Extensao>48234</Extensao>
+		<Webpage>http://www.diogogomes.com</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>R Joaquim Ferreira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>R Ricardo Marau</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Bolseiro Jose Tomas Caramejo Marino</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Daniel Nunes Corujo  </Nome>
+		<Gabinete>IT</Gabinete>
+		<Extensao />
+		<Webpage>http://re.vu/dcorujo</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Alfredo Miguel Melo Matos  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>André Frederico Guilhoto Monteiro  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luis Miguel Saraiva Ribeiro  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>José Miguel da Silva Bergano</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Filipe Alexandre da Silva Rodrigues</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luís Pedro Marques Brás  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Sara Helena Marques Teodoro  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Sérgio Carlos da Conceição Pires  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Hugo Miguel Santos Teixeira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>João Manuel Leite da Silva</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Miguel Duarte Cruz</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Eduardo Oliveira Estanqueiro Rocha</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>João Monteiro Soares</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luís Manuel Cerqueira Barreto</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Vítor Jesus</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nelson José Valente da Silva</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nelson de Jesus Cordeiro Muga</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Miguel Vidal Drummond</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>António Manuel Cerqueira Alves  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Sara Cristina de Almeida Pinto Garcia  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Sérgio Guilherme Aleixo de Matos  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Cláudio Jorge Vieira Teixeira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Carlos Miguel Ferreira Soares Borges Lopes  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Victor Manuel Letra Macedo Marques  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luis Alberto Santos  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Joaquim José de Castro Ferreira  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luis Miguel de Oliveira Matos  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Daniel Filipe Albuquerque</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>LUÍS MIGUEL DE NORONHA PESSOA DE AMORIM  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Daniel Filipe Castanheira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Fernando Pedro Pereira Guiomar  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Andreia Moço</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>David Emmanuel Marques Campos  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Rómulo José Magalhães Martins Antão</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Rui Gabriel Viegas dos Santos</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Darlene Maciel Neves  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Hugo Filipe Pereira da Silva Reboredo</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Jacklin Dias Reis</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Marco Filipe Nunes Soares Abrantes Pereira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Lopes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Miguel Naia Neves</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ricardo dias Fernandes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Sara Catarina Rasteiro Coelho</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Sérgio Ivan Lopes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>João Pedro Estima de Oliveira</Nome>
+		<Gabinete />
+		<Extensao>23014</Extensao>
+		<Webpage>http://www.deti.ua.pt/pageperson.aspx?id=186</Webpage>
+	</Teacher>
+	<Teacher>
+		<Nome>Samuel Silva</Nome>
+		<Gabinete />
+		<Extensao>24100</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>João Cunha</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Alina Triffan</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>hélder josé rodrigues gomes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Hugo Silveirinha Félix</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Carlos André Marques Viana Ferreira  </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luís Carlos Cótimos Nunes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Manuel Joaquim Campos Mendes Nunes Duarte</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Mário Luís Pinto Antunes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ricardo Jorge Sequeira Matias</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Diogo Rodrigo Marques Pratas</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Tiago Miguel Valente Varum</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Marcio Daniel Tavares de Melo</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Alina Liliana Trifan</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ricardo Gonçalves</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nuno Gonçalves Rodrigues</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Wael Dghais</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ludimar Barreto Ximbo Guenda</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nuno Alexandre Peixoto Silva</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Firooz Bashashi Saghezchi</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Vitor M.C. Ribeiro</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Joao Alexandre da Silva Costa e Cunha</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Frederico Valente </Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nautilia Maia</Nome>
+		<Gabinete />
+		<Extensao>23070</Extensao>
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ana Rocha</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Docente Teste EquiBolseiro</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Tiago Gonçalves</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Vanessa Duarte</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Leandro Ferreira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Flavio Jorge</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Daniel Malafai</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Nuno Almeida</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Gil Fernandes</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Eurico Pedrosa</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ricardo Ferreira</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>gustavo Pires</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>André Prata</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>João Almeida</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Pedro Sernadela</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Tiago Godinho</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luis Emanuel Moutinho Silva</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Flávio Miguel da Silva Jorge</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Ricardo Marau</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Daniel André Pires Duarte</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage />
+	</Teacher>
+	<Teacher>
+		<Nome>Luis Carlos Carneiro Gonçalves</Nome>
+		<Gabinete />
+		<Extensao />
+		<Webpage>http://luisgo.dyndns.org</Webpage>
+	</Teacher>
+</TeachersAPP>

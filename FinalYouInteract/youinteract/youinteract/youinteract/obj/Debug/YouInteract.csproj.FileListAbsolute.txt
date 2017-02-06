@@ -1,0 +1,37 @@
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\obj\Debug\YouInteract.csprojResolveAssemblyReference.cache
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\bin\Debug\YouInteract.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\bin\Debug\YouInteract.pdb
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\obj\Debug\YouInteract.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\obj\Debug\YouInteract.pdb
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\YouInteract\YouInteract\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\YouInteract\YouInteract\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\YouInteract\YouInteract\obj\Debug\YouInteract.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\YouInteract\YouInteract\obj\Debug\YouInteract.dll
+D:\YouInteract BETA\YouInteract\YouInteract\obj\Debug\YouInteract.pdb
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\bin\Debug\YouInteract.dll
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\bin\Debug\YouInteract.pdb
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\obj\Debug\YouInteract.csprojResolveAssemblyReference.cache
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\obj\Debug\YouInteract.dll
+C:\Users\José\Documents\fdsYouLx\YouInteract\YouInteract\obj\Debug\YouInteract.pdb
+D:\FIX\YouInteract\YouInteract\bin\Debug\YouInteract.dll
+D:\FIX\YouInteract\YouInteract\bin\Debug\YouInteract.pdb
+D:\FIX\YouInteract\YouInteract\obj\Debug\YouInteract.csprojResolveAssemblyReference.cache
+D:\FIX\YouInteract\YouInteract\obj\Debug\YouInteract.dll
+D:\FIX\YouInteract\YouInteract\obj\Debug\YouInteract.pdb
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\obj\Debug\YouInteract.csprojResolveAssemblyReference.cache
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\obj\Debug\YouInteract.dll
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\obj\Debug\YouInteract.pdb
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\bin\Debug\YouInteract.dll
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\bin\Debug\YouInteract.pdb
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Downloads\YouInteract\YouInteract\YouInteract\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\UA\3-2\PEI\You Interact\FinalYouInteract\youinteract\youinteract\YouInteract\obj\Debug\YouInteract.csprojResolveAssemblyReference.cache
+D:\UA\3-2\PEI\You Interact\FinalYouInteract\youinteract\youinteract\YouInteract\obj\Debug\YouInteract.dll
+D:\UA\3-2\PEI\You Interact\FinalYouInteract\youinteract\youinteract\YouInteract\obj\Debug\YouInteract.pdb

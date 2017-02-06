@@ -1,0 +1,45 @@
+﻿<Page x:Class="You_Pong.PongViewHighscores"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	  Title="PongViewHighscores" x:Name="YouPongViewHighscores">
+
+    <Grid>
+        <k:KinectRegion x:Name="YouPongViewHighscoresRegion">
+            <Canvas x:Name="YouPongCanvas" Background="Black">
+                <Image x:Name="titulo" Stretch="Fill"/>
+                <u:YouButton x:Name="main" Label="Main" Click="Button_Click" GripEvent="Button_GripEvent" BorderBrush="{x:Null}" Foreground="{x:Null}" Background="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_Pong;component\Images\Themes\Theme1\Navigation\back.png" Stretch="Fill"/>
+                </u:YouButton>
+                <TextBlock Name="ponghighscores" Text="HIGHSCORES" FontSize="70" FontFamily="/You_Pong;component/#Press Start 2P" Foreground="White" TextAlignment="Center"></TextBlock>
+                
+                <TextBlock Name="first" FontSize="40" Foreground="White" TextAlignment="Center" FontFamily="/You_Pong;component/#Press Start 2P" Text="1º"></TextBlock>
+                <TextBlock Name="score1" FontSize="35" Foreground="White" FontFamily="/You_Pong;component/#Press Start 2P"/>
+                <Image x:Name="primeirolugar" Source="Pong1.png"></Image>
+                
+                <TextBlock Name="second" FontSize="30" Foreground="White" TextAlignment="Center" FontFamily="/You_Pong;component/#Press Start 2P" Text="2º"></TextBlock>
+                <TextBlock Name="score2" FontSize="35" Foreground="White" FontFamily="/You_Pong;component/#Press Start 2P"/>
+                <Image x:Name="segundolugar" Source="Pong2.png"></Image>
+                
+                <TextBlock Name="third" FontSize="30" Foreground="White" TextAlignment="Center"  FontFamily="/You_Pong;component/#Press Start 2P" Text="3º"> </TextBlock>
+                <TextBlock Name="score3" FontSize="35" Foreground="White" FontFamily="/You_Pong;component/#Press Start 2P"/>
+                <Image x:Name="terceirolugar" Source="Pong3.png"></Image>
+                
+                <TextBlock Name="fourth" FontSize="30" Foreground="White" TextAlignment="Center" FontFamily="/You_Pong;component/#Press Start 2P" Text="4º"></TextBlock>
+                <TextBlock Name="score4" FontSize="35" Foreground="White" FontFamily="/You_Pong;component/#Press Start 2P"/>
+                <Image x:Name="quartolugar" Source="Pong4.png"></Image>
+                
+                <TextBlock Name="fifth" FontSize="30" Foreground="White" TextAlignment="Center" FontFamily="/You_Pong;component/#Press Start 2P" Text="5ª"></TextBlock>
+                <TextBlock Name="score5" FontSize="35" Foreground="White" FontFamily="/You_Pong;component/#Press Start 2P"/>
+                <Image x:Name="quintolugar" Source="Pong5.png"></Image>
+            </Canvas>
+        </k:KinectRegion>
+
+    </Grid>
+</Page>

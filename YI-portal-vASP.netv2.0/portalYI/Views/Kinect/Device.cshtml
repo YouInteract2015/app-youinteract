@@ -1,0 +1,84 @@
+﻿@model IEnumerable<portalYI.Models.kinect_devices>
+@{
+    ViewBag.Title = "Device";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header"> DEVICES CONNECTED TO THE PORTAL > WITH KINECT&copy; </h3>
+
+
+            <table class="ui black table">
+
+
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name/Description</th>
+                        <th>Local</th>
+                        <th>IP</th>
+                        <th>Configuration name</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+            
+
+
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.id)
+
+        </td>
+        <td>
+            <b>@Html.DisplayFor(modelItem => item.title)</b>
+            <br />
+            @Html.DisplayFor(modelItem => item.description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ip)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.config_id)
+        </td>
+
+
+        <td>
+            <a class="ui vertical animated button" href="EditDevice">
+                <div class="hidden content">Edit</div>
+                <div class="visible content">
+                    <i class="edit icon"></i>
+                </div>
+            </a>
+        </td>
+
+        <td>
+            <button class="ui vertical animated button" onclick="functionDelete()">
+                <div class="hidden content">Remove</div>
+                <div class="visible content">
+                    <i class="trash icon"></i>
+                </div>
+            </button>
+        </td>
+
+    </tr>
+}
+
+
+                    <!-- nova linha  -->
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

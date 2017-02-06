@@ -1,0 +1,119 @@
+﻿@model IEnumerable<portalYI.Models.kinect_items>
+
+@{
+    ViewBag.Title = "APPs";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+    <h3 class="ui inverted white block header">
+        <i class="list layout icon"></i> List of available APP
+    </h3>
+
+                <table class="ui black table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Application Name/Description</th>
+                            <th>Version</th>
+                            <th>Eliminate</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+                         <tr>
+                            <td>@Html.DisplayFor(modelItem => item.id)</td>
+                            <td><b>@Html.DisplayFor(modelItem => item.title)</b>
+                                <br /> @Html.DisplayFor(modelItem => item.description)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.version)
+                            </td>
+                            <td>
+                                <div class="ui vertical animated button">
+                                    <div class="hidden content">Remove</div>
+                                    <div class="visible content">
+                                        <i class="trash icon"></i>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                           
+                        }
+
+
+                    </tbody>
+                </table>
+
+
+                <p>
+                </p>
+
+
+                <h2>Add new applications to the list above</h2>
+
+                
+            @using (Html.BeginForm("InsertAPP", "Kinect", FormMethod.Post, new { enctype = "multipart/form-data"}))
+            {
+
+
+            <div class="ui form">
+                <div class="two fields">
+                    <div class="field">
+                        <label>Name:</label>
+                        <input type="text" name="NameApps" id="NameApps">
+                    </div>
+                    <div class="field">
+                        <label>Version:</label>
+                        <input type="text" name="versionAps" id="versionAps">
+                    </div>
+                </div>
+            </div>
+
+
+
+                <div class="ui form">
+                    <div class="field">
+                        <label>Description:</label>
+                        <input type="text" name="descAPPS" id="descAPPS">
+                    </div>
+                </div>
+
+                <br />
+
+                <b>Application file (dll library):</b>
+
+                
+                <br /> 
+                <div class="field">
+                    <input type="file" name="file" />
+                </div>
+                
+
+                <br />
+
+                
+                <p align="right">
+                    <input type="submit" value="Add new APP" class="ui teal button" />
+                </p>
+
+                } 
+
+
+
+
+
+
+    </div>
+    </div>
+</div>
+
+
+
+

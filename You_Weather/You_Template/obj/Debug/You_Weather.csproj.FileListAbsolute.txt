@@ -1,0 +1,260 @@
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\You_Weather.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\Weather.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\Weather.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\You_Weather.csproj.GenerateResource.Cache
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\You_Weather.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\You_Weather.pdb
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\Awesomium.Core.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\Awesomium.Core.xml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\awesomium.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\icudt.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\avcodec-53.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\avformat-53.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\avutil-51.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\libEGL.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\libGLESv2.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\awesomium_process
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\inspector.pak
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\bin\Debug\xinput9_1_0.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\WeatherData\ForecastButtonControl.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\WeatherHourly.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\WeatherLocation.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\WeatherData\ForecastButtonControl.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\WeatherHourly.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\WeatherLocation.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\You_Weather_MarkupCompile.cache
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\You_Weather.g.resources
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\You_Weather.Properties.Resources.resources
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\You_Weather.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Template\You_Template\obj\Debug\You_Weather.pdb
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\You_Weather.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\You_Weather.pdb
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Core.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Core.xml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\awesomium.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\icudt.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\avcodec-53.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\avformat-53.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\avutil-51.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\libEGL.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\libGLESv2.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\awesomium_process
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\inspector.pak
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\xinput9_1_0.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\Weather.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHourly.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherLocation.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\Weather.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHourly.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherLocation.g.cs
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather_MarkupCompile.cache
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.g.resources
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.Properties.Resources.resources
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.csproj.GenerateResource.Cache
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.dll
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.pdb
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHelp.baml
+C:\Users\João\Desktop\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHelp.g.cs
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\You_Weather.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\You_Weather.pdb
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Core.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Core.xml
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.xml
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\YouInteract.pdb
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\awesomium.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\icudt.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\avcodec-53.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\avformat-53.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\avutil-51.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\libEGL.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\libGLESv2.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\awesomium_process
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\inspector.pak
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\bin\Debug\xinput9_1_0.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.csprojResolveAssemblyReference.cache
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\Weather.baml
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.baml
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHelp.baml
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHourly.baml
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherLocation.baml
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\Weather.g.cs
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.g.cs
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHelp.g.cs
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHourly.g.cs
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherLocation.g.cs
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather_MarkupCompile.cache
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.g.resources
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.Properties.Resources.resources
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.csproj.GenerateResource.Cache
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.dll
+D:\Dropbox\IHC_Share\Arquitectura Plugins\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\You_Weather.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\You_Weather.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\Awesomium.Core.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\YouInteract.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\Awesomium.Core.xml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\awesomium.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\icudt.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\avcodec-53.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\avformat-53.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\avutil-51.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\libEGL.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\libGLESv2.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\awesomium_process
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\inspector.pak
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\bin\Debug\xinput9_1_0.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\You_Weather.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\Weather.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherHelp.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherHourly.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherLocation.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\Weather.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherHelp.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherHourly.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\WeatherLocation.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\You_Weather_MarkupCompile.cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\You_Weather.g.resources
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\You_Weather.Properties.Resources.resources
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\You_Weather.csproj.GenerateResource.Cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\You_Weather.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\You_Weather\You_Template\obj\Debug\You_Weather.pdb
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\You_Weather.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\You_Weather.pdb
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Core.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Core.xml
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\awesomium.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\icudt.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\avcodec-53.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\avformat-53.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\avutil-51.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\libEGL.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\libGLESv2.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\awesomium_process
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\inspector.pak
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\bin\Debug\xinput9_1_0.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\Weather.baml
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.baml
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHelp.baml
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHourly.baml
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherLocation.baml
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\Weather.g.cs
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.g.cs
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHelp.g.cs
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherHourly.g.cs
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\WeatherLocation.g.cs
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather_MarkupCompile.cache
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.g.resources
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.Properties.Resources.resources
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.csproj.GenerateResource.Cache
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.dll
+C:\Users\João\Desktop\YouWeather_Joao-Rodrigues,Rui-Pedro\YouInteract BETA\You_Weather\You_Template\obj\Debug\You_Weather.pdb
+H:\You Interact\You_Weather\You_Template\bin\Debug\You_Weather.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\You_Weather.pdb
+H:\You Interact\You_Weather\You_Template\bin\Debug\Awesomium.Core.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\YouInteract.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\Awesomium.Core.xml
+H:\You Interact\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.xml
+H:\You Interact\You_Weather\You_Template\bin\Debug\YouInteract.pdb
+H:\You Interact\You_Weather\You_Template\bin\Debug\YouInteract.xml
+H:\You Interact\You_Weather\You_Template\bin\Debug\awesomium.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\icudt.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\avcodec-53.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\avformat-53.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\avutil-51.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\libEGL.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\libGLESv2.dll
+H:\You Interact\You_Weather\You_Template\bin\Debug\awesomium_process
+H:\You Interact\You_Weather\You_Template\bin\Debug\inspector.pak
+H:\You Interact\You_Weather\You_Template\bin\Debug\xinput9_1_0.dll
+H:\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.csprojResolveAssemblyReference.cache
+H:\You Interact\You_Weather\You_Template\obj\Debug\Weather.baml
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.baml
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherHelp.baml
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherHourly.baml
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherLocation.baml
+H:\You Interact\You_Weather\You_Template\obj\Debug\Weather.g.cs
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.g.cs
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherHelp.g.cs
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherHourly.g.cs
+H:\You Interact\You_Weather\You_Template\obj\Debug\WeatherLocation.g.cs
+H:\You Interact\You_Weather\You_Template\obj\Debug\You_Weather_MarkupCompile.cache
+H:\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.g.resources
+H:\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.Properties.Resources.resources
+H:\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.csproj.GenerateResource.Cache
+H:\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.dll
+H:\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.pdb
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\You_Weather.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\You_Weather.pdb
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\YouInteract.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\Awesomium.Core.xml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\Awesomium.Windows.Controls.xml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\YouInteract.pdb
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\YouInteract.xml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\awesomium.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\icudt.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\avcodec-53.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\avformat-53.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\avutil-51.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\libEGL.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\libGLESv2.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\awesomium_process
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\inspector.pak
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\bin\Debug\xinput9_1_0.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.csprojResolveAssemblyReference.cache
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\Weather.baml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.baml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherHelp.baml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherHourly.baml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherLocation.baml
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\Weather.g.cs
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherData\ForecastButtonControl.g.cs
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherHelp.g.cs
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherHourly.g.cs
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\WeatherLocation.g.cs
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\You_Weather_MarkupCompile.cache
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.g.resources
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.Properties.Resources.resources
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.csproj.GenerateResource.Cache
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.dll
+D:\UA\3-2\PEI\You Interact\You_Weather\You_Template\obj\Debug\You_Weather.pdb

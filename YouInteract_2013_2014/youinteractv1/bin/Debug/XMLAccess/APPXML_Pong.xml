@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pong>
+	<Entry>
+		<Num_players>2</Num_players>
+		<Player1_color>red</Player1_color>
+		<Player2_color>blue</Player2_color>
+	</Entry>
+</Pong>

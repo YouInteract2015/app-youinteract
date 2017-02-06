@@ -1,0 +1,154 @@
+﻿
+@{
+    ViewBag.Title = "Config";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+
+
+
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        
+
+        <div class="fourteen wide column">
+
+            <div class="ui breadcrumb">
+                <a class="section" href="../Home/Index" >Home</a>
+                <i class="right chevron icon divider"></i>
+                <a class="section" href="../Login/Index" >Admin </a>
+                <i class="right chevron icon divider"></i>
+                <div class="active section">Kinect Configs </div>
+            </div>
+
+
+
+
+            <h3 class="ui inverted white block header">
+                <i class="list layout icon"></i> LIST OF SETTINGS AVAILABLE
+            </h3>
+
+            <table class="ui black table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Theme Name</th>
+                        <th>Scheduler Name</th>
+                        <th>Edit</th>
+                        <th>Items</th>
+                        <th>Remove</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td>1</td>
+                        <td>Config007</td>
+                        <td>DETI Image</td>
+                        <td>Scheduler1</td>
+
+                        <td>
+                            <a class="ui vertical animated button" href="EditConfig">
+                                <div class="hidden content">Edit</div>
+                                <div class="visible content">
+                                    <i class="edit icon"></i>
+                                </div>
+                            </a>
+                        </td>
+
+                        <td>
+                            <a class="ui vertical animated button" href="ChoiceItems">
+                                <div class="hidden content">Choose</div>
+                                <div class="visible content">
+                                    <i class="cubes icon"></i>
+                                </div>
+                            </a>
+                        </td>
+
+                        <td>
+                            <button class="ui vertical animated button" onclick="functionDelete()">
+                                <div class="hidden content">Remove</div>
+                                <div class="visible content">
+                                    <i class="trash icon"></i>
+                                </div>
+                            </button>
+                        </td>
+
+                    </tr>
+
+                    <!-- nova linha  -->
+
+
+                </tbody>
+            </table>
+
+
+            <br />
+            <!-- add nova config   -->
+            <h3 class="ui inverted white block header"> CREATE A NEW CONFIGURATION </h3>
+            <div class="ui form">
+                <div class="field">
+                    <label>Name:</label>
+                    <input type="text">
+                </div>
+            </div>
+
+
+            <br />
+            <b> Themes (available themes, to add new themes <a href="Theme">click here</a>): </b>
+
+            <div class="ui selection dropdown">
+                <input type="hidden" name="gender">
+                <div class="default text">  </div>
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <div class="item" data-value="1">themes1</div>
+                    <div class="item" data-value="0">themes2</div>
+                    <div class="item" data-value="0">themes3</div>
+                </div>
+            </div>
+            <div></div>
+
+            <br />
+            <b> Schedulers (available schedulers, to add new themes <a href="Scheduler">click here</a>): </b>
+
+            <div class="ui selection dropdown">
+                <input type="hidden" name="gender">
+                <div class="default text">  </div>
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <div class="item" data-value="1">schedulers1</div>
+                    <div class="item" data-value="0">schedulers2</div>
+                    <div class="item" data-value="0">schedulers3</div>
+                </div>
+            </div>
+
+
+
+            <br />
+
+
+
+            <br />
+
+            <div align="right"><a href="Device" class="positive ui button"> Add </a></div>
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+

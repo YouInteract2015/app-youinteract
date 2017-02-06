@@ -1,0 +1,55 @@
+﻿<Page x:Class="You_TicTacToe.TicTacToe1Player"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}"  Cursor="Hand"
+	Title="TicTacToe1Player" x:Name="YouTicTacToe1Player">
+
+    <Grid Background="#FFFEC93D" >
+        <k:KinectRegion x:Name="TicTacToe1PlayerRegion">
+            <Canvas x:Name="TicTacToe1PlayerCanvas">
+                <u:YouButton Name="quitButton" BorderBrush="{x:Null}" HorizontalLabelAlignment="Center" VerticalLabelAlignment="Center" Label="Quit" Background="{x:Null}" LabelBackground="{x:Null}" Foreground="#FF3418B4" FontWeight="Bold" Click="Options_Click" FontSize="52"/>
+                <u:YouButton Name="restartButton" BorderBrush="{x:Null}" HorizontalLabelAlignment="Center" VerticalLabelAlignment="Center" Label="Restart" Background="{x:Null}" LabelBackground="{x:Null}" Foreground="#FF3418B4" FontWeight="Bold" Click="Options_Click" FontSize="52"/>
+
+                <Viewbox Name="msgboard">
+                    <TextBlock Name="msgb" Text="YOU TIC TAC TOE!"  FontFamily="Trebuchet MS" Foreground="#FF1F0ECD" TextAlignment="Center" TextWrapping="Wrap"/>
+                </Viewbox>
+
+                <Grid  Name="grelha" HorizontalAlignment="Left" Height="150" Margin="233,101,0,0" VerticalAlignment="Top" Width="150">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Name="linha1" Height="100" />
+                        <RowDefinition Name="linha2" Height="100" />
+                        <RowDefinition Name="linha3" Height="100" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Name="coluna1" Width="100" />
+                        <ColumnDefinition Name="coluna2" Width="100" />
+                        <ColumnDefinition Name="coluna3" Width="100" />
+                    </Grid.ColumnDefinitions>
+                    <u:YouButton Name="Botao1" BorderBrush="{x:Null}" LabelBackground="{x:Null}" Label="" Grid.Column="0" Grid.Row="0" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="{x:Null}" Background="#FFFEC93D"/>
+                    <u:YouButton Name="Botao2" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="0" Grid.Row="1" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <u:YouButton Name="Botao3" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="0" Grid.Row="2" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <u:YouButton Name="Botao4" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="1" Grid.Row="0" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <u:YouButton Name="Botao5" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="1" Grid.Row="1" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <u:YouButton Name="Botao6" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="1" Grid.Row="2" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <u:YouButton Name="Botao7" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="2" Grid.Row="0" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <u:YouButton Name="Botao8" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="2" Grid.Row="1" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <u:YouButton Name="Botao9" BorderBrush="{x:Null}" Background="#FFFEC93D" LabelBackground="{x:Null}" Label="" Grid.Column="2" Grid.Row="2" Click="ButtonOnClick" FontWeight="Bold" FontSize="100" Foreground="#FFE41B1B"   VerticalLabelAlignment="Center" HorizontalLabelAlignment="Center" OpacityMask="Black"/>
+                    <Border Grid.Column="0" Grid.Row="0" BorderThickness="0,0,5,5" BorderBrush="Black" />
+                    <Border Grid.Column="0" Grid.Row="1" BorderThickness="0,0,5,5" BorderBrush="Black"/>
+                    <Border Grid.Column="0" Grid.Row="3" BorderThickness="0,0,5,0" BorderBrush="Black"/>
+                    <Border Grid.Column="1" Grid.Row="0" BorderThickness="0,0,5,5" BorderBrush="Black"/>
+                    <Border Grid.Column="1" Grid.Row="1" BorderThickness="0,0,5,5" BorderBrush="Black"/>
+                    <Border Grid.Column="1" Grid.Row="2" BorderThickness="0,0,5,0" BorderBrush="Black"/>
+                    <Border Grid.Column="2" Grid.Row="0" BorderThickness="0,0,0,5" BorderBrush="Black"/>
+                    <Border Grid.Column="2" Grid.Row="1" BorderThickness="0,0,0,5" BorderBrush="Black"/>
+                </Grid>
+
+            </Canvas>
+        </k:KinectRegion>
+    </Grid>
+</Page>

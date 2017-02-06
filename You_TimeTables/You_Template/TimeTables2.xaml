@@ -1,0 +1,97 @@
+﻿<Page x:Class="You_TimeTables.TimeTables2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	  Title="TimeTables2" x:Name="YouTimeTables2">
+
+    <Grid>
+        <k:KinectRegion x:Name="YouTimeTables2Region">
+            <Canvas x:Name="YouTimeTables2Canvas">
+                
+                <u:YouButton x:Name="MainMenuButton"  Click="Button_Click" GripEvent="Button_GripEvent"
+                             Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_TimeTables;component/Images/Themes/Theme1/Navigation/back.png" Stretch="Fill"/>
+                </u:YouButton>
+
+                <u:YouButton x:Name="um" Label="UM" Click="Button_Click" GripEvent="Button_GripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}" >
+                </u:YouButton>
+
+                <u:YouButton x:Name="dois" Label="DOIS" Click="Button_Click" GripEvent="Button_GripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                </u:YouButton>
+
+                <u:YouButton x:Name="tres" Label="TRES" Click="Button_Click" GripEvent="Button_GripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                </u:YouButton>
+
+                <u:YouButton x:Name="quatro" Label="QUATRO" Click="Button_Click" GripEvent="Button_GripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                </u:YouButton>
+
+                <u:YouButton x:Name="cinco" Label="CINCO" Click="Button_Click" GripEvent="Button_GripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                </u:YouButton>
+
+                <u:YouButton x:Name="mudarCurso" Label="MUDAR CURSO" Click="Button_Click" GripEvent="Button_GripEvent" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                </u:YouButton>
+
+
+                <Image x:Name="imagem" Source="/You_TimeTables;component/Images/Themes/Theme1/TimeTables/indisponivel.png" IsHitTestVisible="False"></Image>
+
+                <Grid x:Name="grTimeTable" 
+                		Margin="5,80"
+                		Focusable="True"
+                		HorizontalAlignment="Stretch"
+                		Grid.Column="1"
+                		Grid.Row="1"
+                      IsHitTestVisible="False">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                        <ColumnDefinition Width="0.036*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+                
+            </Canvas>
+        </k:KinectRegion>
+        <Grid.Background>
+            <ImageBrush ImageSource="/You_TimeTables;component/Images/Themes/Theme1/Background/background.jpg"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Page>

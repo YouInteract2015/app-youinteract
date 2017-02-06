@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "EditDevice";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header"> EDIT DEVICE  > #namedevice </h3>
+
+            <div class="ui form">
+                <div class="field">
+                    <label>New name:</label>
+                    <input type="text">
+                </div>
+            </div>
+            <br />
+
+            <div class="ui form">
+                <div class="field">
+                    <label>New local:</label>
+                    <input type="text">
+                </div>
+            </div>
+            <br />
+
+            <div class="ui form">
+                <div class="field">
+                    <label>New IP:</label>
+                    <input type="text">
+                </div>
+            </div>
+            <br />
+
+            <b>New configuration: </b>
+
+            <div class="ui selection dropdown">
+                <input type="hidden" name="gender">
+                <div class="default text">  </div>
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <div class="item" data-value="1">confg1</div>
+                    <div class="item" data-value="0">confg2</div>
+                    <div class="item" data-value="0">confg3</div>
+                </div>
+            </div>
+
+
+
+            <br />
+
+            <div align="right"><a href="Device" class="positive ui button"> Save </a></div>
+
+
+        </div>
+    </div>
+</div>

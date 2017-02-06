@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Device";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header"> DEVICES CONNECTED TO THE PORTAL > WITHOUT KINECT&copy; </h3>
+            
+            <table class="ui black table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Device</th>
+                        <th>Local</th>
+                        <th>IP</th>
+                        <th>Configuration Name</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td> 1 </td>
+                        <td> monitor2 </td>
+                        <td> DETI  </td>
+                        <td> 192.5.6.5 </td>
+                        <td> Nome da configuracao </td>
+                        <td>
+                            <a class="ui vertical animated button" href="EditDevice">
+                                <div class="hidden content">Edit</div>
+                                <div class="visible content">
+                                    <i class="edit icon"></i>
+                                </div>
+                            </a>
+                        </td>
+
+                        <td>
+                            <button class="ui vertical animated button" onclick="functionDelete()">
+                                <div class="hidden content">Remove</div>
+                                <div class="visible content">
+                                    <i class="trash icon"></i>
+                                </div>
+                            </button>
+                        </td>
+
+
+                    </tr>
+
+                    <!-- nova linha  -->
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

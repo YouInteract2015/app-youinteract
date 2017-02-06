@@ -1,0 +1,107 @@
+﻿@model IEnumerable<portalYI.Models.kinect_configs>
+
+@{
+    ViewBag.Title = "EditDevice";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header"> EDIT DEVICE  > #namedevice </h3>
+
+            <div class="ui two column grid basic segment">
+                <div class="column">
+                    <div class="ui raised segment signin">
+                       <center><b>Characteristics of the current device</b></center> 
+                        <br /> <b>Name: </b>
+                   
+                        <br /> <b>Local: </b>
+                         
+                        <br /> <b>IP: </b>
+                        
+                        <br /> <b>Configuration: </b>
+
+
+
+                    </div>
+                </div>
+                <div class="column">
+
+
+                    <div class="ui form">
+                        <div class="field">
+                            <label>New name:</label>
+                            <input type="text">
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="ui form">
+                        <div class="field">
+                            <label>New local:</label>
+                            <input type="text">
+                        </div>
+                    </div>
+                    <br />
+
+                    <div class="ui form">
+                        <div class="field">
+                            <label>New IP:</label>
+                            <input type="text">
+                        </div>
+                    </div>
+                    <br />
+
+                    <b>New configuration: </b>
+
+                    <div class="ui selection dropdown">
+                        <input type="hidden" name="gender">
+                        <div class="default text">  </div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                            @foreach (var r in Model)
+                            {
+                                <div id="idConfig" class="item" >@r.title</div>
+                            }
+                            
+                        </div>
+                    </div>
+
+
+
+
+
+                    <br />
+
+                    <div align="right"><a href="Device" class="positive ui button"> Save </a></div>
+
+
+
+
+
+
+
+
+                </div>
+
+                <div class="column">
+                    <!-- nao usada -->
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+</div>
+
+
+

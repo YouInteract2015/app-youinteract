@@ -1,0 +1,75 @@
+﻿<Page x:Class="You_SGAUA.Senhas"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	  Title="Photos" x:Name="YouSenhas">
+
+    <Page.Resources>
+        <PathGeometry x:Key="ChevronGeometry" x:Shared="False">
+            F1M150.001,146.9932L126.565,169.3822L126.565,153.5962L150.001,130.6182L173.435,153.5962L173.435,169.3822z
+        </PathGeometry>
+
+        <Style x:Key="KinectHoverButtonStyle" TargetType="{x:Type u:KinectHoverButton}">
+            <Setter Property="Background" Value="LightGray"/>
+            <Setter Property="BorderBrush" Value="DarkGray"/>
+            <Setter Property="BorderThickness" Value="0"></Setter>
+            <Setter Property="Foreground" Value="White"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type u:KinectHoverButton}">
+                        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{TemplateBinding Background}" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}">
+                            <Border BorderThickness="{TemplateBinding BorderThickness}" BorderBrush="{TemplateBinding BorderBrush}">
+                                <ContentPresenter HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Content="{TemplateBinding Content}"></ContentPresenter>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Foreground" Value="LightGray"/>
+                    <Setter Property="BorderBrush" Value="LightGray"/>
+                    <Setter Property="Background" Value="Transparent"></Setter>
+                </Trigger>
+                <Trigger Property="IsHandPointerOver" Value="True">
+                    <Setter Property="Background" Value="#5A5B5B"/>
+                    <Setter Property="Foreground" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <k:KinectRegion x:Name="YouSenhasRegion">
+            <Canvas x:Name="YouSenhasCanvas">
+                <Image x:Name="Titulo" Stretch="Fill"/>
+                <Image x:Name="ladodireito" Stretch="Fill"/>
+                <u:YouButton x:Name="MainMenuButton"  Click="Button_Click"
+        			Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_SGAUA;component/Images/back.png" Stretch="Fill"/>
+                </u:YouButton>
+
+                <Grid Name="Services" Visibility="Hidden"/>
+
+                <Grid Name="Tickets" Visibility="Hidden">
+                </Grid>
+
+                <Grid Name="selected" Visibility="Hidden">
+                    <Grid.Background>
+                        <SolidColorBrush Color="White"></SolidColorBrush>
+                    </Grid.Background>
+                </Grid>
+                
+            </Canvas>
+        </k:KinectRegion>
+        <Grid.Background>
+            <ImageBrush ImageSource="/You_SGAUA;component/Images/reitoria_ua.png"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Page>

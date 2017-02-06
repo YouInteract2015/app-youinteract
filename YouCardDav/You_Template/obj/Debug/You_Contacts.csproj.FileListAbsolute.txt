@@ -1,0 +1,164 @@
+D:\YouInteract BETA\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+D:\YouInteract BETA\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_Contacts\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\Contacts.baml
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+D:\YouInteract BETA\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+D:\YouInteract BETA\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\Contacts.baml
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+C:\Users\NEEET\Desktop\release\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\bin\Debug\YouInteract.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\Contacts.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\Contacts.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\Contacts.baml
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\bin\Debug\YouInteract.dll
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\Contacts.baml
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+C:\Users\André\Desktop\FINAL\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\bin\Debug\YouInteract.dll
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\bin\Debug\YouInteract.xml
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\Contacts.baml
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+C:\Users\NEEET\Desktop\You Interact\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\bin\Debug\YouInteract.xml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\Contacts.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\bin\Debug\YouInteract.xml
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\Contacts.baml
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\Contacts.g.cs
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\You_Contacts_MarkupCompile.cache
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+D:\Documentos\ECT\3º ano\PEI\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+D:\Documentos\ECT\3º ano\Pei-Meu\You_Contacts\You_Template\bin\Debug\YouInteract.xml
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\bin\Debug\You_Contacts.dll
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\bin\Debug\You_Contacts.pdb
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\bin\Debug\YouInteract.xml
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\obj\Debug\You_Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\obj\Debug\You_Contacts.g.resources
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\obj\Debug\You_Contacts.Properties.Resources.resources
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\obj\Debug\You_Contacts.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\obj\Debug\You_Contacts.dll
+C:\Users\Leonardo\Desktop\You_Contacts\You_Template\obj\Debug\You_Contacts.pdb

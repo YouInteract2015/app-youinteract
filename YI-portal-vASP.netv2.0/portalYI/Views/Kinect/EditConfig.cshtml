@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "Config";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header"> EDIT CONFIGURATION > #namedevice </h3>
+
+            <div class="ui two column grid basic segment">
+                <div class="column">
+                    <div class="ui raised segment signin">
+                        <center><b>Characteristics of the current config</b></center>
+                        <br /> <b>Name: </b>
+
+                        <br /> <b>Theme: </b>
+
+                        <br /> <b>Schedulers: </b>
+
+                    </div>
+                </div>
+                <div class="column">
+
+                    <div class="ui form">
+                        <div class="field">
+                            <label>New name:</label>
+                            <input type="text">
+                        </div>
+                    </div>
+
+
+                    <br />
+                    <b> New themes: </b>
+
+                    <div class="ui selection dropdown">
+                        <input type="hidden" name="gender">
+                        <div class="default text">  </div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <div class="item" data-value="1">themes1</div>
+                            <div class="item" data-value="0">themes2</div>
+                            <div class="item" data-value="0">themes3</div>
+                        </div>
+                    </div>
+                    <div></div>
+
+                    <br />
+                    <b> New schedulers: </b>
+
+                    <div class="ui selection dropdown">
+                        <input type="hidden" name="gender">
+                        <div class="default text">  </div>
+                        <i class="dropdown icon"></i>
+                        <div class="menu">
+                            <div class="item" data-value="1">schedulers1</div>
+                            <div class="item" data-value="0">schedulers2</div>
+                            <div class="item" data-value="0">schedulers3</div>
+                        </div>
+                    </div>
+
+                    <br />
+                    <br />
+                    <div align="right"><a class="positive ui button" href="Config"> Save </a></div>
+
+                </div>
+
+
+
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+

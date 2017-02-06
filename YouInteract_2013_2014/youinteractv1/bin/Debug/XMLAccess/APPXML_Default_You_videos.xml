@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<You_videos>
+	<Entry>
+		<Id_video>14</Id_video>
+		<Name_video>CAMBADA  @ RoboCup 2007- Impossible Goal.mp4</Name_video>
+		<Path_video>teste/path</Path_video>
+		<Active_video>False</Active_video>
+		<Description_video>CAMBADA scores an amazing goal against Eigen team, from Japan, in RoboCup2007, Atlanta, USA.</Description_video>
+	</Entry>
+	<Entry>
+		<Id_video>15</Id_video>
+		<Name_video>CAMBADA @RoboCup2010- amazing pass with a goal.mp4</Name_video>
+		<Path_video>teste/path</Path_video>
+		<Active_video>True</Active_video>
+		<Description_video>The first pass followed by a goal during free play of the RoboCup Middle Size League, scored by the CAMBADA team. It was in the 3rd vs 4th game against MRL at RoboCup 2010 in Singapore.</Description_video>
+	</Entry>
+	<Entry>
+		<Id_video>16</Id_video>
+		<Name_video>MicroRato13.mp4</Name_video>
+		<Path_video>teste/path</Path_video>
+		<Active_video>True</Active_video>
+		<Description_video>Vídeo Promocional da 18ª Edição do Concurso MicroRato.</Description_video>
+	</Entry>
+	<Entry>
+		<Id_video>17</Id_video>
+		<Name_video>YouInteract.avi</Name_video>
+		<Path_video>teste/path</Path_video>
+		<Active_video>True</Active_video>
+		<Description_video>Video elaborado no âmbito do Projecto DETI Interact da UC de Projecto em Engenharia Informática (Deliverable 1) do curso de Engenharia de Computadores e Telemática da Universidade de Aveiro.</Description_video>
+	</Entry>
+	<Entry>
+		<Id_video>19</Id_video>
+		<Name_video>CAMBADA MSL Qualification Video - RoboCup 2014.avi</Name_video>
+		<Path_video>test/path</Path_video>
+		<Active_video>False</Active_video>
+		<Description_video>This is the qualification video from team CAMBADA, from University of Aveiro, Portugal for RoboCup 2014 Middle Size League.</Description_video>
+	</Entry>
+	<Entry>
+		<Id_video>18</Id_video>
+		<Name_video>enei2014.avi</Name_video>
+		<Path_video>path</Path_video>
+		<Active_video>True</Active_video>
+		<Description_video>Apresentação do ENEI 2014 aos alunos da Universidade de Aveiro</Description_video>
+		<Ordernumber>5</Ordernumber>
+	</Entry>
+</You_videos>

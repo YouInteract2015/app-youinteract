@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinectApp>
+	<Themes>
+		<Entry>
+			<Theme_id>1</Theme_id>
+			<Theme_name>Theme1</Theme_name>
+			<Active>True</Active>
+		</Entry>
+		<Entry>
+			<Theme_id>2</Theme_id>
+			<Theme_name>ThemeTest</Theme_name>
+			<Active>False</Active>
+			<Theme_font>Calibri</Theme_font>
+		</Entry>
+	</Themes>
+	<Important_dates>
+		<Entry>
+			<Id_usr>001</Id_usr>
+			<Idate>12/03/2014 00:00:00</Idate>
+			<About>dfghusfgwgergqergi</About>
+		</Entry>
+		<Entry>
+			<Id_usr>001</Id_usr>
+			<Idate>12/03/2014 00:00:00</Idate>
+			<About>dfgwgergqergi</About>
+		</Entry>
+	</Important_dates>
+	<Users>
+		<Entry>
+			<Id_user>001</Id_user>
+			<Login_user>super_admin</Login_user>
+			<Pass_user>youinteract_admin</Pass_user>
+			<Admin_user>True</Admin_user>
+		</Entry>
+		<Entry>
+			<Id_user>002</Id_user>
+			<Login_user>MVicente</Login_user>
+			<Pass_user>vicente!youinteract</Pass_user>
+			<Admin_user>False</Admin_user>
+		</Entry>
+		<Entry>
+			<Id_user>003</Id_user>
+			<Login_user>joelpinheiro</Login_user>
+			<Pass_user>joelpinheiro123</Pass_user>
+			<Admin_user>False</Admin_user>
+		</Entry>
+		<Entry>
+			<Id_user>004</Id_user>
+			<Login_user>JoaoRodrigues</Login_user>
+			<Pass_user>jrodrigues!youinteract</Pass_user>
+			<Admin_user>False</Admin_user>
+		</Entry>
+		<Entry>
+			<Id_user>2</Id_user>
+			<Login_user>vasco.santos</Login_user>
+			<Pass_user>youinteract</Pass_user>
+			<Admin_user>False</Admin_user>
+		</Entry>
+		<Entry>
+			<Id_user>666</Id_user>
+			<Login_user>roflcopter</Login_user>
+			<Pass_user>rfl</Pass_user>
+			<Admin_user>False</Admin_user>
+		</Entry>
+	</Users>
+	<Contacts>
+		<!--Empty-->
+	</Contacts>
+	<Videos>
+		<Entry>
+			<Id_video>14</Id_video>
+			<Name_video>CAMBADA  @ RoboCup 2007- Impossible Goal.mp4</Name_video>
+			<Path_video>teste/path</Path_video>
+			<Active_video>False</Active_video>
+			<Description_video>CAMBADA scores an amazing goal against Eigen team, from Japan, in RoboCup2007, Atlanta, USA.</Description_video>
+		</Entry>
+		<Entry>
+			<Id_video>15</Id_video>
+			<Name_video>CAMBADA @RoboCup2010- amazing pass with a goal.mp4</Name_video>
+			<Path_video>teste/path</Path_video>
+			<Active_video>True</Active_video>
+			<Description_video>The first pass followed by a goal during free play of the RoboCup Middle Size League, scored by the CAMBADA team. It was in the 3rd vs 4th game against MRL at RoboCup 2010 in Singapore.</Description_video>
+		</Entry>
+		<Entry>
+			<Id_video>16</Id_video>
+			<Name_video>MicroRato13.mp4</Name_video>
+			<Path_video>teste/path</Path_video>
+			<Active_video>True</Active_video>
+			<Description_video>Vídeo Promocional da 18ª Edição do Concurso MicroRato.</Description_video>
+		</Entry>
+		<Entry>
+			<Id_video>17</Id_video>
+			<Name_video>YouInteract.avi</Name_video>
+			<Path_video>teste/path</Path_video>
+			<Active_video>True</Active_video>
+			<Description_video>Video elaborado no âmbito do Projecto DETI Interact da UC de Projecto em Engenharia Informática (Deliverable 1) do curso de Engenharia de Computadores e Telemática da Universidade de Aveiro.</Description_video>
+		</Entry>
+		<Entry>
+			<Id_video>19</Id_video>
+			<Name_video>CAMBADA MSL Qualification Video - RoboCup 2014.avi</Name_video>
+			<Path_video>test/path</Path_video>
+			<Active_video>False</Active_video>
+			<Description_video>This is the qualification video from team CAMBADA, from University of Aveiro, Portugal for RoboCup 2014 Middle Size League.</Description_video>
+		</Entry>
+		<Entry>
+			<Id_video>18</Id_video>
+			<Name_video>enei2014.avi</Name_video>
+			<Path_video>path</Path_video>
+			<Active_video>True</Active_video>
+			<Description_video>Apresentação do ENEI 2014 aos alunos da Universidade de Aveiro</Description_video>
+			<Ordernumber>5</Ordernumber>
+		</Entry>
+	</Videos>
+	<Pong>
+		<Entry>
+			<Num_players>2</Num_players>
+			<Player1_color>red</Player1_color>
+			<Player2_color>blue</Player2_color>
+		</Entry>
+	</Pong>
+	<Apps>
+		<Entry>
+			<Apps_name>Help</Apps_name>
+			<App_id>5</App_id>
+			<App_path>teste/path</App_path>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>True</Active>
+			<Ordernumber>1</Ordernumber>
+			<Dll>You_Help</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>Timetables</Apps_name>
+			<App_id>3</App_id>
+			<App_path>xxx</App_path>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>True</Active>
+			<Ordernumber>2</Ordernumber>
+			<Dll>You_Timetables</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>Videos</Apps_name>
+			<App_id>2</App_id>
+			<App_path>gpopogrrgp</App_path>
+			<Times_played>0</Times_played>
+			<Highscore />
+			<Active>True</Active>
+			<Ordernumber>3</Ordernumber>
+			<Dll>You_Videos</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>Pong</Apps_name>
+			<App_id>1</App_id>
+			<App_path />
+			<Times_played>0</Times_played>
+			<Highscore />
+			<Active>False</Active>
+			<Ordernumber>4</Ordernumber>
+			<Dll>You_Pong</Dll>
+		</Entry>
+		<Entry>
+			<Apps_name>Contacts</Apps_name>
+			<App_id>4</App_id>
+			<App_path>xxx</App_path>
+			<Times_played>0</Times_played>
+			<Highscore>0</Highscore>
+			<Active>True</Active>
+			<Ordernumber>5</Ordernumber>
+			<Dll>You_Contacts</Dll>
+		</Entry>
+	</Apps>
+</KinectApp>

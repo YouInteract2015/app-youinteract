@@ -1,0 +1,384 @@
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe.config
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Videos\enei2014.avi
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Videos\MicroRato13.mp4
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Videos\YouInteract.avi
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\YouInteract.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Pong.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Videos.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Weather.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\KinectMouseController.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\YouInteract.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Pong.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Videos.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\You_Weather.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.xml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\awesomium.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\icudt.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\avcodec-53.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\avformat-53.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\avutil-51.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\libEGL.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\libGLESv2.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\awesomium_process
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\inspector.pak
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Release\xinput9_1_0.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\MainWindow.baml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\Screensaver.baml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouMenu.baml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\MainWindow.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\Screensaver.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouMenu.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\App.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_Content.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_MarkupCompile.cache
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.g.resources
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.Properties.Resources.resources
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.exe
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\enei2014.avi
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\MicroRato13.mp4
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\YouInteract.avi
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe.config
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.xml
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.baml
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.baml
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.baml
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.g.cs
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.g.cs
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.g.cs
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\App.g.cs
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_Content.g.cs
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_MarkupCompile.cache
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.g.resources
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.Properties.Resources.resources
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.exe
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\KinectMouseController.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.pdb
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\enei2014.avi
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\MicroRato13.mp4
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\YouInteract.avi
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe.config
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.pdb
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.dll
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.dll
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.dll
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.pdb
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.xml
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.pdb
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.pdb
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.baml
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.baml
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.baml
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.baml
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.g.cs
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.g.cs
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.g.cs
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.g.cs
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\App.g.cs
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_Content.g.cs
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_MarkupCompile.cache
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.g.resources
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.Properties.Resources.resources
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csproj.GenerateResource.Cache
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.exe
+D:\Users\Jose Mendes\Desktop\Final\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe.config
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.exe
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\enei2014.avi
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\MicroRato13.mp4
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\YouInteract.avi
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\KinectMouseController.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.xml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.xml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\icudt.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\avcodec-53.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\avformat-53.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\avutil-51.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\libEGL.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\libGLESv2.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium_process
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\inspector.pak
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\xinput9_1_0.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\App.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_Content.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_MarkupCompile.cache
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.g.resources
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.Properties.Resources.resources
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe.config
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.exe
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\enei2014.avi
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\MicroRato13.mp4
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\YouInteract.avi
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\KinectMouseController.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.xml
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.pdb
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.xml
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\icudt.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\avcodec-53.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\avformat-53.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\avutil-51.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\libEGL.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\libGLESv2.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium_process
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\inspector.pak
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\bin\Release\xinput9_1_0.dll
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.baml
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.baml
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.baml
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.baml
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.g.cs
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.g.cs
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.g.cs
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.g.cs
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\App.g.cs
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_Content.g.cs
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_MarkupCompile.cache
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.g.resources
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.Properties.Resources.resources
+C:\Users\José\Desktop\sss\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe.config
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.exe
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\enei2014.avi
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\MicroRato13.mp4
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Videos\YouInteract.avi
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.exe
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteractV1.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\KinectMouseController.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\YouInteract.xml
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_AirPaint.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Contacts.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Pong.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_TimeTables.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Tutorial.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Videos.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.pdb
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.xml
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\icudt.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\avcodec-53.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\avformat-53.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\avutil-51.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\libEGL.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\libGLESv2.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium_process
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\inspector.pak
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\bin\Release\xinput9_1_0.dll
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.baml
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.baml
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.baml
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.baml
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.g.cs
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\MainWindow.g.cs
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\Screensaver.g.cs
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouMenu.g.cs
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\App.g.cs
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_Content.g.cs
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1_MarkupCompile.cache
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.g.resources
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.Properties.Resources.resources
+C:\Users\José\Desktop\sss - Cópia\You Interact\YouInteractV1\YouInteractV1\obj\Release\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\You_Weather.pdb
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Core.xml
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\icudt.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\avcodec-53.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\avformat-53.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\avutil-51.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\libEGL.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\libGLESv2.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\awesomium_process
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\inspector.pak
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Release\xinput9_1_0.dll
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.baml
+C:\Users\NEEET\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Release\CallOfAttention.g.cs
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\YouInteractV1.exe.config
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1.exe
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\CallOfAttention.baml
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\MainWindow.baml
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\Screensaver.baml
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\CallOfAttention.g.cs
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\MainWindow.g.cs
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\Screensaver.g.cs
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\App.g.cs
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1_MarkupCompile.cache
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\YouInteractV1.exe
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\YouInteractV1.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\YouInteract.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_AirPaint.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Contacts.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Pong.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_TimeTables.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Tutorial.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Videos.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Weather.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\KinectMouseController.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\Awesomium.Core.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\Awesomium.Windows.Controls.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\YouInteract.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\YouInteract.xml
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_AirPaint.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Contacts.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Pong.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_TimeTables.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Tutorial.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Videos.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\You_Weather.pdb
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\Awesomium.Core.xml
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\Awesomium.Windows.Controls.xml
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\awesomium.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\icudt.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\avcodec-53.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\avformat-53.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\avutil-51.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\libEGL.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\libGLESv2.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\awesomium_process
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\inspector.pak
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\bin\Release\xinput9_1_0.dll
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouMenu.baml
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouMenu.g.cs
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1.g.resources
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1.Properties.Resources.resources
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1.csproj.GenerateResource.Cache
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\UA\3-2\PEI\YouInteract-SVN\YouInteractV1-v8\YouInteractV1\obj\Release\YouInteractV1_Content.g.cs

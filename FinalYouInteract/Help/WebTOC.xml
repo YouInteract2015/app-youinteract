@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="97dd578e-95cc-42c5-8a4d-0092f3374d4e" Title="YouInteract.YouBasic" Url="html/f12c3ffe-aa27-e83c-0421-04e787d515a3.htm">
+    <HelpTOCNode Id="23a41639-4f90-4891-a238-08898a387e3b" Title="KinectApi Class" Url="html/7244eca2-a42e-96b2-f52d-496e61efa13b.htm">
+      <HelpTOCNode Id="e5cfee60-70b6-43b7-a97a-89899175355b" Title="KinectApi Methods" Url="html/1bcfe3f1-9aa4-4434-32bf-05cdf251d6ba.htm">
+        <HelpTOCNode Title="bindRegion Method " Url="html/5a9464ba-d372-745c-7559-a069ea4282cf.htm" />
+        <HelpTOCNode Title="getSensor Method " Url="html/ce8b109c-66d4-4a09-f088-aed4f85acbec.htm" />
+        <HelpTOCNode Title="onLoaded Method " Url="html/e7b31ed8-abba-e6af-cbe7-32a65a12b879.htm" />
+        <HelpTOCNode Title="setColor Method " Url="html/9aded453-5208-4799-8470-7b8010678ed3.htm" />
+        <HelpTOCNode Title="setKinectRequirements Method " Url="html/6acd38fb-361d-09d3-2598-414f7d03eb04.htm" />
+        <HelpTOCNode Title="unbindRegion Method " Url="html/e98d70ba-38cd-cf4a-7f05-8dddb3455827.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5d7f9b23-0082-47e4-b768-dc75fe12568c" Title="KinectApi Events" Url="html/7741b356-86d4-31fd-8830-fb47cbe950ea.htm">
+        <HelpTOCNode Title="ColorStreamEvent Event" Url="html/76b88ba4-afb3-4a8e-4d55-f43d43c39cad.htm" />
+        <HelpTOCNode Title="InteractionEvent Event" Url="html/ef05eed2-a796-60a6-fc0f-09371f9e5e0e.htm" />
+        <HelpTOCNode Title="SkeletonEvent Event" Url="html/278f3721-f02e-18aa-d59f-8d182ccc3282.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="KinectApi.EventHandler Delegate" Url="html/1a996f51-5145-1343-82bf-fe7daa246771.htm" />
+    <HelpTOCNode Id="7daf07c3-4d4b-48d6-8e71-cc19350ce6ce" Title="KinectRequirements Class" Url="html/6f776184-ac7f-8666-5974-d3fee6fa7f79.htm">
+      <HelpTOCNode Title="KinectRequirements Constructor " Url="html/179b2a82-4260-d7ab-b062-98e6fc10bc12.htm" />
+      <HelpTOCNode Id="894da62b-0a3b-4af4-a6d8-4cf503e07ba1" Title="KinectRequirements Methods" Url="html/0431da7c-8272-56b3-8362-829a0d1ad04f.htm">
+        <HelpTOCNode Title="getInteractionStreamReq Method " Url="html/b9fb3c25-80a2-f7b7-6559-ddb09fb088a2.htm" />
+        <HelpTOCNode Title="getKinectRegionReq Method " Url="html/ae1ab7aa-c8ad-993f-79f7-16d72b33b6e1.htm" />
+        <HelpTOCNode Title="getSkeletonStreamReq Method " Url="html/310ebde8-88ab-ac99-5c0d-1d406fff95a6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="00dd8be2-347e-4b8f-894a-d54e17ee9b22" Title="YouPlugin Interface" Url="html/3d6e5892-4189-c440-0226-1b2712a78d7a.htm">
+      <HelpTOCNode Id="7417d5a7-8ae5-42a5-a7ed-dcea5cbac8ac" Title="YouPlugin Methods" Url="html/e5f7704e-664e-3c00-18a7-507124654e95.htm">
+        <HelpTOCNode Title="getAppName Method " Url="html/0e5902d9-c160-ca35-75ca-906af2401d6d.htm" />
+        <HelpTOCNode Title="getIsFirstPage Method " Url="html/a0fba668-eeea-cbf2-9206-efceaf5fde8a.htm" />
+        <HelpTOCNode Title="getKinectRequirements Method " Url="html/266ab3f6-42fa-de45-03e4-da6b1c101f07.htm" />
+        <HelpTOCNode Title="getName Method " Url="html/9a78bd6a-e6cd-b3e3-2772-2d80b8d73f5d.htm" />
+        <HelpTOCNode Title="getPage Method " Url="html/748c164d-4cb4-41bc-c15c-42b94b7f1b8c.htm" />
+        <HelpTOCNode Title="getRegion Method " Url="html/0372c30d-51db-7571-b488-afb8cbdeeb7d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="9b947737-c9ed-45a8-ae78-b3558453fcde" Title="YouInteract.YouInteractAPI" Url="html/5892fd3c-76a5-91d0-8ba3-1ec95e0f6a7c.htm">
+    <HelpTOCNode Id="4615bfeb-015f-4b9c-b865-d0913e23042d" Title="DummyInteractionClient Class" Url="html/958c4709-f70d-8bc9-738a-93661bfc8ac2.htm">
+      <HelpTOCNode Title="DummyInteractionClient Constructor " Url="html/0d50bdc9-a0aa-18d2-ec03-59b0effc6498.htm" />
+      <HelpTOCNode Id="58911966-687e-46a0-b0e0-c5175b3d3fc6" Title="DummyInteractionClient Methods" Url="html/69a0eac1-cda6-25fc-f3fa-da0c6a2ed931.htm">
+        <HelpTOCNode Title="GetInteractionInfoAtLocation Method " Url="html/97a7def3-143e-8395-b1a9-839dac75b1a7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="InteractionEventHandler Delegate" Url="html/d6e6e316-256a-2671-12cf-1e9670846bb2.htm" />
+    <HelpTOCNode Id="aae6f0b9-9267-4f4c-a934-cd5aa6524ebc" Title="InteractionStreamArgs Class" Url="html/2031cd62-f8be-1fbe-a90f-7c1cf66883e5.htm">
+      <HelpTOCNode Title="InteractionStreamArgs Constructor " Url="html/42a95e34-8612-bb7c-8b59-8cc23d402d5f.htm" />
+      <HelpTOCNode Title="InteractionStreamArgs Methods" Url="html/0230349c-b492-067d-84ae-790efbc787c6.htm" />
+      <HelpTOCNode Id="e7b11890-4356-4311-9566-38535eb6b3dd" Title="InteractionStreamArgs Properties" Url="html/a2d7e8ee-a324-93e9-9a04-6a03ac1553c0.htm">
+        <HelpTOCNode Title="userinfo Property " Url="html/32baf672-1b80-0dc3-6008-66c9d56f6df7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="78424f51-2540-48db-821a-0d559b78da30" Title="KinectHoverButton Class" Url="html/bcff7da7-8c88-9655-659c-ba2170a8c7ad.htm">
+      <HelpTOCNode Title="KinectHoverButton Constructor " Url="html/67102121-fa32-bed9-0e69-8d2fc074943a.htm" />
+      <HelpTOCNode Id="4b377639-7a5e-4b33-a7e2-7b87b8058fd2" Title="KinectHoverButton Fields" Url="html/cececd41-26d2-bc22-4b61-04bcd7dc71ea.htm">
+        <HelpTOCNode Title="IsHandPointerOverProperty Field" Url="html/3f906fc8-dc0e-00b3-e4ca-fa08d3558858.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="19e3935a-e190-4841-9960-67b3b267df9d" Title="KinectHoverButton Methods" Url="html/f7615aa5-73c2-6e49-6e9e-4bd49b247df3.htm">
+        <HelpTOCNode Title="OnMouseEnter Method " Url="html/873f5219-42b8-3e99-3e9a-cd86485fe08e.htm" />
+        <HelpTOCNode Title="OnMouseLeave Method " Url="html/a2caf8e3-d3e7-13f8-046f-44673db7f8b8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1edff97e-22e6-45a1-afb5-10ec064f59df" Title="KinectHoverButton Properties" Url="html/c821ffab-0258-2106-f6c6-aaa4eea3d5d3.htm">
+        <HelpTOCNode Title="IsHandPointerOver Property " Url="html/ee40ef09-35a9-a742-5834-4dafc0af2ad0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="KinectHoverButton Events" Url="html/ef8e883d-3e34-8519-1aaf-0da7c1d17cb3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="onGripHandler Delegate" Url="html/c1bf365f-eafe-f6e2-2741-f3480d87d7f3.htm" />
+    <HelpTOCNode Title="onGripReleaseHandler Delegate" Url="html/0d88910d-72f2-29cf-8c6a-bf57240168f8.htm" />
+    <HelpTOCNode Title="onHandEnterHandler Delegate" Url="html/f8858291-6222-1d51-fdea-dfec8c55f4bb.htm" />
+    <HelpTOCNode Title="onhandLeaveHandler Delegate" Url="html/32255f4a-4aea-465a-fd28-29052c4c28cc.htm" />
+    <HelpTOCNode Title="SkeletonEventHandler Delegate" Url="html/c0033bc3-1403-5fd1-65cc-3b34fe17ead0.htm" />
+    <HelpTOCNode Id="20ed10e9-fdec-41b0-992d-5aa37ef44b75" Title="SkeletonStreamArgs Class" Url="html/4460b8d8-d299-c97a-6bfb-53894135040d.htm">
+      <HelpTOCNode Title="SkeletonStreamArgs Constructor " Url="html/d2d88cb7-53bc-cc3b-56ab-72dd9588fb05.htm" />
+      <HelpTOCNode Title="SkeletonStreamArgs Methods" Url="html/ac7b0f01-ac53-0589-4292-ecdf039eaef6.htm" />
+      <HelpTOCNode Id="ec7afa84-46f1-402f-818c-3e3011904d0b" Title="SkeletonStreamArgs Properties" Url="html/262e33f9-cde6-523e-a533-6519aeae2003.htm">
+        <HelpTOCNode Title="skeletons Property " Url="html/8fba76a5-c718-3d7a-49dc-1afb2dde60f3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b0d9f9fe-3f29-40a1-ab35-9547b2fc331c" Title="YouButton Class" Url="html/9d704f0b-c8e2-bde6-2a24-9c562f01b700.htm">
+      <HelpTOCNode Title="YouButton Constructor " Url="html/4cbb864f-d097-61e5-9e7e-0a5fd2569bed.htm" />
+      <HelpTOCNode Id="48501843-d490-4f08-a401-bd3427ff5c2f" Title="YouButton Methods" Url="html/fd435de6-1624-2769-c8d1-8ba77da8f6eb.htm">
+        <HelpTOCNode Title="getActiveHand Method " Url="html/8b3791be-2021-c1cb-0ab3-ee931394c08f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="YouButton Properties" Url="html/1ad920c2-9414-9adf-5fa9-37bfcc4f56ac.htm" />
+      <HelpTOCNode Id="280d9cf7-d99f-4b5a-8cad-8586a824e8f3" Title="YouButton Events" Url="html/2e873667-5515-9761-13e1-a8a5b87117aa.htm">
+        <HelpTOCNode Title="EnterEvent Event" Url="html/792ded21-a979-9f6e-d6ab-a1fde95b02ec.htm" />
+        <HelpTOCNode Title="GripEvent Event" Url="html/6d3fb888-4a66-17e9-dbb5-35cef22bd9d6.htm" />
+        <HelpTOCNode Title="LeaveEvent Event" Url="html/f4ab71e1-3d42-9f5e-eab8-d87815dabb82.htm" />
+        <HelpTOCNode Title="ReleaseEvent Event" Url="html/372a0c99-c7ae-ca93-d68a-0c725805a0a5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="66e8ea9a-b255-4702-bfce-1c31424e5ad9" Title="YouInteract.YouPlugin_Developing" Url="html/6d572c50-84e6-105b-c681-adc4fa755cbd.htm">
+    <HelpTOCNode Id="668bf432-a3d7-4ca0-9613-ee5e7901cd3e" Title="YouNavigation Class" Url="html/285d3c21-bfeb-a9da-631a-2020c2f17dfc.htm">
+      <HelpTOCNode Id="bcdddbd1-2e9c-4a2e-ad39-d24d7a5cc095" Title="YouNavigation Methods" Url="html/80731d2e-727c-9889-d7c4-a5680e278c89.htm">
+        <HelpTOCNode Title="navigateToMainMenu Method " Url="html/4658daeb-4f41-567c-afdc-6a46dcd3f778.htm" />
+        <HelpTOCNode Title="requestFrameChange Method " Url="html/28f2c994-f72d-3705-1cbe-88fb30ad93fd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="52968e5d-c9a7-48f8-9019-5dae6314f3b4" Title="YouNavigation Events" Url="html/adf6318f-420f-93ea-1c51-82ca5ddf19c8.htm">
+        <HelpTOCNode Title="NavigateToMainMenu Event" Url="html/eb27eca9-25eb-003c-9303-8e374802d2a0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="YouNavigation.EventHandler Delegate" Url="html/8809e966-033d-1075-8bce-d5bb981c2179.htm" />
+    <HelpTOCNode Id="6c7934c4-1944-4b40-9cfc-be598a602337" Title="YouWindow Class" Url="html/aeb692a3-0c64-455e-d9bf-533616691c96.htm">
+      <HelpTOCNode Id="6974366c-6d5b-4f6c-809a-62e2d5e26e40" Title="YouWindow Methods" Url="html/4f5c9f1d-69f3-b413-dc07-588b0253d8e6.htm">
+        <HelpTOCNode Title="bitmapSource Method " Url="html/e0a73ee4-64cb-8178-d9eb-4feb74367357.htm" />
+        <HelpTOCNode Title="getHeight Method " Url="html/07bc606a-fdb5-75ef-d138-3cc5029d04de.htm" />
+        <HelpTOCNode Title="getWidth Method " Url="html/1dde1d2b-95b1-645d-bca2-4d85f4f25dd7.htm" />
+        <HelpTOCNode Title="initLogo Method " Url="html/4e37a5d6-3332-f5d9-9df2-3094b672678f.htm" />
+        <HelpTOCNode Title="setScrollArrows Method " Url="html/f0889cb5-ee39-da64-a633-e09bcf39081c.htm" />
+        <HelpTOCNode Title="setUserViewer Method " Url="html/a8031e77-d76c-c2e9-7aeb-c8a59b3bd0c9.htm" />
+        <HelpTOCNode Title="setWindow Method " Url="html/f676e9bc-12c1-3f99-8804-4abda2d43f63.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1bb5522c-9bdb-48e7-b72d-e76f71f2e286" Title="YouXMLFetcher Class" Url="html/af7ed487-fb5b-105a-cd6e-db15c1cf982d.htm">
+      <HelpTOCNode Id="d93ed254-edef-445d-9125-6686b04826d8" Title="YouXMLFetcher Methods" Url="html/7d03abec-a4ff-cd10-2a45-8a4e4739ab00.htm">
+        <HelpTOCNode Title="getAppXml Method " Url="html/b0d5e48b-08e8-eaf4-3e39-52b50dbf8d31.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="edc75f9c-ae4d-4b2c-a03e-6d3b52e77546" Title="YouInteract.YouPlugin_System" Url="html/9a419bf4-0031-6ac6-e0a5-63be0534e667.htm">
+    <HelpTOCNode Id="2d1b8d61-e486-46da-890e-67dd58d31b5e" Title="YouPluginManager Class" Url="html/02f0acad-00c4-e41c-ad53-a0914452728e.htm">
+      <HelpTOCNode Title="YouPluginManager Constructor " Url="html/ac8cc445-9056-df4b-59fa-65ba581e888a.htm" />
+      <HelpTOCNode Id="cfcefe29-c99f-42f7-99ba-a193c298c9d8" Title="YouPluginManager Methods" Url="html/6d446d4d-220d-bbeb-c8ea-7726a793d884.htm">
+        <HelpTOCNode Title="freeNavigate Method " Url="html/8a2903c2-3d82-0b95-524c-cc68b164b35f.htm" />
+        <HelpTOCNode Title="updateKinect Method " Url="html/1dacdb05-b89d-77ca-e9c6-4694035f00d4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5426ee64-b5fd-47ac-a4e9-c406205573ba" Title="YouPluginManager Events" Url="html/f8472368-d298-1e65-a4db-58d99ad53975.htm">
+        <HelpTOCNode Title="FrameReady Event" Url="html/c19c546c-0a0d-5590-96a8-5e8c7635fab5.htm" />
+        <HelpTOCNode Title="KinectReqReady Event" Url="html/6a9c2e21-cb76-99bf-58a3-83d4371f3cef.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="YouPluginManager.KinectReqEventHandler Delegate" Url="html/847a7dad-74e8-0a35-dab0-b220712accbb.htm" />
+    <HelpTOCNode Id="bde94c1b-c720-4231-b751-ac2ce2f155d9" Title="YouPluginManager.KinectRequirementsArgs Class" Url="html/fda778f8-b9aa-b79f-1879-dd8faa6025f8.htm">
+      <HelpTOCNode Title="YouPluginManager.KinectRequirementsArgs Constructor " Url="html/9cd44ac0-2698-e726-2168-03737ae152f3.htm" />
+      <HelpTOCNode Title="KinectRequirementsArgs Methods" Url="html/e4bc9e7f-45fe-64cc-3ab4-75b999dc7a4c.htm" />
+      <HelpTOCNode Id="c32e3831-4f9f-4e9b-a41c-6239f1640b26" Title="KinectRequirementsArgs Properties" Url="html/41516f43-7ec5-2bf0-2d31-9af16810eed2.htm">
+        <HelpTOCNode Title="req Property " Url="html/48ae1dc7-7dbe-b4ad-4930-faf224951b5b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a19332f0-85b0-44eb-860f-c8d379aad1a8" Title="YouPluginManager.NavigateArgs Class" Url="html/ac63a713-10c8-e695-a0d3-66cae9eb0f65.htm">
+      <HelpTOCNode Title="YouPluginManager.NavigateArgs Constructor " Url="html/aed8f21e-15d8-38c5-4e68-6b3f4bb15055.htm" />
+      <HelpTOCNode Title="NavigateArgs Methods" Url="html/0e8fe902-7150-50ca-3e2c-aa9aca045d37.htm" />
+      <HelpTOCNode Id="1a49b311-b99a-4cb4-964a-44d7ee73661d" Title="NavigateArgs Properties" Url="html/7e80c14e-9d05-1823-2bcf-2ceaec538911.htm">
+        <HelpTOCNode Title="Destination Property " Url="html/6076d047-051d-0360-afec-377f228e17e6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="YouPluginManager.NavigationEventHandler Delegate" Url="html/17e9df7d-2150-5ca3-5ffc-0dadf9849b36.htm" />
+  </HelpTOCNode>
+</HelpTOC>

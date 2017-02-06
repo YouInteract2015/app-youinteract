@@ -1,0 +1,117 @@
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.dll
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+c:\users\josé\documents\visual studio 2012\Projects\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+D:\YouInteract BETA\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.pdb
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.dll
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.pdb
+C:\Users\José\Documents\fdsYouLx\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+D:\FIX\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+D:\FIX\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+D:\FIX\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.dll
+D:\FIX\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.pdb
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+D:\FIX\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.pdb
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+C:\Users\NEEET\Desktop\release\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+D:\PEI\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+D:\PEI\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+D:\PEI\You_Tutorial\You_Tutorial\bin\Debug\YouInteract.pdb
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csprojResolveAssemblyReference.cache
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+D:\PEI\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.dll
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\bin\Debug\You_Tutorial.pdb
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.baml
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\Tutorial.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial_MarkupCompile.cache
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.g.resources
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.Properties.Resources.resources
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.csproj.GenerateResource.Cache
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.dll
+D:\escola\ECT_5ano_2semestre\PEI\youInteract_codeua\You_Tutorial\You_Tutorial\obj\Debug\You_Tutorial.pdb

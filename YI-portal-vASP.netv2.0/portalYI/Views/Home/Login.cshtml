@@ -1,0 +1,102 @@
+﻿@model portalYI.Models.user
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+
+
+            <div class="ui raised segment signin">
+                <h3 class="ui inverted white block header"> SIGN IN </h3>
+
+                <div class="ui one column grid basic segment">
+                    <div class="column">
+                        <!-- form here -->
+
+                        <div class="ui three column grid basic segment">
+                            <div class="column">
+                                <!-- nao usada -->
+                            </div>
+
+                            <div class="column">
+
+                            @using (Html.BeginForm("Login", "Home",  FormMethod.Post, new { @class = "ui form"}))
+                            {
+                                @Html.AntiForgeryToken()
+                                
+                                
+
+                                if (@ViewBag.Message != null)
+                                {
+                                    <div style=" border:1px solid red">
+                                        @ViewBag.Message 
+                                    </div>
+                                }
+
+                                
+                                        <div class="field">
+                                            <label> E-mail </label>
+
+                                                @Html.TextBoxFor(m => m.email, new { @class = "ui left labeled icon input" })
+                                                @Html.ValidationMessageFor(m => m.email )
+
+                                            </div>
+                                        <div class="field">
+                                            <label> Password </label>
+                                            @Html.PasswordFor(m => m.password, new { @class = "ui left labeled icon input" })
+                                            @Html.ValidationMessageFor(m => m.password)
+                                        </div>
+                                        <div class="inline field">
+                                            @Html.ValidationSummary(true)
+                                            <!--
+                                                este remeber_token nao e bool
+                                                Html.CheckBoxFor(m => m.remember_token, new { class = "ui checkbox" })
+                                                <label for="remember"> Remember me </label>
+                                            -->
+                                        </div>
+
+                                        
+                                <input type="submit" value=" Sign In " class="ui red submit button" /> 
+                                
+                                <text>or </text>
+                                <a href="Register" class="ui primary button"> Register </a> 
+
+                            }
+                                
+                                
+
+
+
+
+                            </div>
+
+                            <div class="column">
+                                <!-- nao usada -->
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div class="ui divider"></div>
+                <div class="footer">
+                    <!-- text plus button here -->
+                </div>
+            </div>
+
+
+
+
+
+
+
+        </div>
+    </div>
+</div>
+
+

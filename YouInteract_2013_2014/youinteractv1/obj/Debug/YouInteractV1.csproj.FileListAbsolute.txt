@@ -1,0 +1,884 @@
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+c:\users\josé\documents\visual studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\José\Documents\Visual Studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\José\Documents\Visual Studio 2012\Projects\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\José\Documents\Visual Studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\José\Documents\Visual Studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\José\Documents\Visual Studio 2012\Projects\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\José\Documents\fdsYouLx\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+D:\FIX\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\FIX\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\FIX\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\FIX\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+D:\FIX\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\FIX\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\FIX\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\FIX\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\Dropbox\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\Users\Jose Mendes\Desktop\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\VascoSantos\Dropbox\Group Projects\PEI - Deti Interact\Arquitectura Plugins\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+D:\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+E:\YouInteract\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+E:\YouInteract\Plugin version\YouInteract BETA\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+E:\YouInteract\First Release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\NEEET\Desktop\release\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+D:\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+C:\Users\NEEET\Desktop\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\NEEET\Desktop\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\NEEET\Desktop\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\VERSAO QUE FUNCIONA FINALMENTE 28-05-2014--20-47\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\João\Desktop\VERSAO JOAO 29-05-2014--21-07\Pasta\Teste 2\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\YouInteract BETA\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+E:\YouInteract\Versão Vasco 02-06-2014\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\André\Desktop\FINAL\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.xml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\José\Desktop\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA  @ RoboCup 2007- Impossible Goal.mp4
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA @RoboCup2010- amazing pass with a goal.mp4
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\CAMBADA MSL Qualification Video - RoboCup 2014.avi
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\enei2014.avi
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\MicroRato13.mp4
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Videos\YouInteract.avi
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\KinectMouseController.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\YouInteract.xml
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_AirPaint.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Contacts.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_TimeTables.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Tutorial.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Videos.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Weather.pdb
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Core.xml
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\Awesomium.Windows.Controls.xml
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\awesomium.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\icudt.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\avcodec-53.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\avformat-53.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\avutil-51.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\libEGL.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\libGLESv2.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\awesomium_process
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\inspector.pak
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\xinput9_1_0.dll
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.baml
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.g.cs
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+D:\UA\3-2\PEI\You Interact\YouInteractV1\YouInteractV1\bin\Debug\You_Pong.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\bin\Debug\YouInteractV1.exe.config
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.exe
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.pdb
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csprojResolveAssemblyReference.cache
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.baml
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.baml
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.baml
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.baml
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\CallOfAttention.g.cs
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\MainWindow.g.cs
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\Screensaver.g.cs
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouMenu.g.cs
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\App.g.cs
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_Content.g.cs
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1_MarkupCompile.cache
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.g.resources
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.Properties.Resources.resources
+C:\Users\João Minhós\Desktop\pei-youinteract\YouInteractV1\YouInteractV1\obj\Debug\YouInteractV1.csproj.GenerateResource.Cache

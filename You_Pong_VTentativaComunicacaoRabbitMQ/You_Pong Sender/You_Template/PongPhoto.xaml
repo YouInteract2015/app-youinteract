@@ -1,0 +1,21 @@
+﻿<Page x:Class="You_Pong.PongPhoto"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}"  Cursor="Hand"
+	Title="PongPhoto" Name="YouPongPhoto">
+
+    <Grid>
+        <k:KinectRegion Name="KinectRegion">
+            <Canvas Name="MainCanvas" Background="Black">
+                <Image x:Name="KinectVideo"/>
+                <TextBlock x:Name="cd" FontFamily="/You_Pong;component/#Press Start 2P" Foreground="White" FontSize="90" Opacity="0.5"></TextBlock>
+                <u:YouButton Name="Botao" BorderBrush="{x:Null}" Click="Botao_Click" GripEvent="Botao_OnGripEvent" Foreground="White" FontFamily="/You_Pong;component/#Press Start 2P" Background="Black">Clica para tirares uma foto</u:YouButton>
+            </Canvas>
+        </k:KinectRegion>
+    </Grid>
+</Page>

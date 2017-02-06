@@ -1,0 +1,365 @@
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\You_Pong.exe.config
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\You_Pong.exe
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\YouInteract.dll
+D:\YouInteract BETA\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\MainWindow.baml
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong.baml
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\MainWindow.g.cs
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong.g.cs
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\App.g.cs
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.exe
+D:\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong.baml
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong.g.cs
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\PongPause.baml
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\bin\Debug\You_Pong.dll
+E:\YouInteract\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.dll
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\bin\Debug\You_Pong.dll
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong.baml
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\PongPause.baml
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.dll
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+E:\YouInteract\Plugin version\YouInteract BETA\You_Pong\You_Template\bin\Debug\YouInteract.dll
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\Pong.baml
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\PongPause.baml
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\Pong.g.cs
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\You_Pong.dll
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\bin\Debug\You_Pong.dll
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\NOITES LOUCAS\You_Pong\You_Template\bin\Debug\YouInteract.dll
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\bin\Debug\You_Pong.dll
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\Pong.baml
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\PongPause.baml
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\Pong.g.cs
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\You_Pong.dll
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\bin\Debug\YouInteract.dll
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+E:\YouInteract\PONG FINAL\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+E:\YouInteract\First Release\You_Pong\You_Template\bin\Debug\You_Pong.dll
+E:\YouInteract\First Release\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+E:\YouInteract\First Release\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\YouInteract\First Release\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\YouInteract\First Release\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\YouInteract\First Release\You_Pong\You_Template\bin\Debug\YouInteract.dll
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\Pong.baml
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\PongPause.baml
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\Pong.g.cs
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\You_Pong.dll
+E:\YouInteract\First Release\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\bin\Debug\You_Pong.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\Pong.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\PongPause.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\Pong.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\You_Pong.dll
+I:\VERSAO DO HALL DO CARALHO DO DETI QUE FUNCIONA E NAO SE DEVE MEXER\Teste 2\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\bin\Debug\You_Pong.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\Pong.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\PongPause.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\Pong.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.dll
+D:\YouInteract BETA\Versão Vaso 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\Pong.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\PongPause.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\Pong.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\bin\Debug\You_Pong.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\bin\Debug\YouInteract.dll
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+E:\YouInteract\Versão Vasco 02-06-2014\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\bin\Debug\You_Pong.dll
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\bin\Debug\YouInteract.dll
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\Pong.baml
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\PongPause.baml
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\Pong.g.cs
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\You_Pong.dll
+C:\Users\André\Desktop\FINAL\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\You_Pong.dll
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\YouInteract.dll
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\bin\Debug\YouInteract.xml
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\Pong.baml
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\PongPause.baml
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\Pong.g.cs
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.dll
+C:\Users\José\Desktop\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\You_Pong.dll
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\YouInteract.dll
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\bin\Debug\YouInteract.xml
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\Pong.baml
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\PongPause.baml
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\Pong.g.cs
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.dll
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+D:\UA\3-2\PEI\You Interact\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\You_Pong.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\YouInteract.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\bin\Debug\YouInteract.xml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\Pong.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\PongPause.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\Pong.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\You_Pong.dll
+D:\escola\ECT_5ano_2semestre\PEI\code_ua\pei-youinteract\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\bin\Debug\You_Pong.dll
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\bin\Debug\RabbitMQ.Client.dll
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\bin\Debug\YouInteract.dll
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\bin\Debug\RabbitMQ.Client.xml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\bin\Debug\YouInteract.xml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\Pong.baml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\PongPause.baml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\Pong.g.cs
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\You_Pong.dll
+C:\Users\João Minhós\Documents\Visual Studio 2013\Projects\pei-youinteract Sender\You_Pong\You_Template\obj\Debug\You_Pong.pdb
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\bin\Debug\You_Pong.dll
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\bin\Debug\You_Pong.pdb
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\bin\Debug\RabbitMQ.Client.dll
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\bin\Debug\RabbitMQ.Client.xml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\bin\Debug\YouInteract.pdb
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\bin\Debug\YouInteract.xml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\You_Pong.csprojResolveAssemblyReference.cache
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\Pong.baml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\Pong1Player.baml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\Pong2Players.baml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\PongPause.baml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\PongPhoto.baml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\PongViewHighscores.baml
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\Pong.g.cs
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\Pong1Player.g.cs
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\Pong2Players.g.cs
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\PongPause.g.cs
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\PongPhoto.g.cs
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\PongViewHighscores.g.cs
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\You_Pong_MarkupCompile.cache
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\You_Pong.g.resources
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\You_Pong.Properties.Resources.resources
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\You_Pong.csproj.GenerateResource.Cache
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\You_Pong.dll
+C:\Users\João Minhós\Desktop\You_Pong\You_Template\obj\Debug\You_Pong.pdb

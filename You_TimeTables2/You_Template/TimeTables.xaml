@@ -1,0 +1,37 @@
+﻿<Page x:Class="You_TimeTables.TimeTables"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d" 
+      
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	  Title="TimeTables" x:Name="YouTimeTables">
+
+    <Grid>
+        <k:KinectRegion x:Name="YouTimeTablesRegion">
+            <Canvas x:Name="YouTimeTablesCanvas">
+                
+                <Image x:Name="Titulo" Stretch="Fill"/>
+                
+                <u:YouButton x:Name="MainMenuButton"  Click="Button_Click" GripEvent="Button_GripEvent"
+                             Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_TimeTables;component/Images/Themes/Theme1/Navigation/back.png" Stretch="Fill"/>
+                </u:YouButton>
+
+                <u:YouButton x:Name="Ect" Label="ECT" Click="Button_Click" GripEvent="Button_GripEvent" BorderBrush="{x:Null}"  >
+                </u:YouButton>
+                <u:YouButton x:Name="Eet" Label="EET" Click="Button_Click" GripEvent="Button_GripEvent" BorderBrush="{x:Null}"   >
+                </u:YouButton>
+                <u:YouButton x:Name="Tsi" Label="TSI" Click="Button_Click" GripEvent="Button_GripEvent"  BorderBrush="{x:Null}"  >
+                </u:YouButton>
+
+            </Canvas>
+        </k:KinectRegion>
+        <Grid.Background>
+            <ImageBrush ImageSource="/You_TimeTables;component/Images/Themes/Theme1/Background/background.jpg"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Page>

@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseModel1StoreContainer" CdmEntityContainer="DatabaseEntities2">
+    <EntitySetMapping Name="generic_config_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_config_items">
+        <MappingFragment StoreEntitySet="generic_config_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="item_id" ColumnName="item_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="priority" ColumnName="priority" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_configs">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_configs">
+        <MappingFragment StoreEntitySet="generic_configs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="default" ColumnName="default" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_devices">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_devices">
+        <MappingFragment StoreEntitySet="generic_devices">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="location" ColumnName="location" />
+          <ScalarProperty Name="ip" ColumnName="ip" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_items">
+        <MappingFragment StoreEntitySet="generic_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="file" ColumnName="file" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="preview" ColumnName="preview" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_scheduler_config_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_scheduler_config_items">
+        <MappingFragment StoreEntitySet="generic_scheduler_config_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="item_id" ColumnName="item_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="priority" ColumnName="priority" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_scheduler_configs">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_scheduler_configs">
+        <MappingFragment StoreEntitySet="generic_scheduler_configs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="startat" ColumnName="startat" />
+          <ScalarProperty Name="endat" ColumnName="endat" />
+          <ScalarProperty Name="monday" ColumnName="monday" />
+          <ScalarProperty Name="tuesday" ColumnName="tuesday" />
+          <ScalarProperty Name="wednesday" ColumnName="wednesday" />
+          <ScalarProperty Name="thursday" ColumnName="thursday" />
+          <ScalarProperty Name="friday" ColumnName="friday" />
+          <ScalarProperty Name="saturday" ColumnName="saturday" />
+          <ScalarProperty Name="sunday" ColumnName="sunday" />
+          <ScalarProperty Name="starthour" ColumnName="starthour" />
+          <ScalarProperty Name="endhour" ColumnName="endhour" />
+          <ScalarProperty Name="startminute" ColumnName="startminute" />
+          <ScalarProperty Name="endminute" ColumnName="endminute" />
+          <ScalarProperty Name="startsecond" ColumnName="startsecond" />
+          <ScalarProperty Name="endsecond" ColumnName="endsecond" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_scheduler_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_scheduler_items">
+        <MappingFragment StoreEntitySet="generic_scheduler_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_schedulers">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_schedulers">
+        <MappingFragment StoreEntitySet="generic_schedulers">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="generic_templates">
+      <EntityTypeMapping TypeName="DatabaseModel1.generic_templates">
+        <MappingFragment StoreEntitySet="generic_templates">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="view" ColumnName="view" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="preview" ColumnName="preview" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_config_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_config_items">
+        <MappingFragment StoreEntitySet="kinect_config_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="item_id" ColumnName="item_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="priority" ColumnName="priority" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_configs">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_configs">
+        <MappingFragment StoreEntitySet="kinect_configs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="template_id" ColumnName="template_id" />
+          <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="default" ColumnName="default" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_devices">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_devices">
+        <MappingFragment StoreEntitySet="kinect_devices">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="location" ColumnName="location" />
+          <ScalarProperty Name="ip" ColumnName="ip" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_items">
+        <MappingFragment StoreEntitySet="kinect_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="dll" ColumnName="dll" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_items_download">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_items_download">
+        <MappingFragment StoreEntitySet="kinect_items_download">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="device_id" ColumnName="device_id" />
+          <ScalarProperty Name="item_id" ColumnName="item_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_scheduler_config_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_scheduler_config_items">
+        <MappingFragment StoreEntitySet="kinect_scheduler_config_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="file" ColumnName="file" />
+          <ScalarProperty Name="preview" ColumnName="preview" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_scheduler_configs">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_scheduler_configs">
+        <MappingFragment StoreEntitySet="kinect_scheduler_configs">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="item_id" ColumnName="item_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="startat" ColumnName="startat" />
+          <ScalarProperty Name="endat" ColumnName="endat" />
+          <ScalarProperty Name="monday" ColumnName="monday" />
+          <ScalarProperty Name="tuesday" ColumnName="tuesday" />
+          <ScalarProperty Name="wednesday" ColumnName="wednesday" />
+          <ScalarProperty Name="thursday" ColumnName="thursday" />
+          <ScalarProperty Name="friday" ColumnName="friday" />
+          <ScalarProperty Name="saturday" ColumnName="saturday" />
+          <ScalarProperty Name="sunday" ColumnName="sunday" />
+          <ScalarProperty Name="starthour" ColumnName="starthour" />
+          <ScalarProperty Name="endhour" ColumnName="endhour" />
+          <ScalarProperty Name="startminute" ColumnName="startminute" />
+          <ScalarProperty Name="endminute" ColumnName="endminute" />
+          <ScalarProperty Name="startsecond" ColumnName="startsecond" />
+          <ScalarProperty Name="endsecond" ColumnName="endsecond" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_scheduler_items">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_scheduler_items">
+        <MappingFragment StoreEntitySet="kinect_scheduler_items">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="config_id" ColumnName="config_id" />
+          <ScalarProperty Name="scheduler_id" ColumnName="scheduler_id" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="priority" ColumnName="priority" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_schedulers">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_schedulers">
+        <MappingFragment StoreEntitySet="kinect_schedulers">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="kinect_templates">
+      <EntityTypeMapping TypeName="DatabaseModel1.kinect_templates">
+        <MappingFragment StoreEntitySet="kinect_templates">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="path" ColumnName="path" />
+          <ScalarProperty Name="preview" ColumnName="preview" />
+          <ScalarProperty Name="created_at" ColumnName="created_at" />
+          <ScalarProperty Name="updated_at" ColumnName="updated_at" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

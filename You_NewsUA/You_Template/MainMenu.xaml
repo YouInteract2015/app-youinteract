@@ -1,0 +1,92 @@
+﻿<Page x:Class="You_NewsUA.MainMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d"
+      
+      Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" Cursor="Hand"
+	  Title="Noticias" x:Name="YouMainMenu">
+
+    <Page.Resources>
+        <PathGeometry x:Key="ChevronGeometry" x:Shared="False">
+            F1M150.001,146.9932L126.565,169.3822L126.565,153.5962L150.001,130.6182L173.435,153.5962L173.435,169.3822z
+        </PathGeometry>
+
+        <Path x:Key="ChevronRight" Height="48" Width="48" Stretch="Uniform" Canvas.Top="0" x:Shared="False"
+          Data="{StaticResource ChevronGeometry}"
+          Fill="{Binding FallbackValue=White, Path=Foreground,RelativeSource={RelativeSource AncestorType={x:Type u:KinectHoverButton}}}">
+            <Path.RenderTransformOrigin>0.5,0.5</Path.RenderTransformOrigin>
+            <Path.RenderTransform>
+                <RotateTransform Angle="90"/>
+            </Path.RenderTransform>
+        </Path>
+
+        <Path x:Key="ChevronLeft" Height="48" Width="48" Stretch="Uniform" Canvas.Top="0" x:Shared="False"
+          Data="{StaticResource ChevronGeometry}"
+          Fill="{Binding FallbackValue=White, Path=Foreground,RelativeSource={RelativeSource AncestorType={x:Type u:KinectHoverButton}}}">
+            <Path.RenderTransformOrigin>0.5,0.5</Path.RenderTransformOrigin>
+            <Path.RenderTransform>
+                <RotateTransform Angle="270"/>
+            </Path.RenderTransform>
+        </Path>
+
+        <Style x:Key="KinectHoverButtonStyle" TargetType="{x:Type u:KinectHoverButton}">
+            <Setter Property="Background" Value="LightGray"/>
+            <Setter Property="BorderBrush" Value="DarkGray"/>
+            <Setter Property="BorderThickness" Value="0"></Setter>
+            <Setter Property="Foreground" Value="White"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type u:KinectHoverButton}">
+                        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{TemplateBinding Background}" Width="{TemplateBinding Width}" Height="{TemplateBinding Height}">
+                            <Border BorderThickness="{TemplateBinding BorderThickness}" BorderBrush="{TemplateBinding BorderBrush}">
+                                <ContentPresenter HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Content="{TemplateBinding Content}"></ContentPresenter>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Foreground" Value="LightGray"/>
+                    <Setter Property="BorderBrush" Value="LightGray"/>
+                    <Setter Property="Background" Value="Transparent"></Setter>
+                </Trigger>
+                <Trigger Property="IsHandPointerOver" Value="True">
+                    <Setter Property="Background" Value="#5A5B5B"/>
+                    <Setter Property="Foreground" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="KinectHoverButtonScrollRightStyle" TargetType="{x:Type u:KinectHoverButton}" BasedOn="{StaticResource KinectHoverButtonStyle}">
+            <Setter Property="Content" Value="{StaticResource ChevronRight}"/>
+        </Style>
+
+        <Style x:Key="KinectHoverButtonScrollLeftStyle" TargetType="{x:Type u:KinectHoverButton}" BasedOn="{StaticResource KinectHoverButtonStyle}">
+            <Setter Property="Content" Value="{StaticResource ChevronLeft}"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid Name="General">
+        <k:KinectRegion x:Name="YouNoticiasRegion">
+            <Canvas x:Name="YouNoticiasCanvas">
+                <Image x:Name="Titulo" Stretch="Fill"/>
+                <u:YouButton x:Name="MainMenuButton"  Click="Button_Click" GripEvent="Button_GripEvent"
+        			Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                    <Image Source="/You_NewsUA;component/Images/back.png" Stretch="Fill"/>
+                </u:YouButton>
+                
+                <Grid Name="Categorias" Visibility="Hidden">
+                </Grid>
+
+            </Canvas>
+        </k:KinectRegion>
+        <Grid.Background>
+            <ImageBrush ImageSource="/You_NewsUA;component/Images/background.png"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Page>

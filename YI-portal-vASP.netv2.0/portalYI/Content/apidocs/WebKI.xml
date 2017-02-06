@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="bindRegion method" Url="html/5a9464ba-d372-745c-7559-a069ea4282cf.htm" />
+  <HelpKINode Title="bitmapSource method" Url="html/e0a73ee4-64cb-8178-d9eb-4feb74367357.htm" />
+  <HelpKINode Title="ColorStreamEvent event" Url="html/76b88ba4-afb3-4a8e-4d55-f43d43c39cad.htm" />
+  <HelpKINode Title="Destination property" Url="html/6076d047-051d-0360-afec-377f228e17e6.htm" />
+  <HelpKINode Title="DummyInteractionClient class">
+    <HelpKINode Title="DummyInteractionClient Class" Url="html/958c4709-f70d-8bc9-738a-93661bfc8ac2.htm" />
+    <HelpKINode Title="about DummyInteractionClient class" Url="html/958c4709-f70d-8bc9-738a-93661bfc8ac2.htm" />
+    <HelpKINode Title="constructor" Url="html/0d50bdc9-a0aa-18d2-ec03-59b0effc6498.htm" />
+    <HelpKINode Title="methods" Url="html/69a0eac1-cda6-25fc-f3fa-da0c6a2ed931.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DummyInteractionClient.DummyInteractionClient constructor" Url="html/0d50bdc9-a0aa-18d2-ec03-59b0effc6498.htm" />
+  <HelpKINode Title="DummyInteractionClient.GetInteractionInfoAtLocation method" Url="html/97a7def3-143e-8395-b1a9-839dac75b1a7.htm" />
+  <HelpKINode Title="EnterEvent event" Url="html/792ded21-a979-9f6e-d6ab-a1fde95b02ec.htm" />
+  <HelpKINode Title="FrameReady event" Url="html/c19c546c-0a0d-5590-96a8-5e8c7635fab5.htm" />
+  <HelpKINode Title="freeNavigate method" Url="html/8a2903c2-3d82-0b95-524c-cc68b164b35f.htm" />
+  <HelpKINode Title="getActiveHand method" Url="html/8b3791be-2021-c1cb-0ab3-ee931394c08f.htm" />
+  <HelpKINode Title="getAppName method" Url="html/0e5902d9-c160-ca35-75ca-906af2401d6d.htm" />
+  <HelpKINode Title="getAppXml method" Url="html/b0d5e48b-08e8-eaf4-3e39-52b50dbf8d31.htm" />
+  <HelpKINode Title="getHeight method" Url="html/07bc606a-fdb5-75ef-d138-3cc5029d04de.htm" />
+  <HelpKINode Title="GetInteractionInfoAtLocation method" Url="html/97a7def3-143e-8395-b1a9-839dac75b1a7.htm" />
+  <HelpKINode Title="getInteractionStreamReq method" Url="html/b9fb3c25-80a2-f7b7-6559-ddb09fb088a2.htm" />
+  <HelpKINode Title="getIsFirstPage method" Url="html/a0fba668-eeea-cbf2-9206-efceaf5fde8a.htm" />
+  <HelpKINode Title="getKinectRegionReq method" Url="html/ae1ab7aa-c8ad-993f-79f7-16d72b33b6e1.htm" />
+  <HelpKINode Title="getKinectRequirements method" Url="html/266ab3f6-42fa-de45-03e4-da6b1c101f07.htm" />
+  <HelpKINode Title="getName method" Url="html/9a78bd6a-e6cd-b3e3-2772-2d80b8d73f5d.htm" />
+  <HelpKINode Title="getPage method" Url="html/748c164d-4cb4-41bc-c15c-42b94b7f1b8c.htm" />
+  <HelpKINode Title="getRegion method" Url="html/0372c30d-51db-7571-b488-afb8cbdeeb7d.htm" />
+  <HelpKINode Title="getSensor method" Url="html/ce8b109c-66d4-4a09-f088-aed4f85acbec.htm" />
+  <HelpKINode Title="getSkeletonStreamReq method" Url="html/310ebde8-88ab-ac99-5c0d-1d406fff95a6.htm" />
+  <HelpKINode Title="getWidth method" Url="html/1dde1d2b-95b1-645d-bca2-4d85f4f25dd7.htm" />
+  <HelpKINode Title="GripEvent event" Url="html/6d3fb888-4a66-17e9-dbb5-35cef22bd9d6.htm" />
+  <HelpKINode Title="initLogo method" Url="html/4e37a5d6-3332-f5d9-9df2-3094b672678f.htm" />
+  <HelpKINode Title="InteractionEvent event" Url="html/ef05eed2-a796-60a6-fc0f-09371f9e5e0e.htm" />
+  <HelpKINode Title="InteractionEventHandler delegate" Url="html/d6e6e316-256a-2671-12cf-1e9670846bb2.htm" />
+  <HelpKINode Title="InteractionStreamArgs class">
+    <HelpKINode Title="InteractionStreamArgs Class" Url="html/2031cd62-f8be-1fbe-a90f-7c1cf66883e5.htm" />
+    <HelpKINode Title="about InteractionStreamArgs class" Url="html/2031cd62-f8be-1fbe-a90f-7c1cf66883e5.htm" />
+    <HelpKINode Title="constructor" Url="html/42a95e34-8612-bb7c-8b59-8cc23d402d5f.htm" />
+    <HelpKINode Title="methods" Url="html/0230349c-b492-067d-84ae-790efbc787c6.htm" />
+    <HelpKINode Title="properties" Url="html/a2d7e8ee-a324-93e9-9a04-6a03ac1553c0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InteractionStreamArgs.InteractionStreamArgs constructor" Url="html/42a95e34-8612-bb7c-8b59-8cc23d402d5f.htm" />
+  <HelpKINode Title="InteractionStreamArgs.userinfo property" Url="html/32baf672-1b80-0dc3-6008-66c9d56f6df7.htm" />
+  <HelpKINode Title="IsHandPointerOver property" Url="html/ee40ef09-35a9-a742-5834-4dafc0af2ad0.htm" />
+  <HelpKINode Title="IsHandPointerOverProperty field" Url="html/3f906fc8-dc0e-00b3-e4ca-fa08d3558858.htm" />
+  <HelpKINode Title="KinectApi class">
+    <HelpKINode Title="KinectApi Class" Url="html/7244eca2-a42e-96b2-f52d-496e61efa13b.htm" />
+    <HelpKINode Title="about KinectApi class" Url="html/7244eca2-a42e-96b2-f52d-496e61efa13b.htm" />
+    <HelpKINode Title="events" Url="html/7741b356-86d4-31fd-8830-fb47cbe950ea.htm" />
+    <HelpKINode Title="methods" Url="html/1bcfe3f1-9aa4-4434-32bf-05cdf251d6ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KinectApi.bindRegion method" Url="html/5a9464ba-d372-745c-7559-a069ea4282cf.htm" />
+  <HelpKINode Title="KinectApi.ColorStreamEvent event" Url="html/76b88ba4-afb3-4a8e-4d55-f43d43c39cad.htm" />
+  <HelpKINode Title="KinectApi.EventHandler delegate" Url="html/1a996f51-5145-1343-82bf-fe7daa246771.htm" />
+  <HelpKINode Title="KinectApi.getSensor method" Url="html/ce8b109c-66d4-4a09-f088-aed4f85acbec.htm" />
+  <HelpKINode Title="KinectApi.InteractionEvent event" Url="html/ef05eed2-a796-60a6-fc0f-09371f9e5e0e.htm" />
+  <HelpKINode Title="KinectApi.onLoaded method" Url="html/e7b31ed8-abba-e6af-cbe7-32a65a12b879.htm" />
+  <HelpKINode Title="KinectApi.setColor method" Url="html/9aded453-5208-4799-8470-7b8010678ed3.htm" />
+  <HelpKINode Title="KinectApi.setKinectRequirements method" Url="html/6acd38fb-361d-09d3-2598-414f7d03eb04.htm" />
+  <HelpKINode Title="KinectApi.SkeletonEvent event" Url="html/278f3721-f02e-18aa-d59f-8d182ccc3282.htm" />
+  <HelpKINode Title="KinectApi.unbindRegion method" Url="html/e98d70ba-38cd-cf4a-7f05-8dddb3455827.htm" />
+  <HelpKINode Title="KinectHoverButton class">
+    <HelpKINode Title="KinectHoverButton Class" Url="html/bcff7da7-8c88-9655-659c-ba2170a8c7ad.htm" />
+    <HelpKINode Title="about KinectHoverButton class" Url="html/bcff7da7-8c88-9655-659c-ba2170a8c7ad.htm" />
+    <HelpKINode Title="constructor" Url="html/67102121-fa32-bed9-0e69-8d2fc074943a.htm" />
+    <HelpKINode Title="events" Url="html/ef8e883d-3e34-8519-1aaf-0da7c1d17cb3.htm" />
+    <HelpKINode Title="fields" Url="html/cececd41-26d2-bc22-4b61-04bcd7dc71ea.htm" />
+    <HelpKINode Title="methods" Url="html/f7615aa5-73c2-6e49-6e9e-4bd49b247df3.htm" />
+    <HelpKINode Title="properties" Url="html/c821ffab-0258-2106-f6c6-aaa4eea3d5d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KinectHoverButton.IsHandPointerOver property" Url="html/ee40ef09-35a9-a742-5834-4dafc0af2ad0.htm" />
+  <HelpKINode Title="KinectHoverButton.IsHandPointerOverProperty field" Url="html/3f906fc8-dc0e-00b3-e4ca-fa08d3558858.htm" />
+  <HelpKINode Title="KinectHoverButton.KinectHoverButton constructor" Url="html/67102121-fa32-bed9-0e69-8d2fc074943a.htm" />
+  <HelpKINode Title="KinectHoverButton.OnMouseEnter method" Url="html/873f5219-42b8-3e99-3e9a-cd86485fe08e.htm" />
+  <HelpKINode Title="KinectHoverButton.OnMouseLeave method" Url="html/a2caf8e3-d3e7-13f8-046f-44673db7f8b8.htm" />
+  <HelpKINode Title="KinectReqReady event" Url="html/6a9c2e21-cb76-99bf-58a3-83d4371f3cef.htm" />
+  <HelpKINode Title="KinectRequirements class">
+    <HelpKINode Title="KinectRequirements Class" Url="html/6f776184-ac7f-8666-5974-d3fee6fa7f79.htm" />
+    <HelpKINode Title="about KinectRequirements class" Url="html/6f776184-ac7f-8666-5974-d3fee6fa7f79.htm" />
+    <HelpKINode Title="constructor" Url="html/179b2a82-4260-d7ab-b062-98e6fc10bc12.htm" />
+    <HelpKINode Title="methods" Url="html/0431da7c-8272-56b3-8362-829a0d1ad04f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KinectRequirements.getInteractionStreamReq method" Url="html/b9fb3c25-80a2-f7b7-6559-ddb09fb088a2.htm" />
+  <HelpKINode Title="KinectRequirements.getKinectRegionReq method" Url="html/ae1ab7aa-c8ad-993f-79f7-16d72b33b6e1.htm" />
+  <HelpKINode Title="KinectRequirements.getSkeletonStreamReq method" Url="html/310ebde8-88ab-ac99-5c0d-1d406fff95a6.htm" />
+  <HelpKINode Title="KinectRequirements.KinectRequirements constructor" Url="html/179b2a82-4260-d7ab-b062-98e6fc10bc12.htm" />
+  <HelpKINode Title="KinectRequirementsArgs class">
+    <HelpKINode Title="methods" Url="html/e4bc9e7f-45fe-64cc-3ab4-75b999dc7a4c.htm" />
+    <HelpKINode Title="properties" Url="html/41516f43-7ec5-2bf0-2d31-9af16810eed2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LeaveEvent event" Url="html/f4ab71e1-3d42-9f5e-eab8-d87815dabb82.htm" />
+  <HelpKINode Title="NavigateArgs class">
+    <HelpKINode Title="methods" Url="html/0e8fe902-7150-50ca-3e2c-aa9aca045d37.htm" />
+    <HelpKINode Title="properties" Url="html/7e80c14e-9d05-1823-2bcf-2ceaec538911.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NavigateToMainMenu event" Url="html/eb27eca9-25eb-003c-9303-8e374802d2a0.htm" />
+  <HelpKINode Title="navigateToMainMenu method" Url="html/4658daeb-4f41-567c-afdc-6a46dcd3f778.htm" />
+  <HelpKINode Title="onGripHandler delegate" Url="html/c1bf365f-eafe-f6e2-2741-f3480d87d7f3.htm" />
+  <HelpKINode Title="onGripReleaseHandler delegate" Url="html/0d88910d-72f2-29cf-8c6a-bf57240168f8.htm" />
+  <HelpKINode Title="onHandEnterHandler delegate" Url="html/f8858291-6222-1d51-fdea-dfec8c55f4bb.htm" />
+  <HelpKINode Title="onhandLeaveHandler delegate" Url="html/32255f4a-4aea-465a-fd28-29052c4c28cc.htm" />
+  <HelpKINode Title="onLoaded method" Url="html/e7b31ed8-abba-e6af-cbe7-32a65a12b879.htm" />
+  <HelpKINode Title="OnMouseEnter method" Url="html/873f5219-42b8-3e99-3e9a-cd86485fe08e.htm" />
+  <HelpKINode Title="OnMouseLeave method" Url="html/a2caf8e3-d3e7-13f8-046f-44673db7f8b8.htm" />
+  <HelpKINode Title="ReleaseEvent event" Url="html/372a0c99-c7ae-ca93-d68a-0c725805a0a5.htm" />
+  <HelpKINode Title="req property" Url="html/48ae1dc7-7dbe-b4ad-4930-faf224951b5b.htm" />
+  <HelpKINode Title="requestFrameChange method" Url="html/28f2c994-f72d-3705-1cbe-88fb30ad93fd.htm" />
+  <HelpKINode Title="setColor method" Url="html/9aded453-5208-4799-8470-7b8010678ed3.htm" />
+  <HelpKINode Title="setKinectRequirements method" Url="html/6acd38fb-361d-09d3-2598-414f7d03eb04.htm" />
+  <HelpKINode Title="setScrollArrows method" Url="html/f0889cb5-ee39-da64-a633-e09bcf39081c.htm" />
+  <HelpKINode Title="setUserViewer method" Url="html/a8031e77-d76c-c2e9-7aeb-c8a59b3bd0c9.htm" />
+  <HelpKINode Title="setWindow method" Url="html/f676e9bc-12c1-3f99-8804-4abda2d43f63.htm" />
+  <HelpKINode Title="SkeletonEvent event" Url="html/278f3721-f02e-18aa-d59f-8d182ccc3282.htm" />
+  <HelpKINode Title="SkeletonEventHandler delegate" Url="html/c0033bc3-1403-5fd1-65cc-3b34fe17ead0.htm" />
+  <HelpKINode Title="skeletons property" Url="html/8fba76a5-c718-3d7a-49dc-1afb2dde60f3.htm" />
+  <HelpKINode Title="SkeletonStreamArgs class">
+    <HelpKINode Title="SkeletonStreamArgs Class" Url="html/4460b8d8-d299-c97a-6bfb-53894135040d.htm" />
+    <HelpKINode Title="about SkeletonStreamArgs class" Url="html/4460b8d8-d299-c97a-6bfb-53894135040d.htm" />
+    <HelpKINode Title="constructor" Url="html/d2d88cb7-53bc-cc3b-56ab-72dd9588fb05.htm" />
+    <HelpKINode Title="methods" Url="html/ac7b0f01-ac53-0589-4292-ecdf039eaef6.htm" />
+    <HelpKINode Title="properties" Url="html/262e33f9-cde6-523e-a533-6519aeae2003.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SkeletonStreamArgs.skeletons property" Url="html/8fba76a5-c718-3d7a-49dc-1afb2dde60f3.htm" />
+  <HelpKINode Title="SkeletonStreamArgs.SkeletonStreamArgs constructor" Url="html/d2d88cb7-53bc-cc3b-56ab-72dd9588fb05.htm" />
+  <HelpKINode Title="unbindRegion method" Url="html/e98d70ba-38cd-cf4a-7f05-8dddb3455827.htm" />
+  <HelpKINode Title="updateKinect method" Url="html/1dacdb05-b89d-77ca-e9c6-4694035f00d4.htm" />
+  <HelpKINode Title="userinfo property" Url="html/32baf672-1b80-0dc3-6008-66c9d56f6df7.htm" />
+  <HelpKINode Title="YouButton class">
+    <HelpKINode Title="YouButton Class" Url="html/9d704f0b-c8e2-bde6-2a24-9c562f01b700.htm" />
+    <HelpKINode Title="about YouButton class" Url="html/9d704f0b-c8e2-bde6-2a24-9c562f01b700.htm" />
+    <HelpKINode Title="constructor" Url="html/4cbb864f-d097-61e5-9e7e-0a5fd2569bed.htm" />
+    <HelpKINode Title="events" Url="html/2e873667-5515-9761-13e1-a8a5b87117aa.htm" />
+    <HelpKINode Title="methods" Url="html/fd435de6-1624-2769-c8d1-8ba77da8f6eb.htm" />
+    <HelpKINode Title="properties" Url="html/1ad920c2-9414-9adf-5fa9-37bfcc4f56ac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouButton.EnterEvent event" Url="html/792ded21-a979-9f6e-d6ab-a1fde95b02ec.htm" />
+  <HelpKINode Title="YouButton.getActiveHand method" Url="html/8b3791be-2021-c1cb-0ab3-ee931394c08f.htm" />
+  <HelpKINode Title="YouButton.GripEvent event" Url="html/6d3fb888-4a66-17e9-dbb5-35cef22bd9d6.htm" />
+  <HelpKINode Title="YouButton.LeaveEvent event" Url="html/f4ab71e1-3d42-9f5e-eab8-d87815dabb82.htm" />
+  <HelpKINode Title="YouButton.ReleaseEvent event" Url="html/372a0c99-c7ae-ca93-d68a-0c725805a0a5.htm" />
+  <HelpKINode Title="YouButton.YouButton constructor" Url="html/4cbb864f-d097-61e5-9e7e-0a5fd2569bed.htm" />
+  <HelpKINode Title="YouInteract.YouBasic namespace" Url="html/f12c3ffe-aa27-e83c-0421-04e787d515a3.htm" />
+  <HelpKINode Title="YouInteract.YouBasic.KinectApi class" Url="html/7244eca2-a42e-96b2-f52d-496e61efa13b.htm" />
+  <HelpKINode Title="YouInteract.YouBasic.KinectApi.EventHandler delegate" Url="html/1a996f51-5145-1343-82bf-fe7daa246771.htm" />
+  <HelpKINode Title="YouInteract.YouBasic.KinectRequirements class" Url="html/6f776184-ac7f-8666-5974-d3fee6fa7f79.htm" />
+  <HelpKINode Title="YouInteract.YouBasic.YouPlugin interface" Url="html/3d6e5892-4189-c440-0226-1b2712a78d7a.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI namespace" Url="html/5892fd3c-76a5-91d0-8ba3-1ec95e0f6a7c.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.DummyInteractionClient class" Url="html/958c4709-f70d-8bc9-738a-93661bfc8ac2.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.InteractionEventHandler delegate" Url="html/d6e6e316-256a-2671-12cf-1e9670846bb2.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.InteractionStreamArgs class" Url="html/2031cd62-f8be-1fbe-a90f-7c1cf66883e5.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.KinectHoverButton class" Url="html/bcff7da7-8c88-9655-659c-ba2170a8c7ad.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.onGripHandler delegate" Url="html/c1bf365f-eafe-f6e2-2741-f3480d87d7f3.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.onGripReleaseHandler delegate" Url="html/0d88910d-72f2-29cf-8c6a-bf57240168f8.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.onHandEnterHandler delegate" Url="html/f8858291-6222-1d51-fdea-dfec8c55f4bb.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.onhandLeaveHandler delegate" Url="html/32255f4a-4aea-465a-fd28-29052c4c28cc.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.SkeletonEventHandler delegate" Url="html/c0033bc3-1403-5fd1-65cc-3b34fe17ead0.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.SkeletonStreamArgs class" Url="html/4460b8d8-d299-c97a-6bfb-53894135040d.htm" />
+  <HelpKINode Title="YouInteract.YouInteractAPI.YouButton class" Url="html/9d704f0b-c8e2-bde6-2a24-9c562f01b700.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_Developing namespace" Url="html/6d572c50-84e6-105b-c681-adc4fa755cbd.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_Developing.YouNavigation class" Url="html/285d3c21-bfeb-a9da-631a-2020c2f17dfc.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_Developing.YouNavigation.EventHandler delegate" Url="html/8809e966-033d-1075-8bce-d5bb981c2179.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_Developing.YouWindow class" Url="html/aeb692a3-0c64-455e-d9bf-533616691c96.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_Developing.YouXMLFetcher class" Url="html/af7ed487-fb5b-105a-cd6e-db15c1cf982d.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_System namespace" Url="html/9a419bf4-0031-6ac6-e0a5-63be0534e667.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_System.YouPluginManager class" Url="html/02f0acad-00c4-e41c-ad53-a0914452728e.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_System.YouPluginManager.KinectReqEventHandler delegate" Url="html/847a7dad-74e8-0a35-dab0-b220712accbb.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_System.YouPluginManager.KinectRequirementsArgs class" Url="html/fda778f8-b9aa-b79f-1879-dd8faa6025f8.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_System.YouPluginManager.NavigateArgs class" Url="html/ac63a713-10c8-e695-a0d3-66cae9eb0f65.htm" />
+  <HelpKINode Title="YouInteract.YouPlugin_System.YouPluginManager.NavigationEventHandler delegate" Url="html/17e9df7d-2150-5ca3-5ffc-0dadf9849b36.htm" />
+  <HelpKINode Title="YouNavigation class">
+    <HelpKINode Title="YouNavigation Class" Url="html/285d3c21-bfeb-a9da-631a-2020c2f17dfc.htm" />
+    <HelpKINode Title="about YouNavigation class" Url="html/285d3c21-bfeb-a9da-631a-2020c2f17dfc.htm" />
+    <HelpKINode Title="events" Url="html/adf6318f-420f-93ea-1c51-82ca5ddf19c8.htm" />
+    <HelpKINode Title="methods" Url="html/80731d2e-727c-9889-d7c4-a5680e278c89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouNavigation.EventHandler delegate" Url="html/8809e966-033d-1075-8bce-d5bb981c2179.htm" />
+  <HelpKINode Title="YouNavigation.NavigateToMainMenu event" Url="html/eb27eca9-25eb-003c-9303-8e374802d2a0.htm" />
+  <HelpKINode Title="YouNavigation.navigateToMainMenu method" Url="html/4658daeb-4f41-567c-afdc-6a46dcd3f778.htm" />
+  <HelpKINode Title="YouNavigation.requestFrameChange method" Url="html/28f2c994-f72d-3705-1cbe-88fb30ad93fd.htm" />
+  <HelpKINode Title="YouPlugin interface">
+    <HelpKINode Title="YouPlugin Interface" Url="html/3d6e5892-4189-c440-0226-1b2712a78d7a.htm" />
+    <HelpKINode Title="about YouPlugin interface" Url="html/3d6e5892-4189-c440-0226-1b2712a78d7a.htm" />
+    <HelpKINode Title="methods" Url="html/e5f7704e-664e-3c00-18a7-507124654e95.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouPlugin.getAppName method" Url="html/0e5902d9-c160-ca35-75ca-906af2401d6d.htm" />
+  <HelpKINode Title="YouPlugin.getIsFirstPage method" Url="html/a0fba668-eeea-cbf2-9206-efceaf5fde8a.htm" />
+  <HelpKINode Title="YouPlugin.getKinectRequirements method" Url="html/266ab3f6-42fa-de45-03e4-da6b1c101f07.htm" />
+  <HelpKINode Title="YouPlugin.getName method" Url="html/9a78bd6a-e6cd-b3e3-2772-2d80b8d73f5d.htm" />
+  <HelpKINode Title="YouPlugin.getPage method" Url="html/748c164d-4cb4-41bc-c15c-42b94b7f1b8c.htm" />
+  <HelpKINode Title="YouPlugin.getRegion method" Url="html/0372c30d-51db-7571-b488-afb8cbdeeb7d.htm" />
+  <HelpKINode Title="YouPluginManager class">
+    <HelpKINode Title="YouPluginManager Class" Url="html/02f0acad-00c4-e41c-ad53-a0914452728e.htm" />
+    <HelpKINode Title="about YouPluginManager class" Url="html/02f0acad-00c4-e41c-ad53-a0914452728e.htm" />
+    <HelpKINode Title="constructor" Url="html/ac8cc445-9056-df4b-59fa-65ba581e888a.htm" />
+    <HelpKINode Title="events" Url="html/f8472368-d298-1e65-a4db-58d99ad53975.htm" />
+    <HelpKINode Title="methods" Url="html/6d446d4d-220d-bbeb-c8ea-7726a793d884.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouPluginManager.FrameReady event" Url="html/c19c546c-0a0d-5590-96a8-5e8c7635fab5.htm" />
+  <HelpKINode Title="YouPluginManager.freeNavigate method" Url="html/8a2903c2-3d82-0b95-524c-cc68b164b35f.htm" />
+  <HelpKINode Title="YouPluginManager.KinectReqEventHandler delegate" Url="html/847a7dad-74e8-0a35-dab0-b220712accbb.htm" />
+  <HelpKINode Title="YouPluginManager.KinectReqReady event" Url="html/6a9c2e21-cb76-99bf-58a3-83d4371f3cef.htm" />
+  <HelpKINode Title="YouPluginManager.KinectRequirementsArgs class">
+    <HelpKINode Title="YouPluginManager.KinectRequirementsArgs Class" Url="html/fda778f8-b9aa-b79f-1879-dd8faa6025f8.htm" />
+    <HelpKINode Title="about YouPluginManager.KinectRequirementsArgs class" Url="html/fda778f8-b9aa-b79f-1879-dd8faa6025f8.htm" />
+    <HelpKINode Title="constructor" Url="html/9cd44ac0-2698-e726-2168-03737ae152f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouPluginManager.KinectRequirementsArgs.KinectRequirementsArgs constructor" Url="html/9cd44ac0-2698-e726-2168-03737ae152f3.htm" />
+  <HelpKINode Title="YouPluginManager.KinectRequirementsArgs.req property" Url="html/48ae1dc7-7dbe-b4ad-4930-faf224951b5b.htm" />
+  <HelpKINode Title="YouPluginManager.NavigateArgs class">
+    <HelpKINode Title="YouPluginManager.NavigateArgs Class" Url="html/ac63a713-10c8-e695-a0d3-66cae9eb0f65.htm" />
+    <HelpKINode Title="about YouPluginManager.NavigateArgs class" Url="html/ac63a713-10c8-e695-a0d3-66cae9eb0f65.htm" />
+    <HelpKINode Title="constructor" Url="html/aed8f21e-15d8-38c5-4e68-6b3f4bb15055.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouPluginManager.NavigateArgs.Destination property" Url="html/6076d047-051d-0360-afec-377f228e17e6.htm" />
+  <HelpKINode Title="YouPluginManager.NavigateArgs.NavigateArgs constructor" Url="html/aed8f21e-15d8-38c5-4e68-6b3f4bb15055.htm" />
+  <HelpKINode Title="YouPluginManager.NavigationEventHandler delegate" Url="html/17e9df7d-2150-5ca3-5ffc-0dadf9849b36.htm" />
+  <HelpKINode Title="YouPluginManager.updateKinect method" Url="html/1dacdb05-b89d-77ca-e9c6-4694035f00d4.htm" />
+  <HelpKINode Title="YouPluginManager.YouPluginManager constructor" Url="html/ac8cc445-9056-df4b-59fa-65ba581e888a.htm" />
+  <HelpKINode Title="YouWindow class">
+    <HelpKINode Title="YouWindow Class" Url="html/aeb692a3-0c64-455e-d9bf-533616691c96.htm" />
+    <HelpKINode Title="about YouWindow class" Url="html/aeb692a3-0c64-455e-d9bf-533616691c96.htm" />
+    <HelpKINode Title="methods" Url="html/4f5c9f1d-69f3-b413-dc07-588b0253d8e6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouWindow.bitmapSource method" Url="html/e0a73ee4-64cb-8178-d9eb-4feb74367357.htm" />
+  <HelpKINode Title="YouWindow.getHeight method" Url="html/07bc606a-fdb5-75ef-d138-3cc5029d04de.htm" />
+  <HelpKINode Title="YouWindow.getWidth method" Url="html/1dde1d2b-95b1-645d-bca2-4d85f4f25dd7.htm" />
+  <HelpKINode Title="YouWindow.initLogo method" Url="html/4e37a5d6-3332-f5d9-9df2-3094b672678f.htm" />
+  <HelpKINode Title="YouWindow.setScrollArrows method" Url="html/f0889cb5-ee39-da64-a633-e09bcf39081c.htm" />
+  <HelpKINode Title="YouWindow.setUserViewer method" Url="html/a8031e77-d76c-c2e9-7aeb-c8a59b3bd0c9.htm" />
+  <HelpKINode Title="YouWindow.setWindow method" Url="html/f676e9bc-12c1-3f99-8804-4abda2d43f63.htm" />
+  <HelpKINode Title="YouXMLFetcher class">
+    <HelpKINode Title="YouXMLFetcher Class" Url="html/af7ed487-fb5b-105a-cd6e-db15c1cf982d.htm" />
+    <HelpKINode Title="about YouXMLFetcher class" Url="html/af7ed487-fb5b-105a-cd6e-db15c1cf982d.htm" />
+    <HelpKINode Title="methods" Url="html/7d03abec-a4ff-cd10-2a45-8a4e4739ab00.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YouXMLFetcher.getAppXml method" Url="html/b0d5e48b-08e8-eaf4-3e39-52b50dbf8d31.htm" />
+</HelpKI>

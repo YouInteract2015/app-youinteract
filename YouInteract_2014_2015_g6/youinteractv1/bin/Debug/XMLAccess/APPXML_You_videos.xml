@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<You_photos>
+	<Entry>
+		<Id_photo>15</Id_photo>
+		<Name_photo>UA1</Name_photo>
+		<Path_photo>teste/path</Path_photo>
+		<Active_photo>True</Active_photo>
+		<Description_photo>Edifício da Reitoria da Universidade de Aveiro </Description_photo>
+	</Entry>
+	<Entry>
+		<Id_photo>14</Id_photo>
+		<Name_photo>UA2</Name_photo>
+		<Path_photo>teste/path</Path_photo>
+		<Active_photo>True</Active_photo>
+		<Description_photo>Biblioteca - Universidade de Aveiro</Description_photo>
+	</Entry>
+	<Entry>
+		<Id_photo>16</Id_photo>
+		<Name_photo>UA2</Name_photo>
+		<Path_photo>teste/path</Path_photo>
+		<Active_photo>True</Active_photo>
+		<Description_photo>Complexo Pedagógico, Científico e Tecnológico - UA </Description_photo>
+	</Entry>
+	<Entry>
+		<Id_photo>17</Id_photo>
+		<Name_photo>DETI-UA</Name_photo>
+		<Path_photo>teste/path</Path_photo>
+		<Active_photo>True</Active_photo>
+		<Description_photo>Departamento de Eletrónica, Telecomunicações e Informática</Description_photo>
+	</Entry>
+	<Entry>
+		<Id_photo>18</Id_photo>
+		<Name_photo>IEETA-UA</Name_photo>
+		<Path_photo>test/path</Path_photo>
+		<Active_photo>True</Active_photo>
+		<Description_photo>Instituto de Engenharia Electrónica e Telemática de Aveiro</Description_photo>
+	</Entry>
+	<Entry>
+		<Id_photo>19</Id_photo>
+		<Name_photo>IT-UA</Name_photo>
+		<Path_photo>test/path</Path_photo>
+		<Active_photo>True</Active_photo>
+		<Description_photo>Instituto de Telecomunicações</Description_photo>
+	</Entry>
+	<Entry>
+		<Id_photo>19</Id_photo>
+		<Name_photo>IT-UA</Name_photo>
+		<Path_photo>test/path</Path_photo>
+		<Active_photo>True</Active_photo>
+		<Description_photo>Instituto de Telecomunicações</Description_photo>
+	</Entry>
+</You_photos>

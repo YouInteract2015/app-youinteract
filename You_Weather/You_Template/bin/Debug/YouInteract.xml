@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>YouInteract</name>
+    </assembly>
+    <members>
+        <member name="T:YouInteract.YouInteractAPI.DummyInteractionClient">
+            <summary>
+            The DummyInteractionClient that enables the InteractionFrame analysis.
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.InteractionStreamArgs">
+            <summary>
+            Contains the UserInfo Array
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.InteractionStreamArgs.#ctor(Microsoft.Kinect.Toolkit.Interaction.UserInfo[])">
+            <summary>
+            Constructor for InteractionStreamArgs
+            </summary>
+            <param name="user">An Array of User Infos</param>
+        </member>
+        <member name="P:YouInteract.YouInteractAPI.InteractionStreamArgs.userinfo">
+            <summary>
+            UserInfo Array
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.SkeletonStreamArgs">
+            <summary>
+            Contains the Skeleton Array
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.SkeletonStreamArgs.#ctor(Microsoft.Kinect.Skeleton[])">
+            <summary>
+            A Constructor for SkeletonStreamArgs
+            </summary>
+            <param name="skeleton">A Skeleton Array</param>
+        </member>
+        <member name="P:YouInteract.YouInteractAPI.SkeletonStreamArgs.skeletons">
+            <summary>
+            Skeletons Array
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.SkeletonEventHandler">
+            <summary>
+            This sends the Skeleton Array data of the tracked Skeletons
+            
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.InteractionEventHandler">
+            <summary>
+            This sends the UserInfo Array data of the Valid UserInfos
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.onHandEnterHandler">
+            <summary>
+            Raises an event for Hand Entering (Hovering) a Mybutton
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.onhandLeaveHandler">
+            <summary>
+            Raises an event for Hand Leaving a Mybutton
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.onGripHandler">
+            <summary>
+            Raises an event for a Grip on a Mybutton
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.onGripReleaseHandler">
+            <summary>
+            Raises an event for a grip release on a MyButtonRelease
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouBasic.KinectApi">
+            <summary>
+            The Kinect API for developing in <c>YouInteractAPI</c>.
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.setColor(System.Boolean)">
+            <summary>
+            Sets the Color Requirement needed for the Color Stream to be read
+            </summary>
+            <param name="b">True sets the ColorStream on. False sets the ColorStream off></param>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.SensorOnDepthFrameReady(System.Object,Microsoft.Kinect.DepthImageFrameReadyEventArgs)">
+            <summary>
+            Depth Stream Frame Rady Event
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.InteractionStreamOnInteractionFrameReady(System.Object,Microsoft.Kinect.Toolkit.Interaction.InteractionFrameReadyEventArgs)">
+            <summary>
+            Interaction Stream Frame Ready Event
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.onLoaded(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            The onLoaded method that should be called on the project's MainWindow
+            <b>WARNING:</b> Should not be called in a Page
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.Kinect_ColorFrameReady(System.Object,Microsoft.Kinect.ColorImageFrameReadyEventArgs)">
+            <summary>
+            Color Stream Frame Ready Event
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.YouPluginManager_KinectReqReady(YouInteract.YouPlugin_System.YouPluginManager.KinectRequirementsArgs)">
+            <summary>
+            Kinect Requirements Request Ready
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.setKinectRequirements(YouInteract.YouBasic.KinectRequirements)">
+            <summary>
+            Use this function only when testing plugin! Insert in mainWindow when navigating to a frame to assure page requirements are set
+            </summary>
+            <param name="e">The Kinect Requirements of the page you're about to navigate to</param>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.getSensor">
+            <summary>
+            Returns the KinectSensorChooser currently in use
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.bindRegion(Microsoft.Kinect.Toolkit.Controls.KinectRegion)">
+            <summary>
+            Binds the Kinect Sensor in use to the KinectRegion provided as an argument
+            </summary>
+            <param name="region"> The Kinect Region you want to bind a sensor to </param>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectApi.unbindRegion(Microsoft.Kinect.Toolkit.Controls.KinectRegion)">
+            <summary>
+            Unbinds the Kinect Region in use
+            </summary>
+        </member>
+        <member name="E:YouInteract.YouBasic.KinectApi.ColorStreamEvent">
+            <summary>
+            This is the Color Event that contains the UserInfo Array to be read by the developer
+            </summary>
+        </member>
+        <member name="E:YouInteract.YouBasic.KinectApi.InteractionEvent">
+            <summary>
+            This is the Interaction Event that contains the UserInfo Array to be read by the developer
+            </summary>
+        </member>
+        <member name="E:YouInteract.YouBasic.KinectApi.SkeletonEvent">
+            <summary>
+            This is the Skeleton Event that contains the Skeleton Array to be read by the developer
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouBasic.KinectApi.EventHandler">
+            <summary>
+            Event Handler
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.KinectHoverButton">
+            <summary>
+            A button that continually triggers a click when the mouse or hand pointer hovers over it
+            (Microsoft Copyright)
+            </summary>
+        </member>
+        <member name="F:YouInteract.YouInteractAPI.KinectHoverButton.IsHandPointerOverProperty">
+            <summary>
+            IsHandPointerOver dependency property for use in the control template triggers
+            </summary>
+        </member>
+        <member name="F:YouInteract.YouInteractAPI.KinectHoverButton.IsInDesignMode">
+            <summary>
+            Boolean value to tell us if the control is being displayed in the Visual Studio designer
+            </summary>
+        </member>
+        <member name="F:YouInteract.YouInteractAPI.KinectHoverButton.repeatTimer">
+            <summary>
+            Timer to handle triggering the click events
+            </summary>
+        </member>
+        <member name="P:YouInteract.YouInteractAPI.KinectHoverButton.IsHandPointerOver">
+            <summary>
+            Boolean value that returns true if a mouse or hand pointer is over this button
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouBasic.KinectRequirements">
+            <summary>
+            A class used to identify the KinectRequirements of a certain page, 
+            used to optimize application performance
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectRequirements.#ctor(System.Boolean,System.Boolean,System.Boolean)">
+            <summary>
+            A class that determines if the SkeletonStream and the InteractionStream will be activated
+            </summary>
+            <param name="kinectRegion">Whether the page will have a KinectRegion or not (<b><i>true</i></b> or <b><i>false</i></b>)</param>
+            <param name="skeleton">Wheter the SkeletonStream will be activated or not (<b><i>true</i></b> or <b><i>false</i></b>)</param>
+            <param name="interaction">Wheter the InteractionStream will be activated or not (<b><i>true</i></b> or <b><i>false</i></b>)</param>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectRequirements.getSkeletonStreamReq">
+            <summary>
+            Function for getting the SkeletonStream requirement value
+            </summary>
+            <returns>SkeletonStream Requirement Value</returns>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectRequirements.getInteractionStreamReq">
+            <summary>
+            Function for getting the InteractionStream requirement value
+            </summary>
+            <returns>SkeletonStream Requirement Value</returns>
+        </member>
+        <member name="M:YouInteract.YouBasic.KinectRequirements.getKinectRegionReq">
+            <summary>
+            Function for getting the KinectRegion requirement value
+            </summary>
+            <returns>SkeletonStream Requirement Value</returns>
+        </member>
+        <member name="T:YouInteract.YouInteractAPI.YouButton">
+            <summary>
+            Framework element to be inserted as a Button
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.YouButton.#ctor">
+            <summary>
+            Constructor for MyButton
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.YouButton.Initialise">
+            <summary>
+            Initialization Routine
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.YouButton.onHandPointerGripReleaseCaptured(System.Object,Microsoft.Kinect.Toolkit.Controls.HandPointerEventArgs)">
+            <summary>
+            Checks if Grip Release Captured
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.YouButton.OnHandPointerLeave(System.Object,Microsoft.Kinect.Toolkit.Controls.HandPointerEventArgs)">
+            <summary>
+            Checks if Hand Left a Kinect Button
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.YouButton.OnHandPointerEnter(System.Object,Microsoft.Kinect.Toolkit.Controls.HandPointerEventArgs)">
+            <summary>
+            Checks if Hand Entered a Kinect Button
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.YouButton.OnHandPointerGripCaptured(System.Object,Microsoft.Kinect.Toolkit.Controls.HandPointerEventArgs)">
+            <summary>
+            Checks if a Grip Gesture is Captured
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouInteractAPI.YouButton.getActiveHand">
+            <summary>
+            Function that returns the Hand that is hovering the YouButton
+            </summary>
+            <returns>The hand that entered/hovers the YouBUtton</returns>
+        </member>
+        <member name="E:YouInteract.YouInteractAPI.YouButton.EnterEvent">
+            <summary>
+            Event of Hand Entering
+            </summary>
+        </member>
+        <member name="E:YouInteract.YouInteractAPI.YouButton.LeaveEvent">
+            <summary>
+            Event of Hand Leaving
+            </summary>
+        </member>
+        <member name="E:YouInteract.YouInteractAPI.YouButton.ReleaseEvent">
+            <summary>
+            Event of Grip Release
+            </summary>
+        </member>
+        <member name="E:YouInteract.YouInteractAPI.YouButton.GripEvent">
+            <summary>
+            Event of Grip 
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouPlugin_Developing.YouWindow">
+            <summary>
+            Auxiliary Class for reading the screens height and width
+            Contains function for setting up simples menus
+            </summary>
+        </member>
+        <member name="F:YouInteract.YouPlugin_Developing.YouWindow.Height">
+            <summary>
+            The height value of the display
+            </summary>
+        </member>
+        <member name="F:YouInteract.YouPlugin_Developing.YouWindow.Width">
+            <summary>
+            The width value of the display
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouWindow.setWindow(System.Double,System.Double)">
+            <summary>
+            To set the screen measures
+            </summary>
+            <param name="height">Screen Height</param>
+            <param name="width">Screen Width</param>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouWindow.getHeight">
+            <summary>
+            Function for getting the screens height
+            </summary>
+            <returns>Returns the screen's height</returns>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouWindow.getWidth">
+            <summary>
+            Function for getting the screens width
+            </summary>
+            <returns>Returns the screen's width </returns>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouWindow.initLogo(System.Windows.Controls.Image,System.Double,System.Double)">
+            <summary>
+            Inserts the YouInteract Logo into an image
+            </summary>
+            <param name="logo"> A image file that will receive the BitMapImage of the logo</param>
+            <param name="w"> Width of the image</param>
+            <param name="h"> Height of the image</param>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouWindow.bitmapSource(System.Windows.Media.Imaging.BitmapImage,System.String,System.UriKind)">
+            <summary>
+            Set a source of an image to a bitmap
+            </summary>
+            <param name="bitmap"></param>
+            <param name="source"></param>
+            <param name="type"></param>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouWindow.setScrollArrows(YouInteract.YouInteractAPI.KinectHoverButton,YouInteract.YouInteractAPI.KinectHoverButton,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Set the Scroller Arrows Position and Size in the Canvas
+            </summary>
+            <param name="ScrollLeft">Kinect Hover Button from the left side</param>
+            <param name="ScrollRight">Kinect Hover Button from the right side</param>
+            <param name="h">Arrow Height</param>
+            <param name="w">Arrow Width</param>
+            <param name="lTop">Left Arrow Canvas Top Position</param>
+            <param name="lLeft">Left Arrow Canvas Left Position</param>
+            <param name="rTop">Right Arrow Canvas Top Position</param>
+            <param name="rLeft">Right Arrow Canvas Left Position</param>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouWindow.setUserViewer(Microsoft.Kinect.Toolkit.Controls.KinectUserViewer,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Set the User Viewer Position and Size in the Canvas
+            </summary>
+            <param name="Viewer">Kinect User Viewer Control</param>
+            <param name="w">User Viewer Width</param>
+            <param name="h">User Viewer Height</param>
+            <param name="setBottom">User Viewer Set Bottom Canvas</param>
+            <param name="setRight">User Viewer Set Right Canvas</param>
+        </member>
+        <member name="T:YouInteract.YouPlugin_Developing.YouNavigation">
+            <summary>
+            Class for developers to Navigate between frames of theire application
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouNavigation.requestFrameChange(YouInteract.YouBasic.YouPlugin,System.String)">
+            <summary>
+            Requests the Navigation Class for a Frame Change
+            </summary>
+            <param name="sourcePage">A reference of the window calling the Navigation Class (usually <b><i>this</i></b>)</param>
+            <param name="destinationName">The name of the destination Page</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:YouInteract.YouPlugin_Developing.YouNavigation.navigateToMainMenu(YouInteract.YouBasic.YouPlugin)" -->
+        <member name="E:YouInteract.YouPlugin_Developing.YouNavigation.NavigateToMainMenu">
+            <summary>
+            The Event raised for navigating to the mainMenu. Do not use this method
+            instead use the method navigateToMainMenu
+            </summary>
+        </member>
+        <member name="E:YouInteract.YouPlugin_Developing.YouNavigation.NavigationRequest">
+            <summary>
+            The event raised to inform the YouPluginManager of a Navigation Request
+            with the application name and the destination page's name
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouPlugin_Developing.YouNavigation.EventHandler">
+            <summary>
+            The event handler
+            </summary>
+            <param name="e">A string</param>
+        </member>
+        <member name="T:YouInteract.YouPlugin_System.YouPluginManager">
+            <summary>
+            Used for Managing and Navigating through the Pages added to YouInteract
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouPlugin_System.YouPluginManager.#ctor(System.String[])">
+            <summary>
+            The Constructor of YouPluginManager. It will load Plugins based on which apps are active.
+            </summary>
+            <param name="activeApps">A String Array containing the name of the active Applications</param>
+        </member>
+        <member name="M:YouInteract.YouPlugin_System.YouPluginManager.YouNavigation_NavigationRequest(System.String)">
+            <summary>
+            Navigation Request
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouPlugin_System.YouPluginManager.freeNavigate(System.String)">
+            <summary>
+            Our Navigation Platform, not public for security reasons
+            </summary>
+            <param name="appName">The destination app name</param>
+        </member>
+        <member name="M:YouInteract.YouPlugin_System.YouPluginManager.updateKinect(YouInteract.YouBasic.KinectRequirements)">
+            <summary>
+            Updates the Kinect's KinectRequiremts, should only be used
+            in the Host's Navigation Handler method. Not to be used on pages
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="E:YouInteract.YouPlugin_System.YouPluginManager.FrameReady">
+            <summary>
+            The event launched when a frame is ready to be navigated to
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouPlugin_System.YouPluginManager.NavigateArgs">
+            <summary>
+            An auxiliary class that contains the destination Page so we can change the frame in the MainWindow
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouPlugin_System.YouPluginManager.NavigationEventHandler">
+            <summary>
+            Event Handler for when a frame is ready to be navigated to
+            </summary>
+            <param name="e">The destination page, as an argument</param>
+        </member>
+        <member name="T:YouInteract.YouPlugin_System.YouPluginManager.KinectRequirementsArgs">
+            <summary>
+            Class for the KinectRequirementsArgs
+            </summary>
+        </member>
+        <member name="P:YouInteract.YouPlugin_System.YouPluginManager.KinectRequirementsArgs.req">
+            <summary>
+            The KinectRequirements
+            </summary>
+        </member>
+        <member name="T:YouInteract.YouBasic.YouPlugin">
+            <summary>
+            The Interface that must be implemented by all Pages
+            </summary>
+        </member>
+        <member name="M:YouInteract.YouBasic.YouPlugin.getName">
+            <summary>
+            A function that returns the Page's Name
+            </summary>
+            <returns>The page's Name (usually <b><i>this.Name</i></b>)</returns>
+        </member>
+        <member name="M:YouInteract.YouBasic.YouPlugin.getAppName">
+            <summary>
+            A function that returns the name of the App on which the Page is inserted
+            </summary>
+            <returns>The application's name</returns>
+        </member>
+        <member name="M:YouInteract.YouBasic.YouPlugin.getPage">
+            <summary>
+            A function that returns an instance of the page
+            </summary>
+            <returns>The page's reference (usually <b><i>this</i></b>)</returns>
+        </member>
+        <member name="M:YouInteract.YouBasic.YouPlugin.getKinectRequirements">
+            <summary>
+            A function to indentify a page's Kinect Requirements
+            </summary>
+            <returns>The kinect Requirements for the page (usually new KinectRequirements(bool,bool,bool)</returns>
+        </member>
+        <member name="M:YouInteract.YouBasic.YouPlugin.getRegion">
+            <summary>
+            A function that returns an instance of the Kinect Region
+            </summary>
+            <returns>The Kinect region of the page (if used)(usually null or this."kinectRegionName"))</returns>
+        </member>
+        <member name="M:YouInteract.YouBasic.YouPlugin.getIsFirstPage">
+            <summary>
+            A function that returns wheter the page is the starting page of a plugin
+            </summary>
+            <returns>Wheter the page is the starting page of the app or not (usually true or false, only one true per app)</returns>
+        </member>
+        <member name="T:YouInteract.YouPlugin_Developing.YouXMLFetcher">
+            <summary>
+            Contains the events to get the xml files from the data base.
+            </summary>
+            <returns>The XML page for the application if its created. Null if it isn't</returns>
+        </member>
+        <member name="M:YouInteract.YouPlugin_Developing.YouXMLFetcher.getAppXml(YouInteract.YouBasic.YouPlugin)">
+            <summary>
+            Get a XML file with the App Information
+            </summary>
+        </member>
+    </members>
+</doc>

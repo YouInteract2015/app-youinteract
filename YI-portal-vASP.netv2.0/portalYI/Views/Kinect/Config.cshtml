@@ -1,0 +1,181 @@
+﻿@model IEnumerable<portalYI.Models.kinect_configs>
+
+
+@{
+    ViewBag.Title = "Config";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header">
+                <i class="list layout icon"></i> LIST OF SETTINGS AVAILABLE 
+            </h3>
+
+
+            <table class="ui black table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name/Description</th>
+                        <th>Theme Name</th>
+                        <th>Scheduler Name</th>
+                        <th>Edit</th>
+                        <th>Applications</th>
+                        <th>Remove</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+
+                    
+
+                    @foreach (var item in Model)
+{
+    <tr>
+
+        <td>@Html.DisplayFor(modelItem => item.id) </td>
+        <td>
+            <b>@Html.DisplayFor(modelItem => item.title)</b> <br /> @Html.DisplayFor(modelItem => item.description)
+
+
+        </td>
+        <td>@Html.DisplayFor(modelItem => item.kinect_templates.title)</td>
+        <td>@Html.DisplayFor(modelItem => item.kinect_schedulers.title)</td>
+
+        <td>
+            <a class="ui vertical animated button" href="EditConfig">
+                <div class="hidden content">Edit</div>
+                <div class="visible content">
+                    <i class="edit icon"></i>
+                </div>
+            </a>
+        </td>
+
+        <td>
+            <a class="ui vertical animated button" href="ChoiceAPPs">
+                <div class="hidden content">Choose</div>
+                <div class="visible content">
+                    <i class="cubes icon"></i>
+                </div>
+            </a>
+        </td>
+
+        <td>
+            <button class="ui vertical animated button" onclick="functionDelete()">
+                <div class="hidden content">Remove</div>
+                <div class="visible content">
+                    <i class="trash icon"></i>
+                </div>
+            </button>
+        </td>
+
+    </tr>
+}
+                    
+
+                    <!-- nova linha  -->
+
+
+                </tbody>
+            </table>
+
+
+
+
+
+
+            <br />
+
+           
+
+
+
+
+            <h3 class="ui inverted white block header"> CREATE A NEW CONFIGURATION </h3>
+
+
+            @using (Html.BeginForm("InsertConfig", "Kinect", FormMethod.Post))
+            {
+
+                <div class="ui form">
+                    <div class="two fields">
+                        <div class="field">
+                            <label>Title:</label>
+                            <input type="text" name="titleConfig" id="titleConfig">
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div class="ui form">
+                    <div class="field">
+                        <label>Description:</label>
+                        <input type="text" name="descriConfig" id="descriConfig">
+                    </div>
+                </div>
+                <br />
+
+                
+                 <b> Themes (available themes, to add new themes <a href="Theme">click here</a>): </b>
+
+            <div class="ui selection dropdown">
+                <input type="hidden" name="gender">
+                <div class="default text">  </div>
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    @foreach (var item in Model)
+                    {
+                        <a class="item" name="idTemplate" data-value="@item.kinect_templates.id" >@item.kinect_templates.title</a>
+                    }
+
+                </div>
+            </div>
+            <div>
+
+            </div>
+
+
+            <br />
+            <b> Schedulers (available schedulers, to add new themes <a href="Scheduler">click here</a>): </b>
+
+            <div class="ui selection dropdown">
+                <input type="hidden" name="gender">
+                <div class="default text">  </div>
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    @foreach (var item in Model)
+                    {
+                        <a class="item" name="idScheduler" data-value="@item.kinect_schedulers.id" >@item.scheduler_id</a>
+                    }
+                </div>
+            </div>
+
+
+                <br />
+                <p align="right">
+                    <input type="submit" value="Add new Theme" class="ui teal button" />
+                </p>
+
+
+            }
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+

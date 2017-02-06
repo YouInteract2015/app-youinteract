@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinectApp>
+  <Themes>
+    <Entry>
+      <Theme_id>1</Theme_id>
+      <Theme_name>Default</Theme_name>
+      <Active>True</Active>
+      <Theme_font>N/A</Theme_font>
+    </Entry>
+  </Themes>
+  <Important_dates>
+  </Important_dates>
+  <Apps>
+    <Entry>
+      <Apps_name>You_AirPaint</Apps_name>
+      <App_id>3</App_id>
+      <App_desc>App onde poderá elaborar um desenhar com as suas próprias mãos!</App_desc>
+      <Times_played>0</Times_played>
+      <Highscore>0</Highscore>
+      <Active>True</Active>
+      <Ordernumber>0</Ordernumber>
+      <Dll>You_AirPaint</Dll>
+    </Entry>
+    <Entry>
+      <Apps_name>You_Pong</Apps_name>
+      <App_id>1</App_id>
+      <App_desc>Pong Game</App_desc>
+      <Times_played>0</Times_played>
+      <Highscore>0</Highscore>
+      <Active>True</Active>
+      <Ordernumber>0</Ordernumber>
+      <Dll>You_Pong</Dll>
+    </Entry>
+    <Entry>
+      <Apps_name>You_Weather</Apps_name>
+      <App_id>2</App_id>
+      <App_desc>Aplicação que permite consultar o estado do tempo em qualquer parte do mundo.</App_desc>
+      <Times_played>0</Times_played>
+      <Highscore>0</Highscore>
+      <Active>True</Active>
+      <Ordernumber>0</Ordernumber>
+      <Dll>You_Weather</Dll>
+    </Entry>
+    <Entry>
+      <Apps_name>You_Gallery</Apps_name>
+      <App_id>4</App_id>
+      <App_desc>Visualizar fotografias/imagens com as respectivas descrições. O conteúdo apresentado pode ser configurado através do botão "ConfigAPP"</App_desc>
+      <Times_played>0</Times_played>
+      <Highscore>0</Highscore>
+      <Active>True</Active>
+      <Ordernumber>0</Ordernumber>
+      <Dll>You_Gallery</Dll>
+    </Entry>
+  </Apps>
+</KinectApp>

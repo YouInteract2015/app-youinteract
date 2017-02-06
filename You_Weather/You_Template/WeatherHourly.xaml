@@ -1,0 +1,567 @@
+﻿<Page x:Class="You_Weather.WeatherHourly"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:k="http://schemas.microsoft.com/kinect/2013"
+      xmlns:u="clr-namespace:YouInteract.YouInteractAPI;assembly=YouInteract"
+      mc:Ignorable="d"
+
+      DataContext="{Binding RelativeSource={RelativeSource Self}}"
+      Width="{DynamicResource {x:Static SystemParameters.PrimaryScreenWidth}}"
+      Height="{DynamicResource {x:Static SystemParameters.PrimaryScreenHeight}}"
+      Cursor="Hand"
+      Title="WeatherHourly" x:Name="YouWeatherHourly">
+
+    <Page.Resources>
+
+        <PathGeometry x:Key="ChevronGeometry" x:Shared="False">
+            F1M150.001,146.9932L126.565,169.3822L126.565,153.5962L150.001,130.6182L173.435,153.5962L173.435,169.3822z
+        </PathGeometry>
+
+        <Path x:Key="ChevronUp" Height="48" Width="48" Stretch="Uniform" Canvas.Top="0" x:Shared="False"
+              Data="{StaticResource ChevronGeometry}"
+              Fill="{Binding FallbackValue=White, Path=Foreground,RelativeSource={RelativeSource AncestorType={x:Type u:KinectHoverButton}}}">
+            <Path.RenderTransformOrigin>0.5,0.5</Path.RenderTransformOrigin>
+            <Path.RenderTransform>
+                <RotateTransform Angle="0" />
+            </Path.RenderTransform>
+        </Path>
+
+        <Path x:Key="ChevronDown" Height="48" Width="48" Stretch="Uniform" Canvas.Top="0" x:Shared="False"
+              Data="{StaticResource ChevronGeometry}"
+              Fill="{Binding FallbackValue=White, Path=Foreground,RelativeSource={RelativeSource AncestorType={x:Type u:KinectHoverButton}}}">
+            <Path.RenderTransformOrigin>0.5,0.5</Path.RenderTransformOrigin>
+            <Path.RenderTransform>
+                <RotateTransform Angle="180" />
+            </Path.RenderTransform>
+        </Path>
+
+        <Style x:Key="KinectHoverButtonStyle" TargetType="{x:Type u:KinectHoverButton}">
+            <Setter Property="Background" Value="DodgerBlue" />
+            <Setter Property="Opacity" Value="0.8" />
+            <Setter Property="BorderBrush" Value="DarkGray" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type u:KinectHoverButton}">
+                        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                              Background="{TemplateBinding Background}" Width="{TemplateBinding Width}"
+                              Height="{TemplateBinding Height}">
+                            <Border BorderThickness="{TemplateBinding BorderThickness}"
+                                    BorderBrush="{TemplateBinding BorderBrush}">
+                                <ContentPresenter HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                                                  Content="{TemplateBinding Content}" />
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Foreground" Value="LightGray" />
+                    <Setter Property="BorderBrush" Value="LightGray" />
+                    <Setter Property="Background" Value="Transparent" />
+                </Trigger>
+                <Trigger Property="IsHandPointerOver" Value="True">
+                    <Setter Property="Background" Value="RoyalBlue" />
+                    <Setter Property="Foreground" Value="White" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="KinectHoverButtonScrollUpStyle" TargetType="{x:Type u:KinectHoverButton}"
+               BasedOn="{StaticResource KinectHoverButtonStyle}">
+            <Setter Property="Content" Value="{StaticResource ChevronUp}" />
+        </Style>
+
+        <Style x:Key="KinectHoverButtonScrollDownStyle" TargetType="{x:Type u:KinectHoverButton}"
+               BasedOn="{StaticResource KinectHoverButtonStyle}">
+            <Setter Property="Content" Value="{StaticResource ChevronDown}" />
+        </Style>
+
+        <Style x:Key="TopButtonsStyle" TargetType="{x:Type FrameworkElement}">
+            <Setter Property="Height" Value="{Binding ButtonHeight}" />
+            <Setter Property="Width" Value="{Binding ButtonWidth}" />
+        </Style>
+
+    </Page.Resources>
+    <Grid>
+        <k:KinectRegion x:Name="KinectRegion">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="{Binding ButtonHeight}" />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Canvas x:Name="TopBar" Grid.Row="0">
+                    <Canvas.Background>
+                        <ImageBrush Opacity="0.5"
+                                    ImageSource="/You_Weather;component/Images/Themes/Theme1/Background/background.jpg"
+                                    Stretch="UniformToFill" />
+                    </Canvas.Background>
+                    <u:YouButton Style="{StaticResource TopButtonsStyle}" x:Name="Main" Label="Main"
+                                 Click="ButtonOnClick" Background="{x:Null}" ToolTip="Return to the Main Menu"
+                                 BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                        <Image Source="/You_Weather;component/Images/Themes/Theme1/Navigation/back.png" Stretch="Fill" />
+                    </u:YouButton>
+                    <u:YouButton Style="{StaticResource TopButtonsStyle}" Canvas.Right="0" x:Name="HelpButton"
+                                 Label="Help" Click="ButtonHelpOnClick" ToolTip="View Weather's Help"
+                                 Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}"
+                                 LabelBackground="{x:Null}">
+                        <Image Source="/You_Weather;component/Images/Themes/Theme1/Navigation/help.png" Stretch="Fill" />
+                    </u:YouButton>
+                    <u:YouButton Style="{StaticResource TopButtonsStyle}"
+                                 Canvas.Right="{Binding ButtonWidth}" x:Name="MapButton" Label="Help"
+                                 Click="ButtonMapOnClick" ToolTip="Change Weather Location" Background="{x:Null}"
+                                 BorderBrush="{x:Null}" Foreground="{x:Null}" LabelBackground="{x:Null}">
+                        <Image Source="/You_Weather;component/Images/Misc/map.png" Stretch="Fill" />
+                    </u:YouButton>
+                    <!--640-->
+                    <Viewbox Canvas.Left="{Binding HomeButtonOffset}" Style="{StaticResource TopButtonsStyle}">
+                        <u:YouButton x:Name="HomeButton" Label="Help" Click="ButtonHomeOnClick"
+                                     ToolTip="See the Weather Home Page" BorderBrush="{x:Null}"
+                                     Foreground="{x:Null}" LabelBackground="{x:Null}">
+                            <u:YouButton.Background>
+                                <ImageBrush ImageSource="/You_Weather;component/Images/Misc/icon_border.png"
+                                            Stretch="Fill" />
+                            </u:YouButton.Background>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition Height="50" />
+                                </Grid.RowDefinitions>
+                                <Label x:Name="HomeTopLabel" HorizontalContentAlignment="Center" FontWeight="Normal"
+                                       FontFamily="Verdana" Content="Home" HorizontalAlignment="Center" FontSize="40" />
+                                <Image x:Name="UnderlineImageBackHome" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_2.png"
+                                       Stretch="Uniform" Width="190" />
+                                <Image x:Name="UnderlineImageBackActHome" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_1.png"
+                                       Stretch="Uniform" Width="190" Opacity="0" />
+                            </Grid>
+                        </u:YouButton>
+                    </Viewbox>
+                    <!--860-->
+                    <Viewbox Canvas.Left="{Binding HourlyButtonOffset}" Style="{StaticResource TopButtonsStyle}">
+                        <u:YouButton x:Name="TodayButton" Label="Help" Click="ButtonHourlyOnClick"
+                                     ToolTip="See the Detailed Weather" BorderBrush="{x:Null}"
+                                     Foreground="{x:Null}" LabelBackground="{x:Null}">
+                            <u:YouButton.Background>
+                                <ImageBrush ImageSource="/You_Weather;component/Images/Misc/icon_border.png"
+                                            Stretch="Fill" />
+                            </u:YouButton.Background>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition Height="50" />
+                                </Grid.RowDefinitions>
+                                <Label x:Name="HourlyTopLabel" HorizontalContentAlignment="Center" FontWeight="Bold"
+                                       FontFamily="Verdana" Content="Details" HorizontalAlignment="Center"
+                                       FontSize="40" />
+                                <Image x:Name="UnderlineImageBackHourly" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_2.png"
+                                       Stretch="Uniform" Width="190" />
+                                <Image x:Name="UnderlineImageBackActHourly" Grid.Row="1"
+                                       Source="/You_Weather;component/Images/Misc/Underline_1.png"
+                                       Stretch="Uniform" Width="190" Opacity="1" />
+                            </Grid>
+                        </u:YouButton>
+                    </Viewbox>
+                </Canvas>
+                <!--100,0,100,0-->
+                <Grid Grid.Row="1" Margin="{Binding GridMargin}">
+                    <Grid.ColumnDefinitions>
+                        <!--500-->
+                        <ColumnDefinition Width="{Binding GridWidth}" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="1" CanVerticallyScroll="False" CanHorizontallyScroll="False"
+                                Orientation="Vertical" HorizontalAlignment="Right"
+                                VerticalAlignment="Top">
+                        <!--50 / Castro Daire, Portugal-->
+                        <Label x:Name="LocalNameLabel"
+                               Foreground="White" FontFamily="Calibri" FontSize="{Binding LocationFontSize}"
+                               FontWeight="Bold">
+                            <TextBlock>
+                                <TextBlock.Text>
+                                    <MultiBinding StringFormat="{}{0}, {1}">
+                                        <Binding Path="LocationCity" />
+                                        <Binding Path="LocationCountry" />
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Label>
+                        <!--25 / OpenWeatherMap.Org-->
+                        <Label x:Name="ServiceLabel" Margin="0, -10, 0, 0"
+                               HorizontalAlignment="Right" Foreground="White" FontFamily="Verdana"
+                               FontSize="{Binding ServiceFontSize}" Content="{Binding Service}" />
+                    </StackPanel>
+                    <StackPanel Grid.Column="1" CanVerticallyScroll="False" CanHorizontallyScroll="False"
+                                Orientation="Vertical" HorizontalAlignment="Right"
+                                VerticalAlignment="Bottom">
+                        <Label x:Name="LErrorLabel" Margin="0, 0, 0, 5" Foreground="{Binding LErrorForeground}"
+                               FontFamily="Verdana" FontWeight="Bold"
+                               FontSize="{Binding ServiceFontSize}" Content="{Binding LErrorText}" />
+                        <!--Last Updated: 16/04/2014, 22:45-->
+                        <Label HorizontalAlignment="Right" x:Name="LastUpdatedLabel" Margin="0, 0, 0, 25"
+                               Foreground="{Binding LUpdateForeground}"
+                               FontFamily="Verdana" FontWeight="{Binding LUpdateWeight}"
+                               FontSize="{Binding ServiceFontSize}">
+                            <TextBlock>
+                                <TextBlock.Text>
+                                    <Binding StringFormat="{}Last Updated: {0:dd/MM/yyyy}, {0:HH:mm:ss}"
+                                             Path="LUpdateDate" />
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Label>
+                    </StackPanel>
+                    <Border x:Name="HourlyBorder" Grid.Column="0" BorderBrush="{x:Null}" BorderThickness="3"
+                            VerticalAlignment="Bottom"
+                            HorizontalAlignment="Right"
+                            Height="{Binding WindowBigHeight}" Width="{Binding WindowBigWidth}"
+                            Margin="5, 5, 5, 105">
+                        <Border.Background>
+                            <SolidColorBrush Color="MediumBlue" Opacity="0.4" />
+                            <!--<ImageBrush Opacity="0.5"
+                                    ImageSource="/DETI_Interact_v3;component/Images/Theme1/Background/background.jpg"
+                                    Stretch="UniformToFill" />-->
+                        </Border.Background>
+                        <Viewbox VerticalAlignment="Top" HorizontalAlignment="Center"
+                                 Height="{Binding WindowBigHeight}" Width="{Binding WindowBigWidth}">
+                            <Grid Margin="10" Width="475">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition />
+                                    <ColumnDefinition />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                    <RowDefinition />
+                                </Grid.RowDefinitions>
+
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="1" Grid.Column="0" />
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="3" Grid.Column="0" />
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="5" Grid.Column="0" />
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="7" Grid.Column="0" />
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="1" Grid.Column="1" />
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="3" Grid.Column="1" />
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="5" Grid.Column="1" />
+                                <Grid Background="Green" Opacity="0.2" Grid.Row="7" Grid.Column="1" />
+
+                                <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center"
+                                           TextWrapping="WrapWithOverflow" Grid.Row="0"
+                                           Grid.Column="0"
+                                           Foreground="White" FontSize="40" FontWeight="Bold" FontFamily="Calibri"
+                                           Margin="5, 0, 0, 0" Text="{Binding DayName}" />
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="1"
+                                       Grid.Column="0" Foreground="LightGray" FontSize="25"
+                                       FontFamily="Calibri">
+                                    State:
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="2"
+                                       Grid.Column="0" Foreground="LightGray" FontSize="25"
+                                       FontFamily="Calibri">
+                                    Temperature:
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="3"
+                                       Grid.Column="0" Foreground="LightGray" FontSize="25"
+                                       FontFamily="Calibri">
+                                    Humidity:
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="4"
+                                       Grid.Column="0" Foreground="LightGray" FontSize="25"
+                                       FontFamily="Calibri">
+                                    Pressure:
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="5"
+                                       Grid.Column="0" Foreground="LightGray" FontSize="25"
+                                       FontFamily="Calibri">
+                                    Wind
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="5"
+                                       Grid.Column="0" Foreground="DarkGray" FontSize="25"
+                                       FontFamily="Calibri" Margin="70, 0, 0, 0">
+                                    Speed:
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="6"
+                                       Grid.Column="0" Foreground="DarkGray" FontSize="25"
+                                       FontFamily="Calibri" Margin="70, 0, 0, 0">
+                                    Direction:
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="7"
+                                       Grid.Column="0" Foreground="LightGray" FontSize="25"
+                                       FontFamily="Calibri">
+                                    Clouds:
+                                </Label>
+                                <Label HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="8"
+                                       Grid.Column="0" Foreground="LightGray" FontSize="25"
+                                       FontFamily="Calibri">
+                                    Precipitation:
+                                </Label>
+
+                                <Image Grid.Row="0" Grid.Column="1" VerticalAlignment="Center"
+                                       HorizontalAlignment="Right"
+                                       Stretch="Uniform" Height="50" Width="50">
+                                    <Image.Source>
+                                        <Binding Path="WeatherIconPath" />
+                                    </Image.Source>
+                                </Image>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center"
+                                           TextWrapping="WrapWithOverflow" Grid.Row="1" Grid.Column="1"
+                                           Foreground="White" FontSize="27" FontFamily="Calibri"
+                                           Margin="0, 10, 5, 10" Text="{Binding WeatherText}" />
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center"
+                                           TextWrapping="WrapWithOverflow" Grid.Row="2" Grid.Column="1"
+                                           Foreground="White" FontSize="25" FontFamily="Verdana"
+                                           Margin="0, 10, 5, 10" Text="{Binding WeatherTemperature}" />
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center"
+                                           TextWrapping="WrapWithOverflow" Grid.Row="3" Grid.Column="1"
+                                           Foreground="White" FontSize="25" FontFamily="Verdana"
+                                           Margin="0, 10, 5, 10" Text="{Binding WeatherHumidity}" />
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center"
+                                           TextWrapping="WrapWithOverflow" Grid.Row="4" Grid.Column="1"
+                                           Foreground="White" FontSize="25" FontFamily="Verdana"
+                                           Margin="0, 10, 5, 10" Text="{Binding WeatherPressure}" />
+                                <StackPanel Grid.Row="5" Grid.Column="1" CanVerticallyScroll="False"
+                                            CanHorizontallyScroll="False"
+                                            Orientation="Vertical" VerticalAlignment="Center"
+                                            HorizontalAlignment="Right">
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="25" FontFamily="Verdana"
+                                               Margin="0, 10, 5, 0" Text="{Binding WeatherWindSpeedValue}" />
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="27" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 10" Text="{Binding WeatherWindSpeedText}" />
+                                </StackPanel>
+                                <StackPanel Grid.Row="6" Grid.Column="1" CanVerticallyScroll="False"
+                                            CanHorizontallyScroll="False"
+                                            Orientation="Vertical" VerticalAlignment="Center"
+                                            HorizontalAlignment="Right">
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="25" FontFamily="Verdana"
+                                               Margin="0, 10, 5, 0" Text="{Binding WeatherWindDirectionValue}" />
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="27" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 10" Text="{Binding WeatherWindDirectionText}" />
+                                </StackPanel>
+                                <StackPanel Grid.Row="7" Grid.Column="1" CanVerticallyScroll="False"
+                                            CanHorizontallyScroll="False"
+                                            Orientation="Vertical" VerticalAlignment="Center"
+                                            HorizontalAlignment="Right">
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="25" FontFamily="Verdana"
+                                               Margin="0, 10, 5, 0" Text="{Binding WeatherCloudsValue}" />
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="27" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 10" Text="{Binding WeatherCloudsText}" />
+                                </StackPanel>
+                                <StackPanel Grid.Row="8" Grid.Column="1" CanVerticallyScroll="False"
+                                            CanHorizontallyScroll="False"
+                                            Orientation="Vertical" VerticalAlignment="Center"
+                                            HorizontalAlignment="Right">
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="25" FontFamily="Verdana"
+                                               Margin="0, 10, 5, 0" Text="{Binding WeatherPrecipitationValue}" />
+                                    <TextBlock HorizontalAlignment="Right" TextWrapping="WrapWithOverflow"
+                                               Foreground="White" FontSize="27" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 10" Text="{Binding WeatherPrecipitationText}" />
+                                </StackPanel>
+
+                            </Grid>
+                        </Viewbox>
+                    </Border>
+                    <StackPanel x:Name="HourlyStackPanel" Grid.Column="1" VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                Orientation="Horizontal" CanHorizontallyScroll="False"
+                                CanVerticallyScroll="False">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition />
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <!-- 75, 110, 5, 110 / 150 -->
+                            <u:KinectHoverButton Grid.Row="0" Margin="{Binding HoverMargin}" VerticalAlignment="Top"
+                                                 Style="{StaticResource KinectHoverButtonScrollUpStyle}"
+                                                 x:Name="PanUp"
+                                                 Click="PageUpButtonClick" Width="{Binding HoverBtnSize}"
+                                                 Height="{Binding HoverBtnSize}" />
+                            <u:KinectHoverButton Grid.Row="1" Margin="{Binding HoverMargin}" VerticalAlignment="Bottom"
+                                                 Style="{StaticResource KinectHoverButtonScrollDownStyle}"
+                                                 x:Name="PanDown" Click="PageDownButtonClick"
+                                                 Width="{Binding HoverBtnSize}"
+                                                 Height="{Binding HoverBtnSize}" />
+                        </Grid>
+                        <!-- 5, 110, 0, 110 -->
+                        <k:KinectScrollViewer x:Name="ScrollViewer" HorizontalScrollBarVisibility="Disabled"
+                                              VerticalScrollBarVisibility="Visible" HoverBackground="Transparent"
+                                              Margin="{Binding ScrollViewerMargin}">
+                            <!-- 5, 5, 5, 5 -->
+                            <Border IsHitTestVisible="False" BorderBrush="{x:Null}" BorderThickness="3"
+                                    VerticalAlignment="Top"
+                                    HorizontalAlignment="Center"
+                                    Height="Auto" Width="{Binding WindowSmallWidth}"
+                                    Margin="{Binding BorderMargin}">
+                                <Border.Background>
+                                    <SolidColorBrush Color="MediumBlue" Opacity="0.4" />
+                                    <!--<ImageBrush Opacity="0.5"
+                                    ImageSource="/DETI_Interact_v3;component/Images/Theme1/Background/background.jpg"
+                                    Stretch="UniformToFill" />-->
+                                </Border.Background>
+                                <Viewbox VerticalAlignment="Top" HorizontalAlignment="Center"
+                                         Height="Auto" Width="{Binding WindowSmallWidth}">
+                                    <Grid x:Name="HourlyForecastListGrid" Margin="10" Width="475">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="100" />
+                                            <ColumnDefinition Width="75" />
+                                            <ColumnDefinition />
+                                            <ColumnDefinition Width="Auto" />
+                                        </Grid.ColumnDefinitions>
+                                        <!--<Grid.RowDefinitions>
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                        <RowDefinition />
+                                    </Grid.RowDefinitions>
+
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="1" Grid.Column="0" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="3" Grid.Column="0" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="5" Grid.Column="0" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="1" Grid.Column="1" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="3" Grid.Column="1" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="5" Grid.Column="1" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="1" Grid.Column="2" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="3" Grid.Column="2" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="5" Grid.Column="2" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="1" Grid.Column="3" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="3" Grid.Column="3" />
+                                    <Grid Background="Green" Opacity="0.2" Grid.Row="5" Grid.Column="3" />
+
+                                    <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0"
+                                           Grid.Column="0" Foreground="White" FontSize="15" FontWeight="Bold"
+                                           FontFamily="Calibri">
+                                        07/05
+                                    </Label>
+                                    <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="1"
+                                           Grid.Column="0" Foreground="LightGray" FontSize="15" Margin="15, 0, 25, 0"
+                                           FontFamily="Calibri">
+                                        0h-3h
+                                    </Label>
+                                    <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="2"
+                                           Grid.Column="0" Foreground="LightGray" FontSize="15" Margin="15, 0, 25, 0"
+                                           FontFamily="Calibri">
+                                        3h-6h
+                                    </Label>
+                                    <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="3"
+                                           Grid.Column="0" Foreground="LightGray" FontSize="15" Margin="15, 0, 25, 0"
+                                           FontFamily="Calibri">
+                                        6h-9h
+                                    </Label>
+                                    <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="4"
+                                           Grid.Column="0" Foreground="LightGray" FontSize="15" Margin="15, 0, 25, 0"
+                                           FontFamily="Calibri">
+                                        9h-12h
+                                    </Label>
+                                    <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="5"
+                                           Grid.Column="0" Foreground="LightGray" FontSize="15" Margin="15, 0, 25, 0"
+                                           FontFamily="Calibri">
+                                        12h-15h
+                                    </Label>
+                                    <Label VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="6"
+                                           Grid.Column="0" Foreground="LightGray" FontSize="15" Margin="15, 0, 25, 0"
+                                           FontFamily="Calibri">
+                                        15h-18h
+                                    </Label>
+
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="1" Grid.Column="1"
+                                               Foreground="White" FontSize="15" FontFamily="Verdana"
+                                               Margin="0, 0, 5, 0" Text="25 º" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="1" Grid.Column="2"
+                                               Foreground="White" FontSize="15" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 0" Text="xxx asdas d wq wqr we esgrsg dgtg ser" />
+                                    <Image Grid.Row="1" Grid.Column="3" HorizontalAlignment="Right" Width="25"
+                                           Height="25"
+                                           Stretch="Uniform" Source="http://openweathermap.org/img/w/04n.png" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="2" Grid.Column="1"
+                                               Foreground="White" FontSize="15" FontFamily="Verdana"
+                                               Margin="0, 0, 5, 0" Text="25 º" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="2" Grid.Column="2"
+                                               Foreground="White" FontSize="15" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 0" Text="xxx asdas d wq wqr we" />
+                                    <Image Grid.Row="2" Grid.Column="3" HorizontalAlignment="Right" Width="25"
+                                           Height="25"
+                                           Stretch="Uniform" Source="http://openweathermap.org/img/w/04n.png" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="3" Grid.Column="1"
+                                               Foreground="White" FontSize="15" FontFamily="Verdana"
+                                               Margin="0, 0, 5, 0" Text="25 º" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="3" Grid.Column="2"
+                                               Foreground="White" FontSize="15" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 0" Text="xxx asdas d wq wqr we esgrsg dgtg ser" />
+                                    <Image Grid.Row="3" Grid.Column="3" HorizontalAlignment="Right" Width="25"
+                                           Height="25"
+                                           Stretch="Uniform" Source="http://openweathermap.org/img/w/04n.png" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="4" Grid.Column="1"
+                                               Foreground="White" FontSize="15" FontFamily="Verdana"
+                                               Margin="0, 0, 5, 0" Text="88 º" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="4" Grid.Column="2"
+                                               Foreground="White" FontSize="15" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 0" Text="xxx asdas d wq wqr" />
+                                    <Image Grid.Row="4" Grid.Column="3" HorizontalAlignment="Right" Width="25"
+                                           Height="25"
+                                           Stretch="Uniform" Source="http://openweathermap.org/img/w/04n.png" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="5" Grid.Column="1"
+                                               Foreground="White" FontSize="15" FontFamily="Verdana"
+                                               Margin="0, 0, 5, 0" Text="25 º" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="5" Grid.Column="2"
+                                               Foreground="White" FontSize="15" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 0" Text="xxx asdas d wq" />
+                                    <Image Grid.Row="5" Grid.Column="3" HorizontalAlignment="Right" Width="25"
+                                           Height="25"
+                                           Stretch="Uniform" Source="http://openweathermap.org/img/w/04n.png" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="6" Grid.Column="1"
+                                               Foreground="White" FontSize="15" FontFamily="Verdana"
+                                               Margin="0, 0, 5, 0" Text="25 º" />
+                                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left"
+                                               TextWrapping="WrapWithOverflow" Grid.Row="6" Grid.Column="2"
+                                               Foreground="White" FontSize="15" FontFamily="Calibri"
+                                               Margin="0, 0, 5, 0" Text="xxx asdas d wq wqr we esgrsg dgtg ser" />
+                                    <Image Grid.Row="6" Grid.Column="3" HorizontalAlignment="Right" Width="25"
+                                           Height="25"
+                                           Stretch="Uniform" Source="http://openweathermap.org/img/w/04n.png" />-->
+
+                                    </Grid>
+                                </Viewbox>
+                            </Border>
+                        </k:KinectScrollViewer>
+                    </StackPanel>
+                </Grid>
+                <Grid.Background>
+                    <ImageBrush x:Name="WeatherWallImage"
+                                ImageSource="{Binding MainBackground}"
+                                Stretch="UniformToFill" />
+                </Grid.Background>
+            </Grid>
+        </k:KinectRegion>
+    </Grid>
+</Page>

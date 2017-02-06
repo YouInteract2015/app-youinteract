@@ -1,0 +1,132 @@
+﻿
+@model IEnumerable<portalYI.Models.kinect_templates>
+
+@{
+    ViewBag.Title = "Theme";
+    Layout = "~/Views/Shared/_Layoutafterlogin.cshtml";
+}
+
+<div class="ui vertical feature segment">
+    <div class="ui centered page grid">
+        <div class="fourteen wide column">
+            <h3 class="ui inverted white block header">
+                <i class="list layout icon"></i> List of available Themes
+            </h3>
+
+            <table class="ui black table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Title/Description</th>
+                        <th>Preview</th>
+                        <th>Remove</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.id)
+
+                            </td>
+                            <td>
+                                <b>@Html.DisplayFor(modelItem => item.title)</b>
+                                <br /> 
+                                @Html.DisplayFor(modelItem => item.description)
+                            </td>
+
+                            <td>
+
+                                <img class="ui small rounded image" src="@item.path">
+
+                            </td>
+                            <td>
+
+                                @using (Html.BeginForm("Delete","Kinect", new { id = @item.id }))
+                                {
+                                    @Html.AntiForgeryToken()
+                                    <p>
+                                        <input type="submit" value="Delete" /> |
+                                  
+                                    </p>
+                                }
+
+
+
+
+                                @Html.ActionLink("Delete", "Delete", new { id = @item.id})
+
+                              <!--
+                                  <button class="ui vertical animated button" onclick="functionDelete()">
+                                    <div class="hidden content">Delete</div>
+                                    <div class="visible content">
+                                        <i class="trash icon"></i>
+                                    </div>
+                                </button>
+
+                              -->  
+                            </td>
+
+                        </tr>
+
+                    }
+
+                  
+
+
+                </tbody>
+            </table>
+
+            <br />
+            
+            <!-- add temas   -->
+
+            <h3 class="ui inverted white block header"> Add new Themes </h3>
+
+
+            @using (Html.BeginForm("InsertTheme", "Kinect", FormMethod.Post, new { enctype = "multipart/form-data"}))
+            { 
+            
+                <div class="ui form">
+                    <div class="two fields">
+                        <div class="field">
+                            <label>Title:</label>
+                            <input type="text" name="titleTheme" id="titleTheme">
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <div class="ui form">
+                    <div class="field">
+                        <label>Description:</label>
+                        <input type="text" name="descriTheme" id="descriTheme">
+                    </div>
+                </div>
+                <br />
+                
+                <b>Theme background (recommended dimensions: 2560 × 1600, type: jpg png gif ):</b>
+                <br />
+                <div class="field">
+                    <input type="file" name="file" />
+                </div>
+
+                <br />
+                <p align="right">
+                    <input type="submit" value="Add new Theme" class="ui teal button" />
+                </p>
+    
+
+            }
+
+
+
+
+
+                </div>
+    </div>
+</div>
+
+
+ 

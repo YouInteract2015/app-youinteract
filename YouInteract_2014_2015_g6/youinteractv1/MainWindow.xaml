@@ -1,0 +1,14 @@
+﻿<Window x:Class="YouInteractV1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        mc:Ignorable="d" 
+        WindowStyle="None" WindowState="Maximized" Cursor="Hand" ResizeMode="NoResize"
+        Width="{DynamicResource {x:Static SystemParameters.MaximizedPrimaryScreenWidthKey}}" Height="{DynamicResource {x:Static SystemParameters.MaximumWindowTrackHeightKey}}" 
+        Title="YouInteractWindow">
+    <Grid>
+        <Frame x:Name="YouFrame" NavigationUIVisibility="Hidden"/>
+        
+    </Grid>
+</Window>
