@@ -1,11 +1,10 @@
-*****************************************************************
-*  YouInteract                                                  *
-*  Standalone Application with Kinect Interaction               *
-*  Web Portal to configurate multiple Standalone Applications   *
-*                                                               *
-*  Universidade de Aveiro @ 2015                                *
-*****************************************************************
 
+# YouInteract
+Standalone Application with Kinect Interaction
+Web Portal to configurate multiple Standalone Applications
+Universidade de Aveiro @ 2015
+
+--
 
 ### Information
 
